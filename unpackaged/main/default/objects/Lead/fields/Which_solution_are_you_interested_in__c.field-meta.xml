@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Which_solution_are_you_interested_in__c</fullName>
+    <externalId>false</externalId>
+    <label>Which solution are you interested in?</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Student Account</fullName>
+                <default>false</default>
+                <label>Student Account</label>
+            </value>
+            <value>
+                <fullName>Ultimate Account</fullName>
+                <default>false</default>
+                <label>Ultimate Account</label>
+            </value>
+            <value>
+                <fullName>Prestige Account</fullName>
+                <default>false</default>
+                <label>Prestige Account</label>
+            </value>
+            <value>
+                <fullName>Absa One Current Account</fullName>
+                <default>false</default>
+                <label>Absa One Current Account</label>
+            </value>
+            <value>
+                <fullName>Premier Banking Account</fullName>
+                <default>false</default>
+                <label>Premier Banking Account</label>
+            </value>
+            <value>
+                <fullName>Target Savings</fullName>
+                <default>false</default>
+                <label>Target Savings</label>
+            </value>
+            <value>
+                <fullName>Zidisha Bonus Account</fullName>
+                <default>false</default>
+                <label>Zidisha Bonus Account</label>
+            </value>
+            <value>
+                <fullName>Junior Account</fullName>
+                <default>false</default>
+                <label>Junior Account</label>
+            </value>
+            <value>
+                <fullName>Foreign Currency Account USD</fullName>
+                <default>false</default>
+                <label>Foreign Currency Account USD</label>
+            </value>
+            <value>
+                <fullName>Fixed Deposit Savings Account</fullName>
+                <default>false</default>
+                <label>Fixed Deposit Savings Account</label>
+            </value>
+            <value>
+                <fullName>Foreign Currency Savings Account GBP</fullName>
+                <default>false</default>
+                <label>Foreign Currency Savings Account GBP</label>
+            </value>
+            <value>
+                <fullName>Unsecured Loan - Non check off</fullName>
+                <default>false</default>
+                <label>Unsecured Loan - Non check off</label>
+            </value>
+            <value>
+                <fullName>Unsecured Loan - Check off</fullName>
+                <default>false</default>
+                <label>Unsecured Loan - Check off</label>
+            </value>
+            <value>
+                <fullName>Signature Credit Card</fullName>
+                <default>false</default>
+                <label>Signature Credit Card</label>
+            </value>
+            <value>
+                <fullName>Platinum Credit Card</fullName>
+                <default>false</default>
+                <label>Platinum Credit Card</label>
+            </value>
+            <value>
+                <fullName>Gold Rewards Credit Card</fullName>
+                <default>false</default>
+                <label>Gold Rewards Credit Card</label>
+            </value>
+            <value>
+                <fullName>Business Credit Card</fullName>
+                <default>false</default>
+                <label>Business Credit Card</label>
+            </value>
+            <value>
+                <fullName>Classic Rewards Credit Card</fullName>
+                <default>false</default>
+                <label>Classic Rewards Credit Card</label>
+            </value>
+            <value>
+                <fullName>Classic Credit Card</fullName>
+                <default>false</default>
+                <label>Classic Credit Card</label>
+            </value>
+            <value>
+                <fullName>Motor insurance</fullName>
+                <default>false</default>
+                <label>Motor insurance</label>
+            </value>
+            <value>
+                <fullName>Education policy</fullName>
+                <default>false</default>
+                <label>Education policy</label>
+            </value>
+            <value>
+                <fullName>Travel insurance</fullName>
+                <default>false</default>
+                <label>Travel insurance</label>
+            </value>
+            <value>
+                <fullName>Home insurance</fullName>
+                <default>false</default>
+                <label>Home insurance</label>
+            </value>
+            <value>
+                <fullName>Medical insurance</fullName>
+                <default>false</default>
+                <label>Medical insurance</label>
+            </value>
+            <value>
+                <fullName>Payment card insurance</fullName>
+                <default>false</default>
+                <label>Payment card insurance</label>
+            </value>
+            <value>
+                <fullName>My life and family</fullName>
+                <default>false</default>
+                <label>My life and family</label>
+            </value>
+            <value>
+                <fullName>File and special perils insurance</fullName>
+                <default>false</default>
+                <label>File and special perils insurance</label>
+            </value>
+            <value>
+                <fullName>General insurance</fullName>
+                <default>false</default>
+                <label>General insurance</label>
+            </value>
+            <value>
+                <fullName>Multi-currency Prepaid USD</fullName>
+                <default>false</default>
+                <label>Multi-currency Prepaid USD</label>
+            </value>
+            <value>
+                <fullName>Multi-currency Prepaid GBP</fullName>
+                <default>false</default>
+                <label>Multi-currency Prepaid GBP</label>
+            </value>
+            <value>
+                <fullName>Multi-currency Prepaid EUR</fullName>
+                <default>false</default>
+                <label>Multi-currency Prepaid EUR</label>
+            </value>
+            <value>
+                <fullName>Multi-currency Prepaid ZAR</fullName>
+                <default>false</default>
+                <label>Multi-currency Prepaid ZAR</label>
+            </value>
+            <value>
+                <fullName>Multi-currency Prepaid CAD</fullName>
+                <default>false</default>
+                <label>Multi-currency Prepaid CAD</label>
+            </value>
+            <value>
+                <fullName>Multi-currency Prepaid AUD</fullName>
+                <default>false</default>
+                <label>Multi-currency Prepaid AUD</label>
+            </value>
+            <value>
+                <fullName>Multi-currency Prepaid INR</fullName>
+                <default>false</default>
+                <label>Multi-currency Prepaid INR</label>
+            </value>
+            <value>
+                <fullName>Multi-currency Prepaid JPY</fullName>
+                <default>false</default>
+                <label>Multi-currency Prepaid JPY</label>
+            </value>
+            <value>
+                <fullName>Multi-currency Prepaid KES</fullName>
+                <default>false</default>
+                <label>Multi-currency Prepaid KES</label>
+            </value>
+            <value>
+                <fullName>SME Business Account</fullName>
+                <default>false</default>
+                <label>SME Business Account</label>
+            </value>
+            <value>
+                <fullName>Business Club Account</fullName>
+                <default>false</default>
+                <label>Business Club Account</label>
+            </value>
+            <value>
+                <fullName>La Riba Business Current Account</fullName>
+                <default>false</default>
+                <label>La Riba Business Current Account</label>
+            </value>
+            <value>
+                <fullName>Business Bonus Savings Account</fullName>
+                <default>false</default>
+                <label>Business Bonus Savings Account</label>
+            </value>
+            <value>
+                <fullName>Business Loan</fullName>
+                <default>false</default>
+                <label>Business Loan</label>
+            </value>
+            <value>
+                <fullName>Business Mortgage Loan</fullName>
+                <default>false</default>
+                <label>Business Mortgage Loan</label>
+            </value>
+            <value>
+                <fullName>Multi-currency Prepaid</fullName>
+                <default>false</default>
+                <label>Multi-currency Prepaid</label>
+            </value>
+            <value>
+                <fullName>Prepaid KES Cards</fullName>
+                <default>false</default>
+                <label>Prepaid KES Cards</label>
+            </value>
+            <value>
+                <fullName>Business combined insurance</fullName>
+                <default>false</default>
+                <label>Business combined insurance</label>
+            </value>
+            <value>
+                <fullName>Fire and special perils insurance</fullName>
+                <default>false</default>
+                <label>Fire and special perils insurance</label>
+            </value>
+            <value>
+                <fullName>Marine insurance</fullName>
+                <default>false</default>
+                <label>Marine insurance</label>
+            </value>
+            <value>
+                <fullName>Asset insurance</fullName>
+                <default>false</default>
+                <label>Asset insurance</label>
+            </value>
+            <value>
+                <fullName>Liability covers</fullName>
+                <default>false</default>
+                <label>Liability covers</label>
+            </value>
+            <value>
+                <fullName>Merchant Services</fullName>
+                <default>false</default>
+                <label>Merchant Services</label>
+            </value>
+            <value>
+                <fullName>Internet banking</fullName>
+                <default>false</default>
+                <label>Internet banking</label>
+            </value>
+            <value>
+                <fullName>Host-to-host</fullName>
+                <default>false</default>
+                <label>Host-to-host</label>
+            </value>
+            <value>
+                <fullName>Mobile banking</fullName>
+                <default>false</default>
+                <label>Mobile banking</label>
+            </value>
+            <value>
+                <fullName>Flexi Buy</fullName>
+                <default>false</default>
+                <label>Flexi Buy</label>
+            </value>
+            <value>
+                <fullName>Flexi Lease</fullName>
+                <default>false</default>
+                <label>Flexi Lease</label>
+            </value>
+            <value>
+                <fullName>Flexi Rent</fullName>
+                <default>false</default>
+                <label>Flexi Rent</label>
+            </value>
+            <value>
+                <fullName>Young Pro Account</fullName>
+                <default>false</default>
+                <label>Young Pro Account</label>
+            </value>
+            <value>
+                <fullName>Absa Bank Account</fullName>
+                <default>false</default>
+                <label>Absa Bank Account</label>
+            </value>
+            <value>
+                <fullName>Premier Account</fullName>
+                <default>false</default>
+                <label>Premier Account</label>
+            </value>
+            <value>
+                <fullName>Foreign Currency Account</fullName>
+                <default>false</default>
+                <label>Foreign Currency Account</label>
+            </value>
+            <value>
+                <fullName>Premier Bonus Savings Account</fullName>
+                <default>false</default>
+                <label>Premier Bonus Savings Account</label>
+            </value>
+            <value>
+                <fullName>Prestige Bonus Savings Account</fullName>
+                <default>false</default>
+                <label>Prestige Bonus Savings Account</label>
+            </value>
+            <value>
+                <fullName>Bonus Savings Accoun</fullName>
+                <default>false</default>
+                <label>Bonus Savings Accoun</label>
+            </value>
+            <value>
+                <fullName>Instant Savings Account</fullName>
+                <default>false</default>
+                <label>Instant Savings Account</label>
+            </value>
+            <value>
+                <fullName>Junior Savings Account</fullName>
+                <default>false</default>
+                <label>Junior Savings Account</label>
+            </value>
+            <value>
+                <fullName>Fixed Term Deposit Account</fullName>
+                <default>false</default>
+                <label>Fixed Term Deposit Account</label>
+            </value>
+            <value>
+                <fullName>Unsecured personal loan</fullName>
+                <default>false</default>
+                <label>Unsecured personal loan</label>
+            </value>
+            <value>
+                <fullName>Secured personal loan</fullName>
+                <default>false</default>
+                <label>Secured personal loan</label>
+            </value>
+            <value>
+                <fullName>Car loan</fullName>
+                <default>false</default>
+                <label>Car loan</label>
+            </value>
+            <value>
+                <fullName>Student loan</fullName>
+                <default>false</default>
+                <label>Student loan</label>
+            </value>
+            <value>
+                <fullName>Gold Credit Card</fullName>
+                <default>false</default>
+                <label>Gold Credit Card</label>
+            </value>
+            <value>
+                <fullName>Company Credit Card</fullName>
+                <default>false</default>
+                <label>Company Credit Card</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

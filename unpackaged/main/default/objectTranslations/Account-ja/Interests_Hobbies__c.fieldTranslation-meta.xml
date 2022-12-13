@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Interests/Hobbies --></label>
+        <name>Interests_Hobbies__c</name>
+        <picklistValues>
+            <masterLabel>AAA</masterLabel>
+            <translation><!-- AAA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AAB</masterLabel>
+            <translation><!-- AAB --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AAC</masterLabel>
+            <translation><!-- AAC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AAD</masterLabel>
+            <translation><!-- AAD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AAE</masterLabel>
+            <translation><!-- AAE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ABA</masterLabel>
+            <translation><!-- ABA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ACA</masterLabel>
+            <translation><!-- ACA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BBB</masterLabel>
+            <translation><!-- BBB --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CCC</masterLabel>
+            <translation><!-- CCC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DDD</masterLabel>
+            <translation><!-- DDD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EEE</masterLabel>
+            <translation><!-- EEE --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

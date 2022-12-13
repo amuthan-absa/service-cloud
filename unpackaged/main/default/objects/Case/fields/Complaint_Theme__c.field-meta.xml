@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Complaint_Theme__c</fullName>
+    <externalId>false</externalId>
+    <label>Complaint Theme</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Complaint_Type__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Account Management</fullName>
+                <default>false</default>
+                <label>Account Management</label>
+            </value>
+            <value>
+                <fullName>Bancassurance</fullName>
+                <default>false</default>
+                <label>Bancassurance</label>
+            </value>
+            <value>
+                <fullName>Card</fullName>
+                <default>false</default>
+                <label>Card</label>
+            </value>
+            <value>
+                <fullName>Foreign Exchange</fullName>
+                <default>false</default>
+                <label>Foreign Exchange</label>
+            </value>
+            <value>
+                <fullName>Loans</fullName>
+                <default>false</default>
+                <label>Loans</label>
+            </value>
+            <value>
+                <fullName>Payments</fullName>
+                <default>false</default>
+                <label>Payments</label>
+            </value>
+            <value>
+                <fullName>Savings and Investments</fullName>
+                <default>false</default>
+                <label>Savings and Investments</label>
+            </value>
+            <value>
+                <fullName>Agency Banking</fullName>
+                <default>false</default>
+                <label>Agency Banking</label>
+            </value>
+            <value>
+                <fullName>ATM</fullName>
+                <default>false</default>
+                <label>ATM</label>
+            </value>
+            <value>
+                <fullName>Branch</fullName>
+                <default>false</default>
+                <label>Branch</label>
+            </value>
+            <value>
+                <fullName>Collections</fullName>
+                <default>false</default>
+                <label>Collections</label>
+            </value>
+            <value>
+                <fullName>Internet Banking</fullName>
+                <default>false</default>
+                <label>Internet Banking</label>
+            </value>
+            <value>
+                <fullName>Mobile Banking</fullName>
+                <default>false</default>
+                <label>Mobile Banking</label>
+            </value>
+            <value>
+                <fullName>Sales and Marketing</fullName>
+                <default>false</default>
+                <label>Sales and Marketing</label>
+            </value>
+            <value>
+                <fullName>SMS</fullName>
+                <default>false</default>
+                <label>SMS</label>
+            </value>
+            <value>
+                <fullName>USSD</fullName>
+                <default>false</default>
+                <label>USSD</label>
+            </value>
+            <value>
+                <fullName>Absa Mobile Wallet</fullName>
+                <default>false</default>
+                <label>Absa Mobile Wallet</label>
+            </value>
+            <value>
+                <fullName>Mobile Service Provider Wallet</fullName>
+                <default>false</default>
+                <label>Mobile Service Provider Wallet</label>
+            </value>
+            <value>
+                <fullName>Jumo Loans</fullName>
+                <default>false</default>
+                <label>Jumo Loans</label>
+            </value>
+            <value>
+                <fullName>Timiza Loans</fullName>
+                <default>false</default>
+                <label>Timiza Loans</label>
+            </value>
+            <value>
+                <fullName>Complaints Handling</fullName>
+                <default>false</default>
+                <label>Complaints Handling</label>
+            </value>
+            <value>
+                <fullName>Data Privacy</fullName>
+                <default>false</default>
+                <label>Data Privacy</label>
+            </value>
+            <value>
+                <fullName>E-Statements</fullName>
+                <default>false</default>
+                <label>E-Statements</label>
+            </value>
+            <value>
+                <fullName>Fees Charges</fullName>
+                <default>false</default>
+                <label>Fees Charges</label>
+            </value>
+            <value>
+                <fullName>Staff behavior</fullName>
+                <default>false</default>
+                <label>Staff behavior</label>
+            </value>
+            <value>
+                <fullName>Statements</fullName>
+                <default>false</default>
+                <label>Statements</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Product</controllingFieldValue>
+            <valueName>Account Management</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Product</controllingFieldValue>
+            <valueName>Bancassurance</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Product</controllingFieldValue>
+            <valueName>Card</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Product</controllingFieldValue>
+            <valueName>Foreign Exchange</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Product</controllingFieldValue>
+            <valueName>Loans</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Product</controllingFieldValue>
+            <valueName>Payments</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Product</controllingFieldValue>
+            <valueName>Savings and Investments</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Channel</controllingFieldValue>
+            <valueName>Agency Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Channel</controllingFieldValue>
+            <valueName>ATM</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Channel</controllingFieldValue>
+            <valueName>Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Channel</controllingFieldValue>
+            <valueName>Collections</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Channel</controllingFieldValue>
+            <valueName>Internet Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Channel</controllingFieldValue>
+            <valueName>Mobile Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Channel</controllingFieldValue>
+            <valueName>Sales and Marketing</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Channel</controllingFieldValue>
+            <valueName>SMS</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Channel</controllingFieldValue>
+            <valueName>USSD</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mobile_Wallet</controllingFieldValue>
+            <valueName>Absa Mobile Wallet</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mobile_Wallet</controllingFieldValue>
+            <valueName>Mobile Service Provider Wallet</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mobile_Wallet</controllingFieldValue>
+            <valueName>Jumo Loans</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mobile_Wallet</controllingFieldValue>
+            <valueName>Timiza Loans</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Other</controllingFieldValue>
+            <valueName>Complaints Handling</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Other</controllingFieldValue>
+            <valueName>Data Privacy</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Other</controllingFieldValue>
+            <valueName>E-Statements</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Other</controllingFieldValue>
+            <valueName>Fees Charges</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Other</controllingFieldValue>
+            <valueName>Staff behavior</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Other</controllingFieldValue>
+            <valueName>Statements</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

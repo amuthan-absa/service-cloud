@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Which_La_Riba_Saving_Account_apply_for__c</fullName>
+    <externalId>false</externalId>
+    <label>Which  La Riba Saving Account apply for?</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>La Riba Al Hadaf Account</fullName>
+                <default>false</default>
+                <label>La Riba Al Hadaf Account</label>
+            </value>
+            <value>
+                <fullName>La Riba Uwezo Accout</fullName>
+                <default>false</default>
+                <label>La Riba Uwezo Accout</label>
+            </value>
+            <value>
+                <fullName>La Riba Junior Account</fullName>
+                <default>false</default>
+                <label>La Riba Junior Account</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

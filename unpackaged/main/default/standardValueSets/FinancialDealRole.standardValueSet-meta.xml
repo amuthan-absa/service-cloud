@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Advisor</fullName>
+        <default>false</default>
+        <label>Advisor</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Bookrunner</fullName>
+        <default>false</default>
+        <label>Bookrunner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Syndication Agent</fullName>
+        <default>false</default>
+        <label>Syndication Agent</label>
+    </standardValue>
+</StandardValueSet>

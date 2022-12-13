@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Bodily Injury</fullName>
+        <default>false</default>
+        <label>Bodily Injury</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Property Damage</fullName>
+        <default>false</default>
+        <label>Property Damage</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Medical Payments</fullName>
+        <default>false</default>
+        <label>Medical Payments</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Collision</fullName>
+        <default>false</default>
+        <label>Collision</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Comprehensive</fullName>
+        <default>false</default>
+        <label>Comprehensive</label>
+    </standardValue>
+</StandardValueSet>

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Region__c</fullName>
+    <externalId>false</externalId>
+    <label>Region</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Central</fullName>
+                <default>false</default>
+                <label>Central</label>
+            </value>
+            <value>
+                <fullName>Francistown</fullName>
+                <default>false</default>
+                <label>Francistown</label>
+            </value>
+            <value>
+                <fullName>GIND</fullName>
+                <default>false</default>
+                <label>GIND</label>
+            </value>
+            <value>
+                <fullName>Learning and Development Center</fullName>
+                <default>false</default>
+                <label>Learning and Development Center</label>
+            </value>
+            <value>
+                <fullName>Mall</fullName>
+                <default>false</default>
+                <label>Mall</label>
+            </value>
+            <value>
+                <fullName>North</fullName>
+                <default>false</default>
+                <label>North</label>
+            </value>
+            <value>
+                <fullName>Accra East/Tema/Eastern/Volta</fullName>
+                <default>false</default>
+                <label>Accra East/Tema/Eastern/Volta</label>
+            </value>
+            <value>
+                <fullName>Coast Region</fullName>
+                <default>false</default>
+                <label>Coast Region</label>
+            </value>
+            <value>
+                <fullName>Mt.Kenya</fullName>
+                <default>false</default>
+                <label>Mt.Kenya</label>
+            </value>
+            <value>
+                <fullName>Nairobi West</fullName>
+                <default>false</default>
+                <label>Nairobi West</label>
+            </value>
+            <value>
+                <fullName>Premier</fullName>
+                <default>false</default>
+                <label>Premier</label>
+            </value>
+            <value>
+                <fullName>Prestige and Mall</fullName>
+                <default>false</default>
+                <label>Prestige and Mall</label>
+            </value>
+            <value>
+                <fullName>Queensway Cluster</fullName>
+                <default>false</default>
+                <label>Queensway Cluster</label>
+            </value>
+            <value>
+                <fullName>Tellemarketing</fullName>
+                <default>false</default>
+                <label>Tellemarketing</label>
+            </value>
+            <value>
+                <fullName>Western</fullName>
+                <default>false</default>
+                <label>Western</label>
+            </value>
+            <value>
+                <fullName>Mauritius</fullName>
+                <default>false</default>
+                <label>Mauritius</label>
+            </value>
+            <value>
+                <fullName>Bois De Rose</fullName>
+                <default>false</default>
+                <label>Bois De Rose</label>
+            </value>
+            <value>
+                <fullName>Capital City</fullName>
+                <default>false</default>
+                <label>Capital City</label>
+            </value>
+            <value>
+                <fullName>La Digue</fullName>
+                <default>false</default>
+                <label>La Digue</label>
+            </value>
+            <value>
+                <fullName>Praslin</fullName>
+                <default>false</default>
+                <label>Praslin</label>
+            </value>
+            <value>
+                <fullName>Praslin / La Digue</fullName>
+                <default>false</default>
+                <label>Praslin / La Digue</label>
+            </value>
+            <value>
+                <fullName>Providence</fullName>
+                <default>false</default>
+                <label>Providence</label>
+            </value>
+            <value>
+                <fullName>Victoria</fullName>
+                <default>false</default>
+                <label>Victoria</label>
+            </value>
+            <value>
+                <fullName>Arusha</fullName>
+                <default>false</default>
+                <label>Arusha</label>
+            </value>
+            <value>
+                <fullName>Dar es Salaam</fullName>
+                <default>false</default>
+                <label>Dar es Salaam</label>
+            </value>
+            <value>
+                <fullName>Dodoma</fullName>
+                <default>false</default>
+                <label>Dodoma</label>
+            </value>
+            <value>
+                <fullName>Iringa</fullName>
+                <default>false</default>
+                <label>Iringa</label>
+            </value>
+            <value>
+                <fullName>Mbeya</fullName>
+                <default>false</default>
+                <label>Mbeya</label>
+            </value>
+            <value>
+                <fullName>Morogoro</fullName>
+                <default>false</default>
+                <label>Morogoro</label>
+            </value>
+            <value>
+                <fullName>Moshi</fullName>
+                <default>false</default>
+                <label>Moshi</label>
+            </value>
+            <value>
+                <fullName>Mwanza</fullName>
+                <default>false</default>
+                <label>Mwanza</label>
+            </value>
+            <value>
+                <fullName>Tanga</fullName>
+                <default>false</default>
+                <label>Tanga</label>
+            </value>
+            <value>
+                <fullName>Zanzibar</fullName>
+                <default>false</default>
+                <label>Zanzibar</label>
+            </value>
+            <value>
+                <fullName>East</fullName>
+                <default>false</default>
+                <label>East</label>
+            </value>
+            <value>
+                <fullName>Kampala</fullName>
+                <default>false</default>
+                <label>Kampala</label>
+            </value>
+            <value>
+                <fullName>Kampala Central</fullName>
+                <default>false</default>
+                <label>Kampala Central</label>
+            </value>
+            <value>
+                <fullName>Kampala Metropolitan</fullName>
+                <default>false</default>
+                <label>Kampala Metropolitan</label>
+            </value>
+            <value>
+                <fullName>Prestige</fullName>
+                <default>false</default>
+                <label>Prestige</label>
+            </value>
+            <value>
+                <fullName>West</fullName>
+                <default>false</default>
+                <label>West</label>
+            </value>
+            <value>
+                <fullName>Kariba Cluster</fullName>
+                <default>false</default>
+                <label>Kariba Cluster</label>
+            </value>
+            <value>
+                <fullName>Luangwa Cluster</fullName>
+                <default>false</default>
+                <label>Luangwa Cluster</label>
+            </value>
+            <value>
+                <fullName>Luapula Cluster</fullName>
+                <default>false</default>
+                <label>Luapula Cluster</label>
+            </value>
+            <value>
+                <fullName>Zambezi Cluster</fullName>
+                <default>false</default>
+                <label>Zambezi Cluster</label>
+            </value>
+            <value>
+                <fullName>Cluster Four</fullName>
+                <default>false</default>
+                <label>Cluster Four</label>
+            </value>
+            <value>
+                <fullName>Cluster One</fullName>
+                <default>false</default>
+                <label>Cluster One</label>
+            </value>
+            <value>
+                <fullName>Cluster Three</fullName>
+                <default>false</default>
+                <label>Cluster Three</label>
+            </value>
+            <value>
+                <fullName>Cluster Two</fullName>
+                <default>false</default>
+                <label>Cluster Two</label>
+            </value>
+            <value>
+                <fullName>Coastal Region</fullName>
+                <default>false</default>
+                <label>Coastal Region</label>
+            </value>
+            <value>
+                <fullName>Kinondoni</fullName>
+                <default>false</default>
+                <label>Kinondoni</label>
+            </value>
+            <value>
+                <fullName>Lake Region</fullName>
+                <default>false</default>
+                <label>Lake Region</label>
+            </value>
+            <value>
+                <fullName>Northern Region</fullName>
+                <default>false</default>
+                <label>Northern Region</label>
+            </value>
+            <value>
+                <fullName>Cabo Delgado</fullName>
+                <default>false</default>
+                <label>Cabo Delgado</label>
+            </value>
+            <value>
+                <fullName>Gaza</fullName>
+                <default>false</default>
+                <label>Gaza</label>
+            </value>
+            <value>
+                <fullName>Inhambane</fullName>
+                <default>false</default>
+                <label>Inhambane</label>
+            </value>
+            <value>
+                <fullName>Lichinga</fullName>
+                <default>false</default>
+                <label>Lichinga</label>
+            </value>
+            <value>
+                <fullName>Manica</fullName>
+                <default>false</default>
+                <label>Manica</label>
+            </value>
+            <value>
+                <fullName>Maputo Down Town</fullName>
+                <default>false</default>
+                <label>Maputo Down Town</label>
+            </value>
+            <value>
+                <fullName>Maputo Polana</fullName>
+                <default>false</default>
+                <label>Maputo Polana</label>
+            </value>
+            <value>
+                <fullName>Maputo Uptown</fullName>
+                <default>false</default>
+                <label>Maputo Uptown</label>
+            </value>
+            <value>
+                <fullName>Matola</fullName>
+                <default>false</default>
+                <label>Matola</label>
+            </value>
+            <value>
+                <fullName>Nampula</fullName>
+                <default>false</default>
+                <label>Nampula</label>
+            </value>
+            <value>
+                <fullName>Premier And Prestige</fullName>
+                <default>false</default>
+                <label>Premier And Prestige</label>
+            </value>
+            <value>
+                <fullName>SME</fullName>
+                <default>false</default>
+                <label>SME</label>
+            </value>
+            <value>
+                <fullName>Sofala</fullName>
+                <default>false</default>
+                <label>Sofala</label>
+            </value>
+            <value>
+                <fullName>Tete</fullName>
+                <default>false</default>
+                <label>Tete</label>
+            </value>
+            <value>
+                <fullName>Zambezia</fullName>
+                <default>false</default>
+                <label>Zambezia</label>
+            </value>
+            <value>
+                <fullName>Accra South Central/Accra West/Western</fullName>
+                <default>false</default>
+                <label>Accra South Central/Accra West/Western</label>
+            </value>
+            <value>
+                <fullName>Nortern/Ashanti/Brong Ahafo</fullName>
+                <default>false</default>
+                <label>Nortern/Ashanti/Brong Ahafo</label>
+            </value>
+            <value>
+                <fullName>Mauritius;Mauritius</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Mauritius;Mauritius</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

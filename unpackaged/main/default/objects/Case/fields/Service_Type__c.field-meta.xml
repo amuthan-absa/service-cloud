@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Service_Type__c</fullName>
+    <externalId>false</externalId>
+    <label>Service Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Complaint_Theme__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Blocked my account</fullName>
+                <default>true</default>
+                <label>Blocked my account</label>
+            </value>
+            <value>
+                <fullName>Changing my personal details</fullName>
+                <default>false</default>
+                <label>Changing my personal details</label>
+            </value>
+            <value>
+                <fullName>Cheques</fullName>
+                <default>false</default>
+                <label>Cheques</label>
+            </value>
+            <value>
+                <fullName>Closed my account without my permission</fullName>
+                <default>false</default>
+                <label>Closed my account without my permission</label>
+            </value>
+            <value>
+                <fullName>Crediting funds to my account</fullName>
+                <default>false</default>
+                <label>Crediting funds to my account</label>
+            </value>
+            <value>
+                <fullName>Disputed transaction</fullName>
+                <default>false</default>
+                <label>Disputed transaction</label>
+            </value>
+            <value>
+                <fullName>My payment failed</fullName>
+                <default>false</default>
+                <label>My payment failed</label>
+            </value>
+            <value>
+                <fullName>Not receiving my statements</fullName>
+                <default>false</default>
+                <label>Not receiving my statements</label>
+            </value>
+            <value>
+                <fullName>Opened an account without my permission</fullName>
+                <default>false</default>
+                <label>Opened an account without my permission</label>
+            </value>
+            <value>
+                <fullName>Problems with opening / using my account</fullName>
+                <default>false</default>
+                <label>Problems with opening / using my account</label>
+            </value>
+            <value>
+                <fullName>Reserved funds on account</fullName>
+                <default>false</default>
+                <label>Reserved funds on account</label>
+            </value>
+            <value>
+                <fullName>Standing Orders</fullName>
+                <default>false</default>
+                <label>Standing Orders</label>
+            </value>
+            <value>
+                <fullName>Takes too long to close an account</fullName>
+                <default>false</default>
+                <label>Takes too long to close an account</label>
+            </value>
+            <value>
+                <fullName>Unpaid transaction</fullName>
+                <default>false</default>
+                <label>Unpaid transaction</label>
+            </value>
+            <value>
+                <fullName>Did not process my insurance request</fullName>
+                <default>false</default>
+                <label>Did not process my insurance request</label>
+            </value>
+            <value>
+                <fullName>Loan</fullName>
+                <default>false</default>
+                <label>Loan</label>
+            </value>
+            <value>
+                <fullName>The insurance on my card</fullName>
+                <default>false</default>
+                <label>The insurance on my card</label>
+            </value>
+            <value>
+                <fullName>Vehicle and Asset insurance</fullName>
+                <default>false</default>
+                <label>Vehicle and Asset insurance</label>
+            </value>
+            <value>
+                <fullName>Suspected Fraud</fullName>
+                <default>false</default>
+                <label>Suspected Fraud</label>
+            </value>
+            <value>
+                <fullName>Canceled my card without my permission</fullName>
+                <default>false</default>
+                <label>Canceled my card without my permission</label>
+            </value>
+            <value>
+                <fullName>Card blocked</fullName>
+                <default>false</default>
+                <label>Card blocked</label>
+            </value>
+            <value>
+                <fullName>Card not working</fullName>
+                <default>false</default>
+                <label>Card not working</label>
+            </value>
+            <value>
+                <fullName>Delay in issuing or delivering my card</fullName>
+                <default>false</default>
+                <label>Delay in issuing or delivering my card</label>
+            </value>
+            <value>
+                <fullName>Difficulty canceling or closing my card</fullName>
+                <default>false</default>
+                <label>Difficulty canceling or closing my card</label>
+            </value>
+            <value>
+                <fullName>Issuing or re-setting the PIN on my card</fullName>
+                <default>false</default>
+                <label>Issuing or re-setting the PIN on my card</label>
+            </value>
+            <value>
+                <fullName>Made a mistake when they activated/issued my card</fullName>
+                <default>false</default>
+                <label>Made a mistake when they activated/issued my card</label>
+            </value>
+            <value>
+                <fullName>My card was declined</fullName>
+                <default>false</default>
+                <label>My card was declined</label>
+            </value>
+            <value>
+                <fullName>POS transaction did not go through</fullName>
+                <default>false</default>
+                <label>POS transaction did not go through</label>
+            </value>
+            <value>
+                <fullName>Problems with changing the limit on my card</fullName>
+                <default>false</default>
+                <label>Problems with changing the limit on my card</label>
+            </value>
+            <value>
+                <fullName>Welcome kit incomplete - Absa Credit Card</fullName>
+                <default>false</default>
+                <label>Welcome kit incomplete - Absa Credit Card</label>
+            </value>
+            <value>
+                <fullName>Exchange rate</fullName>
+                <default>false</default>
+                <label>Exchange rate</label>
+            </value>
+            <value>
+                <fullName>Letter of Credit</fullName>
+                <default>false</default>
+                <label>Letter of Credit</label>
+            </value>
+            <value>
+                <fullName>Delays in processing my loan</fullName>
+                <default>false</default>
+                <label>Delays in processing my loan</label>
+            </value>
+            <value>
+                <fullName>Disputed balance on my loan</fullName>
+                <default>false</default>
+                <label>Disputed balance on my loan</label>
+            </value>
+            <value>
+                <fullName>Disputed loan repayment</fullName>
+                <default>false</default>
+                <label>Disputed loan repayment</label>
+            </value>
+            <value>
+                <fullName>I could not get a loan</fullName>
+                <default>false</default>
+                <label>I could not get a loan</label>
+            </value>
+            <value>
+                <fullName>The term of my loan</fullName>
+                <default>false</default>
+                <label>The term of my loan</label>
+            </value>
+            <value>
+                <fullName>Cross border payments clearing periods</fullName>
+                <default>false</default>
+                <label>Cross border payments clearing periods</label>
+            </value>
+            <value>
+                <fullName>Did not receive a local Absa payment</fullName>
+                <default>false</default>
+                <label>Did not receive a local Absa payment</label>
+            </value>
+            <value>
+                <fullName>Did not receive a local non-Absa payment</fullName>
+                <default>false</default>
+                <label>Did not receive a local non-Absa payment</label>
+            </value>
+            <value>
+                <fullName>Did not receive an international payment</fullName>
+                <default>false</default>
+                <label>Did not receive an international payment</label>
+            </value>
+            <value>
+                <fullName>Duplicated international payment debited to my account</fullName>
+                <default>false</default>
+                <label>Duplicated international payment debited to my account</label>
+            </value>
+            <value>
+                <fullName>Duplicated local Absa payment debited to my account</fullName>
+                <default>false</default>
+                <label>Duplicated local Absa payment debited to my account</label>
+            </value>
+            <value>
+                <fullName>Duplicated local non-Absa payment debited to my account</fullName>
+                <default>false</default>
+                <label>Duplicated local non-Absa payment debited to my account</label>
+            </value>
+            <value>
+                <fullName>Non-receipt of swift copy</fullName>
+                <default>false</default>
+                <label>Non-receipt of swift copy</label>
+            </value>
+            <value>
+                <fullName>Payment did not go through to a local Absa beneficiary</fullName>
+                <default>false</default>
+                <label>Payment did not go through to a local Absa beneficiary</label>
+            </value>
+            <value>
+                <fullName>Payment did not go through to a local non-Absa beneficiary</fullName>
+                <default>false</default>
+                <label>Payment did not go through to a local non-Absa beneficiary</label>
+            </value>
+            <value>
+                <fullName>Payment did not go through to an international beneficiary</fullName>
+                <default>false</default>
+                <label>Payment did not go through to an international beneficiary</label>
+            </value>
+            <value>
+                <fullName>Wrong international value received</fullName>
+                <default>false</default>
+                <label>Wrong international value received</label>
+            </value>
+            <value>
+                <fullName>Wrong local value received from a non-Absa payment</fullName>
+                <default>false</default>
+                <label>Wrong local value received from a non-Absa payment</label>
+            </value>
+            <value>
+                <fullName>Wrong local value received from an Absa payment</fullName>
+                <default>false</default>
+                <label>Wrong local value received from an Absa payment</label>
+            </value>
+            <value>
+                <fullName>Demand deposits</fullName>
+                <default>false</default>
+                <label>Demand deposits</label>
+            </value>
+            <value>
+                <fullName>Fixed deposit</fullName>
+                <default>false</default>
+                <label>Fixed deposit</label>
+            </value>
+            <value>
+                <fullName>Short term deposits</fullName>
+                <default>false</default>
+                <label>Short term deposits</label>
+            </value>
+            <value>
+                <fullName>Rediscounting my Treasury Bill</fullName>
+                <default>false</default>
+                <label>Rediscounting my Treasury Bill</label>
+            </value>
+            <value>
+                <fullName>Treasury bill not purchased</fullName>
+                <default>false</default>
+                <label>Treasury bill not purchased</label>
+            </value>
+            <value>
+                <fullName>Requested investment profit not received</fullName>
+                <default>false</default>
+                <label>Requested investment profit not received</label>
+            </value>
+            <value>
+                <fullName>Other Treasury bill related issues</fullName>
+                <default>false</default>
+                <label>Other Treasury bill related issues</label>
+            </value>
+            <value>
+                <fullName>Treasury bonds</fullName>
+                <default>false</default>
+                <label>Treasury bonds</label>
+            </value>
+            <value>
+                <fullName>Agency Banking</fullName>
+                <default>false</default>
+                <label>Agency Banking</label>
+            </value>
+            <value>
+                <fullName>3rd Party ATM - Card declined</fullName>
+                <default>false</default>
+                <label>3rd Party ATM - Card declined</label>
+            </value>
+            <value>
+                <fullName>3rd Party ATM - Card retained</fullName>
+                <default>false</default>
+                <label>3rd Party ATM - Card retained</label>
+            </value>
+            <value>
+                <fullName>3rd Party ATM - Cash withdrawal fees</fullName>
+                <default>false</default>
+                <label>3rd Party ATM - Cash withdrawal fees</label>
+            </value>
+            <value>
+                <fullName>3rd party ATM - debited account, cash not received</fullName>
+                <default>false</default>
+                <label>3rd party ATM - debited account, cash not received</label>
+            </value>
+            <value>
+                <fullName>Absa ATM - Card declined</fullName>
+                <default>false</default>
+                <label>Absa ATM - Card declined</label>
+            </value>
+            <value>
+                <fullName>Absa ATM - Card retained</fullName>
+                <default>false</default>
+                <label>Absa ATM - Card retained</label>
+            </value>
+            <value>
+                <fullName>Absa ATM - debited account, cash not received</fullName>
+                <default>false</default>
+                <label>Absa ATM - debited account, cash not received</label>
+            </value>
+            <value>
+                <fullName>ATM Cash send failure</fullName>
+                <default>false</default>
+                <label>ATM Cash send failure</label>
+            </value>
+            <value>
+                <fullName>ATM Deposit not reflecting on the account</fullName>
+                <default>false</default>
+                <label>ATM Deposit not reflecting on the account</label>
+            </value>
+            <value>
+                <fullName>ATM location</fullName>
+                <default>false</default>
+                <label>ATM location</label>
+            </value>
+            <value>
+                <fullName>ATM not working</fullName>
+                <default>false</default>
+                <label>ATM not working</label>
+            </value>
+            <value>
+                <fullName>Cash Acceptor</fullName>
+                <default>false</default>
+                <label>Cash Acceptor</label>
+            </value>
+            <value>
+                <fullName>Cash Send</fullName>
+                <default>false</default>
+                <label>Cash Send</label>
+            </value>
+            <value>
+                <fullName>No cash in the ATM</fullName>
+                <default>false</default>
+                <label>No cash in the ATM</label>
+            </value>
+            <value>
+                <fullName>Receipts</fullName>
+                <default>false</default>
+                <label>Receipts</label>
+            </value>
+            <value>
+                <fullName>Branch location</fullName>
+                <default>false</default>
+                <label>Branch location</label>
+            </value>
+            <value>
+                <fullName>Branch operating hours</fullName>
+                <default>false</default>
+                <label>Branch operating hours</label>
+            </value>
+            <value>
+                <fullName>Branch premises</fullName>
+                <default>false</default>
+                <label>Branch premises</label>
+            </value>
+            <value>
+                <fullName>Long queues</fullName>
+                <default>false</default>
+                <label>Long queues</label>
+            </value>
+            <value>
+                <fullName>Security at the Branch</fullName>
+                <default>false</default>
+                <label>Security at the Branch</label>
+            </value>
+            <value>
+                <fullName>Staff being available</fullName>
+                <default>false</default>
+                <label>Staff being available</label>
+            </value>
+            <value>
+                <fullName>Card</fullName>
+                <default>false</default>
+                <label>Card</label>
+            </value>
+            <value>
+                <fullName>Credit Listing</fullName>
+                <default>false</default>
+                <label>Credit Listing</label>
+            </value>
+            <value>
+                <fullName>Execution of Court Order</fullName>
+                <default>false</default>
+                <label>Execution of Court Order</label>
+            </value>
+            <value>
+                <fullName>Legal</fullName>
+                <default>false</default>
+                <label>Legal</label>
+            </value>
+            <value>
+                <fullName>Mortgage</fullName>
+                <default>false</default>
+                <label>Mortgage</label>
+            </value>
+            <value>
+                <fullName>Could not load/pay beneficiaries on internet banking</fullName>
+                <default>false</default>
+                <label>Could not load/pay beneficiaries on internet banking</label>
+            </value>
+            <value>
+                <fullName>I did not receive my OTP / Secure Code from internet banking</fullName>
+                <default>false</default>
+                <label>I did not receive my OTP / Secure Code from internet banking</label>
+            </value>
+            <value>
+                <fullName>I was unable to complete my transaction on internet banking</fullName>
+                <default>false</default>
+                <label>I was unable to complete my transaction on internet banking</label>
+            </value>
+            <value>
+                <fullName>The internet banking platform was not stable</fullName>
+                <default>false</default>
+                <label>The internet banking platform was not stable</label>
+            </value>
+            <value>
+                <fullName>The internet banking platform was offline</fullName>
+                <default>false</default>
+                <label>The internet banking platform was offline</label>
+            </value>
+            <value>
+                <fullName>Could not load/pay beneficiaries on the mobile banking app</fullName>
+                <default>false</default>
+                <label>Could not load/pay beneficiaries on the mobile banking app</label>
+            </value>
+            <value>
+                <fullName>I did not receive my OTP / Secure code from the mobile banking app</fullName>
+                <default>false</default>
+                <label>I did not receive my OTP / Secure code from the mobile banking app</label>
+            </value>
+            <value>
+                <fullName>I was unable to complete my transaction on the mobile banking app</fullName>
+                <default>false</default>
+                <label>I was unable to complete my transaction on the mobile banking app</label>
+            </value>
+            <value>
+                <fullName>The mobile banking app platform was offline</fullName>
+                <default>false</default>
+                <label>The mobile banking app platform was offline</label>
+            </value>
+            <value>
+                <fullName>Availability of brochures for products</fullName>
+                <default>false</default>
+                <label>Availability of brochures for products</label>
+            </value>
+            <value>
+                <fullName>Did not inform me of the charges</fullName>
+                <default>false</default>
+                <label>Did not inform me of the charges</label>
+            </value>
+            <value>
+                <fullName>Do not call me again</fullName>
+                <default>false</default>
+                <label>Do not call me again</label>
+            </value>
+            <value>
+                <fullName>Inaccurate product information</fullName>
+                <default>false</default>
+                <label>Inaccurate product information</label>
+            </value>
+            <value>
+                <fullName>The merchant did not honor the promotional offer</fullName>
+                <default>false</default>
+                <label>The merchant did not honor the promotional offer</label>
+            </value>
+            <value>
+                <fullName>Misleading advertising</fullName>
+                <default>false</default>
+                <label>Misleading advertising</label>
+            </value>
+            <value>
+                <fullName>Issues with SMS alerts</fullName>
+                <default>false</default>
+                <label>Issues with SMS alerts</label>
+            </value>
+            <value>
+                <fullName>Multiple SMS Alerts on Account</fullName>
+                <default>false</default>
+                <label>Multiple SMS Alerts on Account</label>
+            </value>
+            <value>
+                <fullName>SMS Alert Cancellation Not Actioned</fullName>
+                <default>false</default>
+                <label>SMS Alert Cancellation Not Actioned</label>
+            </value>
+            <value>
+                <fullName>SMS Alert Facility Not Configured</fullName>
+                <default>false</default>
+                <label>SMS Alert Facility Not Configured</label>
+            </value>
+            <value>
+                <fullName>When I choose one of the options under the Service Type field:</fullName>
+                <default>false</default>
+                <label>When I choose one of the options under the Service Type field:</label>
+            </value>
+            <value>
+                <fullName>Could not load/pay beneficiaries on my USSD banking on my phone</fullName>
+                <default>false</default>
+                <label>Could not load/pay beneficiaries on my USSD banking on my phone</label>
+            </value>
+            <value>
+                <fullName>I did not receive my OTP / Secure code from the USSD banking on my phone</fullName>
+                <default>false</default>
+                <label>I did not receive my OTP / Secure code from the USSD banking on my phone</label>
+            </value>
+            <value>
+                <fullName>I was unable to complete my transaction on the USSD banking on my phone</fullName>
+                <default>false</default>
+                <label>I was unable to complete my transaction on the USSD banking on my phone</label>
+            </value>
+            <value>
+                <fullName>The USSD banking on my phone was not stable</fullName>
+                <default>false</default>
+                <label>The USSD banking on my phone was not stable</label>
+            </value>
+            <value>
+                <fullName>The USSD banking on my phone was offline</fullName>
+                <default>false</default>
+                <label>The USSD banking on my phone was offline</label>
+            </value>
+            <value>
+                <fullName>Could not load/pay beneficiaries through my Absa mobile wallet</fullName>
+                <default>false</default>
+                <label>Could not load/pay beneficiaries through my Absa mobile wallet</label>
+            </value>
+            <value>
+                <fullName>Did not receive the password for my Absa mobile wallet</fullName>
+                <default>false</default>
+                <label>Did not receive the password for my Absa mobile wallet</label>
+            </value>
+            <value>
+                <fullName>I could not view my balances on my Absa mobile wallet</fullName>
+                <default>false</default>
+                <label>I could not view my balances on my Absa mobile wallet</label>
+            </value>
+            <value>
+                <fullName>I did not receive the OTP / Secure code for my Absa mobile wallet transaction</fullName>
+                <default>false</default>
+                <label>I did not receive the OTP / Secure code for my Absa mobile wallet transaction</label>
+            </value>
+            <value>
+                <fullName>I was unable to complete my transaction on my Absa mobile wallet</fullName>
+                <default>false</default>
+                <label>I was unable to complete my transaction on my Absa mobile wallet</label>
+            </value>
+            <value>
+                <fullName>Need to change the password on my Absa mobile wallet</fullName>
+                <default>false</default>
+                <label>Need to change the password on my Absa mobile wallet</label>
+            </value>
+            <value>
+                <fullName>The Absa mobile wallet platform was offline</fullName>
+                <default>false</default>
+                <label>The Absa mobile wallet platform was offline</label>
+            </value>
+            <value>
+                <fullName>Transfer to my wallet failed</fullName>
+                <default>false</default>
+                <label>Transfer to my wallet failed</label>
+            </value>
+            <value>
+                <fullName>Payment to my loan failed</fullName>
+                <default>false</default>
+                <label>Payment to my loan failed</label>
+            </value>
+            <value>
+                <fullName>Unable to view the balance on my loan</fullName>
+                <default>false</default>
+                <label>Unable to view the balance on my loan</label>
+            </value>
+            <value>
+                <fullName>Credit Bureau listing of Timiza loan</fullName>
+                <default>false</default>
+                <label>Credit Bureau listing of Timiza loan</label>
+            </value>
+            <value>
+                <fullName>Repayment collected not reflecting on my Timiza Wallet</fullName>
+                <default>false</default>
+                <label>Repayment collected not reflecting on my Timiza Wallet</label>
+            </value>
+            <value>
+                <fullName>Did not handle my complaint well</fullName>
+                <default>false</default>
+                <label>Did not handle my complaint well</label>
+            </value>
+            <value>
+                <fullName>Took too long to resolve my complaint</fullName>
+                <default>false</default>
+                <label>Took too long to resolve my complaint</label>
+            </value>
+            <value>
+                <fullName>Contacted me without permission</fullName>
+                <default>false</default>
+                <label>Contacted me without permission</label>
+            </value>
+            <value>
+                <fullName>Denied access to my personal data</fullName>
+                <default>false</default>
+                <label>Denied access to my personal data</label>
+            </value>
+            <value>
+                <fullName>Disclosed my personal information</fullName>
+                <default>false</default>
+                <label>Disclosed my personal information</label>
+            </value>
+            <value>
+                <fullName>Personal data quality issues</fullName>
+                <default>false</default>
+                <label>Personal data quality issues</label>
+            </value>
+            <value>
+                <fullName>Unauthorized processing of personal data</fullName>
+                <default>false</default>
+                <label>Unauthorized processing of personal data</label>
+            </value>
+            <value>
+                <fullName>E-Statements not Opening</fullName>
+                <default>false</default>
+                <label>E-Statements not Opening</label>
+            </value>
+            <value>
+                <fullName>Account maintenance fees</fullName>
+                <default>false</default>
+                <label>Account maintenance fees</label>
+            </value>
+            <value>
+                <fullName>Applied the wrong interest</fullName>
+                <default>false</default>
+                <label>Applied the wrong interest</label>
+            </value>
+            <value>
+                <fullName>Card fees</fullName>
+                <default>false</default>
+                <label>Card fees</label>
+            </value>
+            <value>
+                <fullName>Cash handling fees</fullName>
+                <default>false</default>
+                <label>Cash handling fees</label>
+            </value>
+            <value>
+                <fullName>Credit Shield installment</fullName>
+                <default>false</default>
+                <label>Credit Shield installment</label>
+            </value>
+            <value>
+                <fullName>Forex Fees</fullName>
+                <default>false</default>
+                <label>Forex Fees</label>
+            </value>
+            <value>
+                <fullName>Incorrect/no mention of fees</fullName>
+                <default>false</default>
+                <label>Incorrect/no mention of fees</label>
+            </value>
+            <value>
+                <fullName>Internet banking fees</fullName>
+                <default>false</default>
+                <label>Internet banking fees</label>
+            </value>
+            <value>
+                <fullName>Not informed of charges</fullName>
+                <default>false</default>
+                <label>Not informed of charges</label>
+            </value>
+            <value>
+                <fullName>Overdraft Charges</fullName>
+                <default>false</default>
+                <label>Overdraft Charges</label>
+            </value>
+            <value>
+                <fullName>Penalty charges</fullName>
+                <default>false</default>
+                <label>Penalty charges</label>
+            </value>
+            <value>
+                <fullName>Service or transaction charges</fullName>
+                <default>false</default>
+                <label>Service or transaction charges</label>
+            </value>
+            <value>
+                <fullName>SMS alert charges</fullName>
+                <default>false</default>
+                <label>SMS alert charges</label>
+            </value>
+            <value>
+                <fullName>Attitude of Staff</fullName>
+                <default>false</default>
+                <label>Attitude of Staff</label>
+            </value>
+            <value>
+                <fullName>Behaving fraudulently</fullName>
+                <default>false</default>
+                <label>Behaving fraudulently</label>
+            </value>
+            <value>
+                <fullName>Did not adhere to my instruction</fullName>
+                <default>false</default>
+                <label>Did not adhere to my instruction</label>
+            </value>
+            <value>
+                <fullName>Staff error</fullName>
+                <default>false</default>
+                <label>Staff error</label>
+            </value>
+            <value>
+                <fullName>Staff knowledge</fullName>
+                <default>false</default>
+                <label>Staff knowledge</label>
+            </value>
+            <value>
+                <fullName>Insufficient narratives</fullName>
+                <default>false</default>
+                <label>Insufficient narratives</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Data Privacy</controllingFieldValue>
+            <valueName>Contacted me without permission</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Data Privacy</controllingFieldValue>
+            <valueName>Denied access to my personal data</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Data Privacy</controllingFieldValue>
+            <valueName>Disclosed my personal information</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Data Privacy</controllingFieldValue>
+            <valueName>Personal data quality issues</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Data Privacy</controllingFieldValue>
+            <valueName>Unauthorized processing of personal data</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>E-Statements</controllingFieldValue>
+            <valueName>E-Statements not Opening</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>Account maintenance fees</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>Applied the wrong interest</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>Card fees</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>Cash handling fees</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>Credit Shield installment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>Forex Fees</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>Incorrect/no mention of fees</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>Internet banking fees</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>Not informed of charges</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>Overdraft Charges</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>Penalty charges</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>Service or transaction charges</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fees Charges</controllingFieldValue>
+            <valueName>SMS alert charges</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Staff behavior</controllingFieldValue>
+            <valueName>Attitude of Staff</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Staff behavior</controllingFieldValue>
+            <valueName>Behaving fraudulently</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Staff behavior</controllingFieldValue>
+            <valueName>Did not adhere to my instruction</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Staff behavior</controllingFieldValue>
+            <valueName>Staff error</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Staff behavior</controllingFieldValue>
+            <valueName>Staff knowledge</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Statements</controllingFieldValue>
+            <valueName>Insufficient narratives</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Branch</controllingFieldValue>
+            <valueName>Branch location</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Branch</controllingFieldValue>
+            <valueName>Branch operating hours</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Branch</controllingFieldValue>
+            <valueName>Branch premises</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Branch</controllingFieldValue>
+            <valueName>Long queues</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Branch</controllingFieldValue>
+            <valueName>Security at the Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Branch</controllingFieldValue>
+            <valueName>Staff being available</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Collections</controllingFieldValue>
+            <controllingFieldValue>Bancassurance</controllingFieldValue>
+            <valueName>Loan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Collections</controllingFieldValue>
+            <valueName>Card</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Collections</controllingFieldValue>
+            <valueName>Credit Listing</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Collections</controllingFieldValue>
+            <valueName>Execution of Court Order</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Collections</controllingFieldValue>
+            <valueName>Legal</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Collections</controllingFieldValue>
+            <valueName>Mortgage</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Internet Banking</controllingFieldValue>
+            <valueName>Could not load/pay beneficiaries on internet banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Internet Banking</controllingFieldValue>
+            <valueName>I did not receive my OTP / Secure Code from internet banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Internet Banking</controllingFieldValue>
+            <valueName>I was unable to complete my transaction on internet banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Internet Banking</controllingFieldValue>
+            <controllingFieldValue>Mobile Banking</controllingFieldValue>
+            <valueName>The internet banking platform was not stable</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Internet Banking</controllingFieldValue>
+            <valueName>The internet banking platform was offline</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mobile Banking</controllingFieldValue>
+            <valueName>Could not load/pay beneficiaries on the mobile banking app</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mobile Banking</controllingFieldValue>
+            <valueName>I did not receive my OTP / Secure code from the mobile banking app</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mobile Banking</controllingFieldValue>
+            <valueName>I was unable to complete my transaction on the mobile banking app</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mobile Banking</controllingFieldValue>
+            <valueName>The mobile banking app platform was offline</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Sales and Marketing</controllingFieldValue>
+            <valueName>Availability of brochures for products</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Sales and Marketing</controllingFieldValue>
+            <valueName>Did not inform me of the charges</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Sales and Marketing</controllingFieldValue>
+            <valueName>Do not call me again</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Sales and Marketing</controllingFieldValue>
+            <valueName>Inaccurate product information</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Sales and Marketing</controllingFieldValue>
+            <valueName>The merchant did not honor the promotional offer</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Sales and Marketing</controllingFieldValue>
+            <valueName>Misleading advertising</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>SMS</controllingFieldValue>
+            <valueName>Issues with SMS alerts</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>SMS</controllingFieldValue>
+            <valueName>Multiple SMS Alerts on Account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>SMS</controllingFieldValue>
+            <valueName>SMS Alert Cancellation Not Actioned</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>SMS</controllingFieldValue>
+            <valueName>SMS Alert Facility Not Configured</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>USSD</controllingFieldValue>
+            <valueName>When I choose one of the options under the Service Type field:</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>USSD</controllingFieldValue>
+            <valueName>Could not load/pay beneficiaries on my USSD banking on my phone</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>USSD</controllingFieldValue>
+            <valueName>I did not receive my OTP / Secure code from the USSD banking on my phone</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>USSD</controllingFieldValue>
+            <valueName>I was unable to complete my transaction on the USSD banking on my phone</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>USSD</controllingFieldValue>
+            <valueName>The USSD banking on my phone was not stable</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>USSD</controllingFieldValue>
+            <valueName>The USSD banking on my phone was offline</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Absa Mobile Wallet</controllingFieldValue>
+            <valueName>Could not load/pay beneficiaries through my Absa mobile wallet</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Absa Mobile Wallet</controllingFieldValue>
+            <valueName>Did not receive the password for my Absa mobile wallet</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Absa Mobile Wallet</controllingFieldValue>
+            <valueName>I could not view my balances on my Absa mobile wallet</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Absa Mobile Wallet</controllingFieldValue>
+            <valueName>I did not receive the OTP / Secure code for my Absa mobile wallet transaction</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Absa Mobile Wallet</controllingFieldValue>
+            <valueName>I was unable to complete my transaction on my Absa mobile wallet</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Absa Mobile Wallet</controllingFieldValue>
+            <valueName>Need to change the password on my Absa mobile wallet</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Absa Mobile Wallet</controllingFieldValue>
+            <valueName>The Absa mobile wallet platform was offline</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mobile Service Provider Wallet</controllingFieldValue>
+            <valueName>Transfer to my wallet failed</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Jumo Loans</controllingFieldValue>
+            <controllingFieldValue>Timiza Loans</controllingFieldValue>
+            <valueName>Payment to my loan failed</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Jumo Loans</controllingFieldValue>
+            <controllingFieldValue>Timiza Loans</controllingFieldValue>
+            <valueName>Unable to view the balance on my loan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>Blocked my account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>Changing my personal details</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>Cheques</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>Closed my account without my permission</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>Crediting funds to my account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>Disputed transaction</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>My payment failed</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>Not receiving my statements</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>Opened an account without my permission</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>Problems with opening / using my account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>Reserved funds on account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>Standing Orders</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>Takes too long to close an account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Account Management</controllingFieldValue>
+            <valueName>Unpaid transaction</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Bancassurance</controllingFieldValue>
+            <valueName>Did not process my insurance request</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Bancassurance</controllingFieldValue>
+            <valueName>The insurance on my card</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Bancassurance</controllingFieldValue>
+            <valueName>Vehicle and Asset insurance</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <controllingFieldValue>Timiza Loans</controllingFieldValue>
+            <valueName>Suspected Fraud</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <valueName>Canceled my card without my permission</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <valueName>Card blocked</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <valueName>Card not working</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <valueName>Delay in issuing or delivering my card</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <valueName>Difficulty canceling or closing my card</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <valueName>Issuing or re-setting the PIN on my card</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <valueName>Made a mistake when they activated/issued my card</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <valueName>My card was declined</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <valueName>POS transaction did not go through</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <valueName>Problems with changing the limit on my card</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Card</controllingFieldValue>
+            <valueName>Welcome kit incomplete - Absa Credit Card</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Foreign Exchange</controllingFieldValue>
+            <valueName>Exchange rate</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Foreign Exchange</controllingFieldValue>
+            <valueName>Letter of Credit</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Loans</controllingFieldValue>
+            <valueName>Delays in processing my loan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Loans</controllingFieldValue>
+            <valueName>Disputed balance on my loan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Loans</controllingFieldValue>
+            <valueName>Disputed loan repayment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Loans</controllingFieldValue>
+            <valueName>I could not get a loan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Loans</controllingFieldValue>
+            <valueName>The term of my loan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Cross border payments clearing periods</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Did not receive a local Absa payment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Did not receive a local non-Absa payment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Did not receive an international payment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Duplicated international payment debited to my account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Duplicated local Absa payment debited to my account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Duplicated local non-Absa payment debited to my account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Non-receipt of swift copy</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Payment did not go through to a local Absa beneficiary</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Payment did not go through to a local non-Absa beneficiary</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Payment did not go through to an international beneficiary</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Wrong international value received</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Wrong local value received from a non-Absa payment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Payments</controllingFieldValue>
+            <valueName>Wrong local value received from an Absa payment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Savings and Investments</controllingFieldValue>
+            <valueName>Demand deposits</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Savings and Investments</controllingFieldValue>
+            <valueName>Fixed deposit</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Savings and Investments</controllingFieldValue>
+            <valueName>Short term deposits</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Savings and Investments</controllingFieldValue>
+            <valueName>Rediscounting my Treasury Bill</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Savings and Investments</controllingFieldValue>
+            <valueName>Treasury bill not purchased</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Savings and Investments</controllingFieldValue>
+            <valueName>Requested investment profit not received</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Savings and Investments</controllingFieldValue>
+            <valueName>Other Treasury bill related issues</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Savings and Investments</controllingFieldValue>
+            <valueName>Treasury bonds</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Agency Banking</controllingFieldValue>
+            <valueName>Agency Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>3rd Party ATM - Card declined</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>3rd Party ATM - Card retained</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>3rd Party ATM - Cash withdrawal fees</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>3rd party ATM - debited account, cash not received</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>Absa ATM - Card declined</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>Absa ATM - Card retained</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>Absa ATM - debited account, cash not received</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>ATM Cash send failure</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>ATM Deposit not reflecting on the account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>ATM location</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>ATM not working</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>Cash Acceptor</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>Cash Send</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>No cash in the ATM</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ATM</controllingFieldValue>
+            <valueName>Receipts</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Timiza Loans</controllingFieldValue>
+            <valueName>Credit Bureau listing of Timiza loan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Timiza Loans</controllingFieldValue>
+            <valueName>Repayment collected not reflecting on my Timiza Wallet</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Complaints Handling</controllingFieldValue>
+            <valueName>Did not handle my complaint well</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Complaints Handling</controllingFieldValue>
+            <valueName>Took too long to resolve my complaint</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Role xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseAccessLevel>Edit</caseAccessLevel>
+    <contactAccessLevel>Edit</contactAccessLevel>
+    <description>SPECIALIST: OPERATIONS &amp; ADMINISTARTION</description>
+    <mayForecastManagerShare>false</mayForecastManagerShare>
+    <name>MZ SPECIALIST:OA</name>
+    <opportunityAccessLevel>Edit</opportunityAccessLevel>
+    <parentRole>MZ_HOIT</parentRole>
+</Role>
