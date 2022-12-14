@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Business Segment --></label>
+        <name>BusinessSegment__c</name>
+        <picklistValues>
+            <masterLabel>Agriculture</masterLabel>
+            <translation><!-- Agriculture --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Commercial</masterLabel>
+            <translation><!-- Commercial --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate</masterLabel>
+            <translation><!-- Corporate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Local Business</masterLabel>
+            <translation><!-- Local Business --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mass</masterLabel>
+            <translation><!-- Mass --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personal Standard</masterLabel>
+            <translation><!-- Personal Standard --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier</masterLabel>
+            <translation><!-- Premier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige</masterLabel>
+            <translation><!-- Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SME</masterLabel>
+            <translation><!-- SME --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

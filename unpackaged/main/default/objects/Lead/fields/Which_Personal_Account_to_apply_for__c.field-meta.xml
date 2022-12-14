@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Which_Personal_Account_to_apply_for__c</fullName>
+    <externalId>false</externalId>
+    <label>Which Personal Account to apply for?</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>La Riba Current Account</fullName>
+                <default>false</default>
+                <label>La Riba Current Account</label>
+            </value>
+            <value>
+                <fullName>La Riba Absa Junior</fullName>
+                <default>false</default>
+                <label>La Riba Absa Junior</label>
+            </value>
+            <value>
+                <fullName>La Riba Premier Account</fullName>
+                <default>false</default>
+                <label>La Riba Premier Account</label>
+            </value>
+            <value>
+                <fullName>La Riba Prestige Account</fullName>
+                <default>false</default>
+                <label>La Riba Prestige Account</label>
+            </value>
+            <value>
+                <fullName>La Riba Mortgage Finance</fullName>
+                <default>false</default>
+                <label>La Riba Mortgage Finance</label>
+            </value>
+            <value>
+                <fullName>La Riba Business Finance</fullName>
+                <default>false</default>
+                <label>La Riba Business Finance</label>
+            </value>
+            <value>
+                <fullName>La Riba Asset Based Finance</fullName>
+                <default>false</default>
+                <label>La Riba Asset Based Finance</label>
+            </value>
+            <value>
+                <fullName>La Riba Construction Finance</fullName>
+                <default>false</default>
+                <label>La Riba Construction Finance</label>
+            </value>
+            <value>
+                <fullName>Mudhaarabah</fullName>
+                <default>false</default>
+                <label>Mudhaarabah</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

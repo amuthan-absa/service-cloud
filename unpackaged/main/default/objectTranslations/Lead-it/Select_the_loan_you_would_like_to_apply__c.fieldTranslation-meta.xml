@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Select the loan you would like to apply --></label>
+        <name>Select_the_loan_you_would_like_to_apply__c</name>
+        <picklistValues>
+            <masterLabel>A new car</masterLabel>
+            <translation><!-- A new car --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>A used car</masterLabel>
+            <translation><!-- A used car --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

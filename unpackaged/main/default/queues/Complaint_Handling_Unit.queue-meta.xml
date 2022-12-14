@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>true</doesSendEmailToMembers>
+    <name>Complaint Handling Unit</name>
+    <queueMembers>
+        <users>
+            <user>amit.kumar2@absaaro.com</user>
+            <user>amuthan.m@absaaro.com</user>
+            <user>karabo.meletse@absaaro.com</user>
+            <user>pradeep.korrapati@absaaro.com</user>
+            <user>siphokazi.lengizi@absaaro.com</user>
+            <user>thembelani.mdhluli@absaaro.com</user>
+        </users>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>Case</sobjectType>
+    </queueSobject>
+</Queue>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>client birthday email</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>birthday email</name>
+    <style>none</style>
+    <subject>Birthday Bash Wishes - ABSA</subject>
+    <textOnly>Dear {!Account.FirstName} {!Account.LastName}, 
+
+May the days ahead of you be filled with prosperity, great health, and above all joy in its truest and purest form. Happy birthday! Sincerely wish you the best of celebrations on this wonderful day of yours.
+
+Sincerely,
+ABSA Bank
+
+ &lt;Please do not reply to this email. &gt;</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

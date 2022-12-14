@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Service Type --></label>
+        <name>Service_Type__c</name>
+        <picklistValues>
+            <masterLabel>3rd Party ATM - Card declined</masterLabel>
+            <translation><!-- 3rd Party ATM - Card declined --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3rd Party ATM - Card retained</masterLabel>
+            <translation><!-- 3rd Party ATM - Card retained --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3rd Party ATM - Cash withdrawal fees</masterLabel>
+            <translation><!-- 3rd Party ATM - Cash withdrawal fees --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3rd party ATM - debited account, cash not received</masterLabel>
+            <translation><!-- 3rd party ATM - debited account, cash not received --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ATM Cash send failure</masterLabel>
+            <translation><!-- ATM Cash send failure --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ATM Deposit not reflecting on the account</masterLabel>
+            <translation><!-- ATM Deposit not reflecting on the account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ATM location</masterLabel>
+            <translation><!-- ATM location --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ATM not working</masterLabel>
+            <translation><!-- ATM not working --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa ATM - Card declined</masterLabel>
+            <translation><!-- Absa ATM - Card declined --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa ATM - Card retained</masterLabel>
+            <translation><!-- Absa ATM - Card retained --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa ATM - debited account, cash not received</masterLabel>
+            <translation><!-- Absa ATM - debited account, cash not received --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Account maintenance fees</masterLabel>
+            <translation><!-- Account maintenance fees --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Agency Banking</masterLabel>
+            <translation><!-- Agency Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Applied the wrong interest</masterLabel>
+            <translation><!-- Applied the wrong interest --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Attitude of Staff</masterLabel>
+            <translation><!-- Attitude of Staff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Availability of brochures for products</masterLabel>
+            <translation><!-- Availability of brochures for products --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Behaving fraudulently</masterLabel>
+            <translation><!-- Behaving fraudulently --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Blocked my account</masterLabel>
+            <translation><!-- Blocked my account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Branch location</masterLabel>
+            <translation><!-- Branch location --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Branch operating hours</masterLabel>
+            <translation><!-- Branch operating hours --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Branch premises</masterLabel>
+            <translation><!-- Branch premises --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Canceled my card without my permission</masterLabel>
+            <translation><!-- Canceled my card without my permission --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Card</masterLabel>
+            <translation><!-- Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Card blocked</masterLabel>
+            <translation><!-- Card blocked --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Card fees</masterLabel>
+            <translation><!-- Card fees --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Card not working</masterLabel>
+            <translation><!-- Card not working --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cash Acceptor</masterLabel>
+            <translation><!-- Cash Acceptor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cash Send</masterLabel>
+            <translation><!-- Cash Send --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cash handling fees</masterLabel>
+            <translation><!-- Cash handling fees --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Changing my personal details</masterLabel>
+            <translation><!-- Changing my personal details --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cheques</masterLabel>
+            <translation><!-- Cheques --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Closed my account without my permission</masterLabel>
+            <translation><!-- Closed my account without my permission --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contacted me without permission</masterLabel>
+            <translation><!-- Contacted me without permission --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Could not load/pay beneficiaries on internet banking</masterLabel>
+            <translation><!-- Could not load/pay beneficiaries on internet banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Could not load/pay beneficiaries on my USSD banking on my phone</masterLabel>
+            <translation><!-- Could not load/pay beneficiaries on my USSD banking on my phone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Could not load/pay beneficiaries on the mobile banking app</masterLabel>
+            <translation><!-- Could not load/pay beneficiaries on the mobile banking app --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Could not load/pay beneficiaries through my Absa mobile wallet</masterLabel>
+            <translation><!-- Could not load/pay beneficiaries through my Absa mobile wallet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Credit Bureau listing of Timiza loan</masterLabel>
+            <translation><!-- Credit Bureau listing of Timiza loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Credit Listing</masterLabel>
+            <translation><!-- Credit Listing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Credit Shield installment</masterLabel>
+            <translation><!-- Credit Shield installment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crediting funds to my account</masterLabel>
+            <translation><!-- Crediting funds to my account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cross border payments clearing periods</masterLabel>
+            <translation><!-- Cross border payments clearing periods --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Delay in issuing or delivering my card</masterLabel>
+            <translation><!-- Delay in issuing or delivering my card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Delays in processing my loan</masterLabel>
+            <translation><!-- Delays in processing my loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Demand deposits</masterLabel>
+            <translation><!-- Demand deposits --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Denied access to my personal data</masterLabel>
+            <translation><!-- Denied access to my personal data --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Did not adhere to my instruction</masterLabel>
+            <translation><!-- Did not adhere to my instruction --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Did not handle my complaint well</masterLabel>
+            <translation><!-- Did not handle my complaint well --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Did not inform me of the charges</masterLabel>
+            <translation><!-- Did not inform me of the charges --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Did not process my insurance request</masterLabel>
+            <translation><!-- Did not process my insurance request --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Did not receive a local Absa payment</masterLabel>
+            <translation><!-- Did not receive a local Absa payment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Did not receive a local non-Absa payment</masterLabel>
+            <translation><!-- Did not receive a local non-Absa payment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Did not receive an international payment</masterLabel>
+            <translation><!-- Did not receive an international payment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Did not receive the password for my Absa mobile wallet</masterLabel>
+            <translation><!-- Did not receive the password for my Absa mobile wallet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Difficulty canceling or closing my card</masterLabel>
+            <translation><!-- Difficulty canceling or closing my card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Disclosed my personal information</masterLabel>
+            <translation><!-- Disclosed my personal information --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Disputed balance on my loan</masterLabel>
+            <translation><!-- Disputed balance on my loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Disputed loan repayment</masterLabel>
+            <translation><!-- Disputed loan repayment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Disputed transaction</masterLabel>
+            <translation><!-- Disputed transaction --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Do not call me again</masterLabel>
+            <translation><!-- Do not call me again --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Duplicated international payment debited to my account</masterLabel>
+            <translation><!-- Duplicated international payment debited to my account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Duplicated local Absa payment debited to my account</masterLabel>
+            <translation><!-- Duplicated local Absa payment debited to my account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Duplicated local non-Absa payment debited to my account</masterLabel>
+            <translation><!-- Duplicated local non-Absa payment debited to my account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E-Statements not Opening</masterLabel>
+            <translation><!-- E-Statements not Opening --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Exchange rate</masterLabel>
+            <translation><!-- Exchange rate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Execution of Court Order</masterLabel>
+            <translation><!-- Execution of Court Order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fixed deposit</masterLabel>
+            <translation><!-- Fixed deposit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Forex Fees</masterLabel>
+            <translation><!-- Forex Fees --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I could not get a loan</masterLabel>
+            <translation><!-- I could not get a loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I could not view my balances on my Absa mobile wallet</masterLabel>
+            <translation><!-- I could not view my balances on my Absa mobile wallet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I did not receive my OTP / Secure Code from internet banking</masterLabel>
+            <translation><!-- I did not receive my OTP / Secure Code from internet banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I did not receive my OTP / Secure code from the USSD banking on my phone</masterLabel>
+            <translation><!-- I did not receive my OTP / Secure code from the USSD banking on my phone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I did not receive my OTP / Secure code from the mobile banking app</masterLabel>
+            <translation><!-- I did not receive my OTP / Secure code from the mobile banking app --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I did not receive the OTP / Secure code for my Absa mobile wallet transaction</masterLabel>
+            <translation><!-- I did not receive the OTP / Secure code for my Absa mobile wallet transaction --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I was unable to complete my transaction on internet banking</masterLabel>
+            <translation><!-- I was unable to complete my transaction on internet banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I was unable to complete my transaction on my Absa mobile wallet</masterLabel>
+            <translation><!-- I was unable to complete my transaction on my Absa mobile wallet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I was unable to complete my transaction on the USSD banking on my phone</masterLabel>
+            <translation><!-- I was unable to complete my transaction on the USSD banking on my phone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I was unable to complete my transaction on the mobile banking app</masterLabel>
+            <translation><!-- I was unable to complete my transaction on the mobile banking app --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inaccurate product information</masterLabel>
+            <translation><!-- Inaccurate product information --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Incorrect/no mention of fees</masterLabel>
+            <translation><!-- Incorrect/no mention of fees --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Insufficient narratives</masterLabel>
+            <translation><!-- Insufficient narratives --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Internet banking fees</masterLabel>
+            <translation><!-- Internet banking fees --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Issues with SMS alerts</masterLabel>
+            <translation><!-- Issues with SMS alerts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Issuing or re-setting the PIN on my card</masterLabel>
+            <translation><!-- Issuing or re-setting the PIN on my card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legal</masterLabel>
+            <translation><!-- Legal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Letter of Credit</masterLabel>
+            <translation><!-- Letter of Credit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Loan</masterLabel>
+            <translation><!-- Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Long queues</masterLabel>
+            <translation><!-- Long queues --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Made a mistake when they activated/issued my card</masterLabel>
+            <translation><!-- Made a mistake when they activated/issued my card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Misleading advertising</masterLabel>
+            <translation><!-- Misleading advertising --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mortgage</masterLabel>
+            <translation><!-- Mortgage --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multiple SMS Alerts on Account</masterLabel>
+            <translation><!-- Multiple SMS Alerts on Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>My card was declined</masterLabel>
+            <translation><!-- My card was declined --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>My payment failed</masterLabel>
+            <translation><!-- My payment failed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Need to change the password on my Absa mobile wallet</masterLabel>
+            <translation><!-- Need to change the password on my Absa mobile wallet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No cash in the ATM</masterLabel>
+            <translation><!-- No cash in the ATM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Non-receipt of swift copy</masterLabel>
+            <translation><!-- Non-receipt of swift copy --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not informed of charges</masterLabel>
+            <translation><!-- Not informed of charges --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not receiving my statements</masterLabel>
+            <translation><!-- Not receiving my statements --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Opened an account without my permission</masterLabel>
+            <translation><!-- Opened an account without my permission --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Treasury bill related issues</masterLabel>
+            <translation><!-- Other Treasury bill related issues --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Overdraft Charges</masterLabel>
+            <translation><!-- Overdraft Charges --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>POS transaction did not go through</masterLabel>
+            <translation><!-- POS transaction did not go through --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Payment did not go through to a local Absa beneficiary</masterLabel>
+            <translation><!-- Payment did not go through to a local Absa beneficiary --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Payment did not go through to a local non-Absa beneficiary</masterLabel>
+            <translation><!-- Payment did not go through to a local non-Absa beneficiary --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Payment did not go through to an international beneficiary</masterLabel>
+            <translation><!-- Payment did not go through to an international beneficiary --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Payment to my loan failed</masterLabel>
+            <translation><!-- Payment to my loan failed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Penalty charges</masterLabel>
+            <translation><!-- Penalty charges --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personal data quality issues</masterLabel>
+            <translation><!-- Personal data quality issues --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Problems with changing the limit on my card</masterLabel>
+            <translation><!-- Problems with changing the limit on my card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Problems with opening / using my account</masterLabel>
+            <translation><!-- Problems with opening / using my account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Receipts</masterLabel>
+            <translation><!-- Receipts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rediscounting my Treasury Bill</masterLabel>
+            <translation><!-- Rediscounting my Treasury Bill --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Repayment collected not reflecting on my Timiza Wallet</masterLabel>
+            <translation><!-- Repayment collected not reflecting on my Timiza Wallet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Requested investment profit not received</masterLabel>
+            <translation><!-- Requested investment profit not received --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reserved funds on account</masterLabel>
+            <translation><!-- Reserved funds on account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SMS Alert Cancellation Not Actioned</masterLabel>
+            <translation><!-- SMS Alert Cancellation Not Actioned --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SMS Alert Facility Not Configured</masterLabel>
+            <translation><!-- SMS Alert Facility Not Configured --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SMS alert charges</masterLabel>
+            <translation><!-- SMS alert charges --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Security at the Branch</masterLabel>
+            <translation><!-- Security at the Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Service or transaction charges</masterLabel>
+            <translation><!-- Service or transaction charges --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Short term deposits</masterLabel>
+            <translation><!-- Short term deposits --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Staff being available</masterLabel>
+            <translation><!-- Staff being available --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Staff error</masterLabel>
+            <translation><!-- Staff error --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Staff knowledge</masterLabel>
+            <translation><!-- Staff knowledge --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Standing Orders</masterLabel>
+            <translation><!-- Standing Orders --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Suspected Fraud</masterLabel>
+            <translation><!-- Suspected Fraud --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Takes too long to close an account</masterLabel>
+            <translation><!-- Takes too long to close an account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>The Absa mobile wallet platform was offline</masterLabel>
+            <translation><!-- The Absa mobile wallet platform was offline --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>The USSD banking on my phone was not stable</masterLabel>
+            <translation><!-- The USSD banking on my phone was not stable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>The USSD banking on my phone was offline</masterLabel>
+            <translation><!-- The USSD banking on my phone was offline --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>The insurance on my card</masterLabel>
+            <translation><!-- The insurance on my card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>The internet banking platform was not stable</masterLabel>
+            <translation><!-- The internet banking platform was not stable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>The internet banking platform was offline</masterLabel>
+            <translation><!-- The internet banking platform was offline --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>The merchant did not honor the promotional offer</masterLabel>
+            <translation><!-- The merchant did not honor the promotional offer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>The mobile banking app platform was offline</masterLabel>
+            <translation><!-- The mobile banking app platform was offline --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>The term of my loan</masterLabel>
+            <translation><!-- The term of my loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Took too long to resolve my complaint</masterLabel>
+            <translation><!-- Took too long to resolve my complaint --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Transfer to my wallet failed</masterLabel>
+            <translation><!-- Transfer to my wallet failed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Treasury bill not purchased</masterLabel>
+            <translation><!-- Treasury bill not purchased --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Treasury bonds</masterLabel>
+            <translation><!-- Treasury bonds --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unable to view the balance on my loan</masterLabel>
+            <translation><!-- Unable to view the balance on my loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unauthorized processing of personal data</masterLabel>
+            <translation><!-- Unauthorized processing of personal data --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unpaid transaction</masterLabel>
+            <translation><!-- Unpaid transaction --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vehicle and Asset insurance</masterLabel>
+            <translation><!-- Vehicle and Asset insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Welcome kit incomplete - Absa Credit Card</masterLabel>
+            <translation><!-- Welcome kit incomplete - Absa Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>When I choose one of the options under the Service Type field:</masterLabel>
+            <translation><!-- When I choose one of the options under the Service Type field: --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wrong international value received</masterLabel>
+            <translation><!-- Wrong international value received --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wrong local value received from a non-Absa payment</masterLabel>
+            <translation><!-- Wrong local value received from a non-Absa payment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wrong local value received from an Absa payment</masterLabel>
+            <translation><!-- Wrong local value received from an Absa payment --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

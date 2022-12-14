@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Branch --></label>
+        <name>Branch__c</name>
+        <picklistValues>
+            <masterLabel>25 de Setembro</masterLabel>
+            <translation><!-- 25 de Setembro --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ABC Prestige</masterLabel>
+            <translation><!-- ABC Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ABEKA LAPAZ</masterLabel>
+            <translation><!-- ABEKA LAPAZ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ACHIMOTA</masterLabel>
+            <translation><!-- ACHIMOTA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ACHIMOTA PRESTIGE</masterLabel>
+            <translation><!-- ACHIMOTA PRESTIGE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ASAFO Branch</masterLabel>
+            <translation><!-- ASAFO Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ASHIAMAN</masterLabel>
+            <translation><!-- ASHIAMAN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AVENUE CENTRAL</masterLabel>
+            <translation><!-- AVENUE CENTRAL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Aacacia Mall</masterLabel>
+            <translation><!-- Aacacia Mall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Abaita Ababiri</masterLabel>
+            <translation><!-- Abaita Ababiri --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa Towers Premier</masterLabel>
+            <translation><!-- Absa Towers Premier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa Towers Prestige</masterLabel>
+            <translation><!-- Absa Towers Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accra High Street</masterLabel>
+            <translation><!-- Accra High Street --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accra High Street Prestige</masterLabel>
+            <translation><!-- Accra High Street Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ahodwo Main</masterLabel>
+            <translation><!-- Ahodwo Main --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ahodwo Prestige</masterLabel>
+            <translation><!-- Ahodwo Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Airport Junction</masterLabel>
+            <translation><!-- Airport Junction --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Airport Junction Premier</masterLabel>
+            <translation><!-- Airport Junction Premier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alpha House</masterLabel>
+            <translation><!-- Alpha House --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alto Mae</masterLabel>
+            <translation><!-- Alto Mae --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Arcades</masterLabel>
+            <translation><!-- Arcades --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Archbishop Luwum Street</masterLabel>
+            <translation><!-- Archbishop Luwum Street --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Arua</masterLabel>
+            <translation><!-- Arua --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Arusha</masterLabel>
+            <translation><!-- Arusha --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Avenida de Angola</masterLabel>
+            <translation><!-- Avenida de Angola --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Avenida de Mocambique</masterLabel>
+            <translation><!-- Avenida de Mocambique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Avon Centre</masterLabel>
+            <translation><!-- Avon Centre --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BANTAMA</masterLabel>
+            <translation><!-- BANTAMA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BOLGA</masterLabel>
+            <translation><!-- BOLGA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Babati</masterLabel>
+            <translation><!-- Babati --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Baia Mall</masterLabel>
+            <translation><!-- Baia Mall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Beira</masterLabel>
+            <translation><!-- Beira --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Berekum</masterLabel>
+            <translation><!-- Berekum --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Black River</masterLabel>
+            <translation><!-- Black River --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Blue Jacket</masterLabel>
+            <translation><!-- Blue Jacket --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boane</masterLabel>
+            <translation><!-- Boane --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bobonong</masterLabel>
+            <translation><!-- Bobonong --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bomet</masterLabel>
+            <translation><!-- Bomet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Branch</masterLabel>
+            <translation><!-- Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Broadhurst</masterLabel>
+            <translation><!-- Broadhurst --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bugolobi</masterLabel>
+            <translation><!-- Bugolobi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bukoba</masterLabel>
+            <translation><!-- Bukoba --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bungoma</masterLabel>
+            <translation><!-- Bungoma --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bunyala Rd</masterLabel>
+            <translation><!-- Bunyala Rd --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Buruburu</masterLabel>
+            <translation><!-- Buruburu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Busia</masterLabel>
+            <translation><!-- Busia --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CAPE COAST</masterLabel>
+            <translation><!-- CAPE COAST --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CIRCLE</masterLabel>
+            <translation><!-- CIRCLE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carbo Premier</masterLabel>
+            <translation><!-- Carbo Premier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carbo Prestige</masterLabel>
+            <translation><!-- Carbo Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Centre de Flacq</masterLabel>
+            <translation><!-- Centre de Flacq --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Centro de Negocios</masterLabel>
+            <translation><!-- Centro de Negocios --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chang&#39;ombe</masterLabel>
+            <translation><!-- Chang&apos;ombe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Changamwe</masterLabel>
+            <translation><!-- Changamwe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chimoio</masterLabel>
+            <translation><!-- Chimoio --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chingola</masterLabel>
+            <translation><!-- Chingola --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chipata</masterLabel>
+            <translation><!-- Chipata --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chokwe</masterLabel>
+            <translation><!-- Chokwe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Choma</masterLabel>
+            <translation><!-- Choma --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Circle Business Banking</masterLabel>
+            <translation><!-- Circle Business Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Circle Prestige</masterLabel>
+            <translation><!-- Circle Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate</masterLabel>
+            <translation><!-- Corporate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate Service Center</masterLabel>
+            <translation><!-- Corporate Service Center --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cosmopolitan Mall Makeni</masterLabel>
+            <translation><!-- Cosmopolitan Mall Makeni --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Curepipe</masterLabel>
+            <translation><!-- Curepipe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DANSOMAN</masterLabel>
+            <translation><!-- DANSOMAN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DARKUMAN</masterLabel>
+            <translation><!-- DARKUMAN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dar City Mall</masterLabel>
+            <translation><!-- Dar City Mall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Diani</masterLabel>
+            <translation><!-- Diani --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Digo</masterLabel>
+            <translation><!-- Digo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dodoma</masterLabel>
+            <translation><!-- Dodoma --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dondo</masterLabel>
+            <translation><!-- Dondo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>East Legon</masterLabel>
+            <translation><!-- East Legon --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>East Park</masterLabel>
+            <translation><!-- East Park --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Eastleigh</masterLabel>
+            <translation><!-- Eastleigh --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ebene</masterLabel>
+            <translation><!-- Ebene --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Eldoret</masterLabel>
+            <translation><!-- Eldoret --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Embu</masterLabel>
+            <translation><!-- Embu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Entebbe Kitoro</masterLabel>
+            <translation><!-- Entebbe Kitoro --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fernao de Magalhaes</masterLabel>
+            <translation><!-- Fernao de Magalhaes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fortportal</masterLabel>
+            <translation><!-- Fortportal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Francistown</masterLabel>
+            <translation><!-- Francistown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Francistown Premier</masterLabel>
+            <translation><!-- Francistown Premier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GIND</masterLabel>
+            <translation><!-- GIND --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Galo Prestige</masterLabel>
+            <translation><!-- Galo Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Game City</masterLabel>
+            <translation><!-- Game City --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Game City Premier</masterLabel>
+            <translation><!-- Game City Premier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Garden City</masterLabel>
+            <translation><!-- Garden City --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Garissa</masterLabel>
+            <translation><!-- Garissa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Geita</masterLabel>
+            <translation><!-- Geita --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ghanzi</masterLabel>
+            <translation><!-- Ghanzi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gikomba</masterLabel>
+            <translation><!-- Gikomba --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gilgil</masterLabel>
+            <translation><!-- Gilgil --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Githunguri</masterLabel>
+            <translation><!-- Githunguri --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Grand Bay</masterLabel>
+            <translation><!-- Grand Bay --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Guerra Popular</masterLabel>
+            <translation><!-- Guerra Popular --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gulu</masterLabel>
+            <translation><!-- Gulu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gumani</masterLabel>
+            <translation><!-- Gumani --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gumani Prestige</masterLabel>
+            <translation><!-- Gumani Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gumare</masterLabel>
+            <translation><!-- Gumare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HO</masterLabel>
+            <translation><!-- HO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Haatso</masterLabel>
+            <translation><!-- Haatso --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hannington Premier</masterLabel>
+            <translation><!-- Hannington Premier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Harambee</masterLabel>
+            <translation><!-- Harambee --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Head Office</masterLabel>
+            <translation><!-- Head Office --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High Street Businees Banking</masterLabel>
+            <translation><!-- High Street Businees Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hohoe</masterLabel>
+            <translation><!-- Hohoe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hoima</masterLabel>
+            <translation><!-- Hoima --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hollard</masterLabel>
+            <translation><!-- Hollard --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Homa bay</masterLabel>
+            <translation><!-- Homa bay --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hurlingham Branch</masterLabel>
+            <translation><!-- Hurlingham Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Igoma</masterLabel>
+            <translation><!-- Igoma --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Industrial</masterLabel>
+            <translation><!-- Industrial --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inhaca</masterLabel>
+            <translation><!-- Inhaca --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inhambane</masterLabel>
+            <translation><!-- Inhambane --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Iringa</masterLabel>
+            <translation><!-- Iringa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Isiolo</masterLabel>
+            <translation><!-- Isiolo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JKIA Branch</masterLabel>
+            <translation><!-- JKIA Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jinja</masterLabel>
+            <translation><!-- Jinja --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jwaneng</masterLabel>
+            <translation><!-- Jwaneng --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>KEJETIA</masterLabel>
+            <translation><!-- KEJETIA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>KNUST</masterLabel>
+            <translation><!-- KNUST --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>KOFORIDUA</masterLabel>
+            <translation><!-- KOFORIDUA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>KPST</masterLabel>
+            <translation><!-- KPST --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>KPST Prestige</masterLabel>
+            <translation><!-- KPST Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>KROFROM</masterLabel>
+            <translation><!-- KROFROM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kabale</masterLabel>
+            <translation><!-- Kabale --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kabarnet</masterLabel>
+            <translation><!-- Kabarnet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kabulonga Centro Mall</masterLabel>
+            <translation><!-- Kabulonga Centro Mall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kabwata</masterLabel>
+            <translation><!-- Kabwata --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kabwe</masterLabel>
+            <translation><!-- Kabwe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kafue</masterLabel>
+            <translation><!-- Kafue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kahama</masterLabel>
+            <translation><!-- Kahama --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kakamega</masterLabel>
+            <translation><!-- Kakamega --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kampala Road</masterLabel>
+            <translation><!-- Kampala Road --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kaneshie Branch</masterLabel>
+            <translation><!-- Kaneshie Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kansanga</masterLabel>
+            <translation><!-- Kansanga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kanye</masterLabel>
+            <translation><!-- Kanye --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kapenguria</masterLabel>
+            <translation><!-- Kapenguria --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kapsabet</masterLabel>
+            <translation><!-- Kapsabet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Karatina</masterLabel>
+            <translation><!-- Karatina --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Karatu</masterLabel>
+            <translation><!-- Karatu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Karen</masterLabel>
+            <translation><!-- Karen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kariakoo</masterLabel>
+            <translation><!-- Kariakoo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kariobangi</masterLabel>
+            <translation><!-- Kariobangi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kasama</masterLabel>
+            <translation><!-- Kasama --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kasane</masterLabel>
+            <translation><!-- Kasane --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kasese</masterLabel>
+            <translation><!-- Kasese --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kawempe</masterLabel>
+            <translation><!-- Kawempe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kericho</masterLabel>
+            <translation><!-- Kericho --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kerugoya</masterLabel>
+            <translation><!-- Kerugoya --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kibaha</masterLabel>
+            <translation><!-- Kibaha --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kigoma</masterLabel>
+            <translation><!-- Kigoma --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kikuyu</masterLabel>
+            <translation><!-- Kikuyu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kilifi</masterLabel>
+            <translation><!-- Kilifi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kinondoni</masterLabel>
+            <translation><!-- Kinondoni --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kireka</masterLabel>
+            <translation><!-- Kireka --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kisii</masterLabel>
+            <translation><!-- Kisii --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kisumu</masterLabel>
+            <translation><!-- Kisumu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kitale</masterLabel>
+            <translation><!-- Kitale --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kitengela</masterLabel>
+            <translation><!-- Kitengela --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kitui</masterLabel>
+            <translation><!-- Kitui --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kitwe Main</masterLabel>
+            <translation><!-- Kitwe Main --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kitwe Prestige</masterLabel>
+            <translation><!-- Kitwe Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Knutsford</masterLabel>
+            <translation><!-- Knutsford --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Knutsford Business Banking</masterLabel>
+            <translation><!-- Knutsford Business Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kumasi Business Banking</masterLabel>
+            <translation><!-- Kumasi Business Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>LG CENTRE</masterLabel>
+            <translation><!-- LG CENTRE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>La Digue</masterLabel>
+            <translation><!-- La Digue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lard</masterLabel>
+            <translation><!-- Lard --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lavington Branch</masterLabel>
+            <translation><!-- Lavington Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legon Campus Branch</masterLabel>
+            <translation><!-- Legon Campus Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legon Main Branch</masterLabel>
+            <translation><!-- Legon Main Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Letlhakane</masterLabel>
+            <translation><!-- Letlhakane --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Levy Mall</masterLabel>
+            <translation><!-- Levy Mall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lichinga</masterLabel>
+            <translation><!-- Lichinga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Limuru</masterLabel>
+            <translation><!-- Limuru --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lindi</masterLabel>
+            <translation><!-- Lindi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lira</masterLabel>
+            <translation><!-- Lira --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Livingstone Main</masterLabel>
+            <translation><!-- Livingstone Main --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Livingstone Prestige</masterLabel>
+            <translation><!-- Livingstone Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lobatse</masterLabel>
+            <translation><!-- Lobatse --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Longacres Mian</masterLabel>
+            <translation><!-- Longacres Mian --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Longacres Prestige</masterLabel>
+            <translation><!-- Longacres Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Luanshya</masterLabel>
+            <translation><!-- Luanshya --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lubowa</masterLabel>
+            <translation><!-- Lubowa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lugogo</masterLabel>
+            <translation><!-- Lugogo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lungalunga</masterLabel>
+            <translation><!-- Lungalunga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MADINA</masterLabel>
+            <translation><!-- MADINA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MAKOLA</masterLabel>
+            <translation><!-- MAKOLA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maamobi</masterLabel>
+            <translation><!-- Maamobi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Machakos</masterLabel>
+            <translation><!-- Machakos --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Machava</masterLabel>
+            <translation><!-- Machava --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mahalapye</masterLabel>
+            <translation><!-- Mahalapye --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Makambako Town</masterLabel>
+            <translation><!-- Makambako Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Malindi</masterLabel>
+            <translation><!-- Malindi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mall</masterLabel>
+            <translation><!-- Mall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manga</masterLabel>
+            <translation><!-- Manga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manhica</masterLabel>
+            <translation><!-- Manhica --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manica</masterLabel>
+            <translation><!-- Manica --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mansa</masterLabel>
+            <translation><!-- Mansa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mao Tse Tung</masterLabel>
+            <translation><!-- Mao Tse Tung --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Market Branch</masterLabel>
+            <translation><!-- Market Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marromeu</masterLabel>
+            <translation><!-- Marromeu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Masaka</masterLabel>
+            <translation><!-- Masaka --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Masasi</masterLabel>
+            <translation><!-- Masasi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Masindi</masterLabel>
+            <translation><!-- Masindi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Masunga</masterLabel>
+            <translation><!-- Masunga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Matola Shoprite</masterLabel>
+            <translation><!-- Matola Shoprite --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Matola Spar</masterLabel>
+            <translation><!-- Matola Spar --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maua</masterLabel>
+            <translation><!-- Maua --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maun</masterLabel>
+            <translation><!-- Maun --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maxixe</masterLabel>
+            <translation><!-- Maxixe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mazabuka</masterLabel>
+            <translation><!-- Mazabuka --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mbagala</masterLabel>
+            <translation><!-- Mbagala --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mbale</masterLabel>
+            <translation><!-- Mbale --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mbarara</masterLabel>
+            <translation><!-- Mbarara --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mbeya</masterLabel>
+            <translation><!-- Mbeya --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mbezi Beach</masterLabel>
+            <translation><!-- Mbezi Beach --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Meru</masterLabel>
+            <translation><!-- Meru --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Migori</masterLabel>
+            <translation><!-- Migori --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mikocheni</masterLabel>
+            <translation><!-- Mikocheni --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mkushi</masterLabel>
+            <translation><!-- Mkushi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mlimani City</masterLabel>
+            <translation><!-- Mlimani City --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mnazi Mmoja</masterLabel>
+            <translation><!-- Mnazi Mmoja --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Moatize</masterLabel>
+            <translation><!-- Moatize --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mocuba</masterLabel>
+            <translation><!-- Mocuba --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Moi Mombasa</masterLabel>
+            <translation><!-- Moi Mombasa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Molepolole</masterLabel>
+            <translation><!-- Molepolole --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mongu</masterLabel>
+            <translation><!-- Mongu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Monze</masterLabel>
+            <translation><!-- Monze --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Morogoro</masterLabel>
+            <translation><!-- Morogoro --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Moshi</masterLabel>
+            <translation><!-- Moshi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Moshupa</masterLabel>
+            <translation><!-- Moshupa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mtwara</masterLabel>
+            <translation><!-- Mtwara --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mufulira</masterLabel>
+            <translation><!-- Mufulira --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Muhimbili</masterLabel>
+            <translation><!-- Muhimbili --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mukono</masterLabel>
+            <translation><!-- Mukono --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mukuba Prestige</masterLabel>
+            <translation><!-- Mukuba Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Muranga</masterLabel>
+            <translation><!-- Muranga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Musoma</masterLabel>
+            <translation><!-- Musoma --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mutaba</masterLabel>
+            <translation><!-- Mutaba --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Muthaiga Branch</masterLabel>
+            <translation><!-- Muthaiga Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mwanza</masterLabel>
+            <translation><!-- Mwanza --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NESTER SQUARE</masterLabel>
+            <translation><!-- NESTER SQUARE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NKAWKAW</masterLabel>
+            <translation><!-- NKAWKAW --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nacala</masterLabel>
+            <translation><!-- Nacala --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nairobi West Branch</masterLabel>
+            <translation><!-- Nairobi West Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Naivasha</masterLabel>
+            <translation><!-- Naivasha --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nakonde</masterLabel>
+            <translation><!-- Nakonde --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nakulabye</masterLabel>
+            <translation><!-- Nakulabye --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nakuru East</masterLabel>
+            <translation><!-- Nakuru East --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nakuru West</masterLabel>
+            <translation><!-- Nakuru West --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nampula</masterLabel>
+            <translation><!-- Nampula --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nanyuki</masterLabel>
+            <translation><!-- Nanyuki --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Narok</masterLabel>
+            <translation><!-- Narok --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nata</masterLabel>
+            <translation><!-- Nata --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ndeeba</masterLabel>
+            <translation><!-- Ndeeba --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ndola Buteko</masterLabel>
+            <translation><!-- Ndola Buteko --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ndola Prestige</masterLabel>
+            <translation><!-- Ndola Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ngong</masterLabel>
+            <translation><!-- Ngong --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Njombe</masterLabel>
+            <translation><!-- Njombe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nkrumah Rd</masterLabel>
+            <translation><!-- Nkrumah Rd --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ntida</masterLabel>
+            <translation><!-- Ntida --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nyahururu</masterLabel>
+            <translation><!-- Nyahururu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nyali</masterLabel>
+            <translation><!-- Nyali --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nyali Premier</masterLabel>
+            <translation><!-- Nyali Premier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nyanza</masterLabel>
+            <translation><!-- Nyanza --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nyeri</masterLabel>
+            <translation><!-- Nyeri --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nzega</masterLabel>
+            <translation><!-- Nzega --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OBUASI</masterLabel>
+            <translation><!-- OBUASI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ODA</masterLabel>
+            <translation><!-- ODA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OSU</masterLabel>
+            <translation><!-- OSU --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OSU Prestige</masterLabel>
+            <translation><!-- OSU Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ohio</masterLabel>
+            <translation><!-- Ohio --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ongata Rongai</masterLabel>
+            <translation><!-- Ongata Rongai --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Orapa</masterLabel>
+            <translation><!-- Orapa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Osu Business Banking</masterLabel>
+            <translation><!-- Osu Business Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PREMIER</masterLabel>
+            <translation><!-- PREMIER --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Palapye</masterLabel>
+            <translation><!-- Palapye --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Parkside Towers</masterLabel>
+            <translation><!-- Parkside Towers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Parliament Avenue</masterLabel>
+            <translation><!-- Parliament Avenue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pemba</masterLabel>
+            <translation><!-- Pemba --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personal Prestige</masterLabel>
+            <translation><!-- Personal Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Petauke</masterLabel>
+            <translation><!-- Petauke --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pilane</masterLabel>
+            <translation><!-- Pilane --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Polana</masterLabel>
+            <translation><!-- Polana --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Port Louis</masterLabel>
+            <translation><!-- Port Louis --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Praslin - Baie St Anne</masterLabel>
+            <translation><!-- Praslin - Baie St Anne --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Banking</masterLabel>
+            <translation><!-- Premier Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Flagship</masterLabel>
+            <translation><!-- Premier Flagship --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Kempinski</masterLabel>
+            <translation><!-- Premier Kempinski --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige</masterLabel>
+            <translation><!-- Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Providence</masterLabel>
+            <translation><!-- Providence --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pugu</masterLabel>
+            <translation><!-- Pugu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Quatre Bornes</masterLabel>
+            <translation><!-- Quatre Bornes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Queensway Hse</masterLabel>
+            <translation><!-- Queensway Hse --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Quelimane</masterLabel>
+            <translation><!-- Quelimane --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RIDGE</masterLabel>
+            <translation><!-- RIDGE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RING ROAD</masterLabel>
+            <translation><!-- RING ROAD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rani Towers</masterLabel>
+            <translation><!-- Rani Towers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ressano Garcia</masterLabel>
+            <translation><!-- Ressano Garcia --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ring Road Business Banking</masterLabel>
+            <translation><!-- Ring Road Business Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>River Road</masterLabel>
+            <translation><!-- River Road --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rodrigues</masterLabel>
+            <translation><!-- Rodrigues --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rose Belle</masterLabel>
+            <translation><!-- Rose Belle --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rose Hill</masterLabel>
+            <translation><!-- Rose Hill --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ruaraka</masterLabel>
+            <translation><!-- Ruaraka --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rwenzori</masterLabel>
+            <translation><!-- Rwenzori --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SME</masterLabel>
+            <translation><!-- SME --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SME Branch</masterLabel>
+            <translation><!-- SME Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SOMANYA</masterLabel>
+            <translation><!-- SOMANYA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SPINTEX PRESTIGE</masterLabel>
+            <translation><!-- SPINTEX PRESTIGE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SUAME MAGAZINE</masterLabel>
+            <translation><!-- SUAME MAGAZINE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SUNYANI</masterLabel>
+            <translation><!-- SUNYANI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Samora</masterLabel>
+            <translation><!-- Samora --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sarit Premier</masterLabel>
+            <translation><!-- Sarit Premier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sarit Prestige</masterLabel>
+            <translation><!-- Sarit Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Seacliff</masterLabel>
+            <translation><!-- Seacliff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Selibe Phikwe</masterLabel>
+            <translation><!-- Selibe Phikwe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Serowe</masterLabel>
+            <translation><!-- Serowe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shakawe</masterLabel>
+            <translation><!-- Shakawe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shauriyako</masterLabel>
+            <translation><!-- Shauriyako --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shinyanga</masterLabel>
+            <translation><!-- Shinyanga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Singida</masterLabel>
+            <translation><!-- Singida --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sky Branch</masterLabel>
+            <translation><!-- Sky Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Skybranch</masterLabel>
+            <translation><!-- Skybranch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Slipway</masterLabel>
+            <translation><!-- Slipway --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Solwezi</masterLabel>
+            <translation><!-- Solwezi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Songea</masterLabel>
+            <translation><!-- Songea --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>South Field Mall</masterLabel>
+            <translation><!-- South Field Mall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southern Sun Prestige</masterLabel>
+            <translation><!-- Southern Sun Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spintex Business Banking</masterLabel>
+            <translation><!-- Spintex Business Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spintex Main Branch</masterLabel>
+            <translation><!-- Spintex Main Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sumbawanga</masterLabel>
+            <translation><!-- Sumbawanga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>T-HIGH Business Banking</masterLabel>
+            <translation><!-- T-HIGH Business Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TAFO</masterLabel>
+            <translation><!-- TAFO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TAKORADI HIGH STREET</masterLabel>
+            <translation><!-- TAKORADI HIGH STREET --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TAMALE</masterLabel>
+            <translation><!-- TAMALE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TANOSO</masterLabel>
+            <translation><!-- TANOSO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TEMA FISHING HARBOUR</masterLabel>
+            <translation><!-- TEMA FISHING HARBOUR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TEMA MAIN</masterLabel>
+            <translation><!-- TEMA MAIN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tabora</masterLabel>
+            <translation><!-- Tabora --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Takoradi Liberation</masterLabel>
+            <translation><!-- Takoradi Liberation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tamale Business Banking</masterLabel>
+            <translation><!-- Tamale Business Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tanga</masterLabel>
+            <translation><!-- Tanga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tank Hill Muyenga</masterLabel>
+            <translation><!-- Tank Hill Muyenga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tarime</masterLabel>
+            <translation><!-- Tarime --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tarkwa</masterLabel>
+            <translation><!-- Tarkwa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Taveta</masterLabel>
+            <translation><!-- Taveta --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tegeta</masterLabel>
+            <translation><!-- Tegeta --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Telemarketing Unit</masterLabel>
+            <translation><!-- Telemarketing Unit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Telesales</masterLabel>
+            <translation><!-- Telesales --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Telesales Branch</masterLabel>
+            <translation><!-- Telesales Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tema Main Business Banking</masterLabel>
+            <translation><!-- Tema Main Business Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tema Main Prestige</masterLabel>
+            <translation><!-- Tema Main Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tete</masterLabel>
+            <translation><!-- Tete --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Thika</masterLabel>
+            <translation><!-- Thika --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Thika Road Mall</masterLabel>
+            <translation><!-- Thika Road Mall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tsabong</masterLabel>
+            <translation><!-- Tsabong --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tukuyu</masterLabel>
+            <translation><!-- Tukuyu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tunduma</masterLabel>
+            <translation><!-- Tunduma --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tutume</masterLabel>
+            <translation><!-- Tutume --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Two Rivers</masterLabel>
+            <translation><!-- Two Rivers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UDSM</masterLabel>
+            <translation><!-- UDSM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UN Branch</masterLabel>
+            <translation><!-- UN Branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UON</masterLabel>
+            <translation><!-- UON --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ubungo</masterLabel>
+            <translation><!-- Ubungo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ummy</masterLabel>
+            <translation><!-- Ummy --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Victoria</masterLabel>
+            <translation><!-- Victoria --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vilanculos</masterLabel>
+            <translation><!-- Vilanculos --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Village Market Prestige</masterLabel>
+            <translation><!-- Village Market Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Voi</masterLabel>
+            <translation><!-- Voi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WA</masterLabel>
+            <translation><!-- WA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wamphula</masterLabel>
+            <translation><!-- Wamphula --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wandegeya</masterLabel>
+            <translation><!-- Wandegeya --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Webuye</masterLabel>
+            <translation><!-- Webuye --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Westgate</masterLabel>
+            <translation><!-- Westgate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Westlands</masterLabel>
+            <translation><!-- Westlands --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wote</masterLabel>
+            <translation><!-- Wote --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Xai-Xai</masterLabel>
+            <translation><!-- Xai-Xai --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yaya Prestige</masterLabel>
+            <translation><!-- Yaya Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Zanzibar</masterLabel>
+            <translation><!-- Zanzibar --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>bantam agency</masterLabel>
+            <translation><!-- bantam agency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>techiman</masterLabel>
+            <translation><!-- techiman --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

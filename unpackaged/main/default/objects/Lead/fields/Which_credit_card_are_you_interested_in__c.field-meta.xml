@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Which_credit_card_are_you_interested_in__c</fullName>
+    <externalId>false</externalId>
+    <label>Which credit card are you interested in?</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Platinum Credit Card</fullName>
+                <default>false</default>
+                <label>Platinum Credit Card</label>
+            </value>
+            <value>
+                <fullName>Gold Credit Card</fullName>
+                <default>false</default>
+                <label>Gold Credit Card</label>
+            </value>
+            <value>
+                <fullName>Classic Credit Card</fullName>
+                <default>false</default>
+                <label>Classic Credit Card</label>
+            </value>
+            <value>
+                <fullName>Company Credit Card</fullName>
+                <default>false</default>
+                <label>Company Credit Card</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Which home mortgage to apply for --></label>
+        <name>Which_home_mortgage_to_apply_for__c</name>
+        <picklistValues>
+            <masterLabel>Buy to Let</masterLabel>
+            <translation><!-- Buy to Let --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Construction Loan</masterLabel>
+            <translation><!-- Construction Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Equity Release</masterLabel>
+            <translation><!-- Equity Release --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Home Loan Straight Purchase</masterLabel>
+            <translation><!-- Home Loan Straight Purchase --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Re-mortgage</masterLabel>
+            <translation><!-- Re-mortgage --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

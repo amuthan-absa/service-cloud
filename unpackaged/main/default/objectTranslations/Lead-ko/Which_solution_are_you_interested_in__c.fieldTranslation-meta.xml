@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Which solution are you interested in? --></label>
+        <name>Which_solution_are_you_interested_in__c</name>
+        <picklistValues>
+            <masterLabel>Absa Bank Account</masterLabel>
+            <translation><!-- Absa Bank Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa One Current Account</masterLabel>
+            <translation><!-- Absa One Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Asset insurance</masterLabel>
+            <translation><!-- Asset insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bonus Savings Accoun</masterLabel>
+            <translation><!-- Bonus Savings Accoun --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Bonus Savings Account</masterLabel>
+            <translation><!-- Business Bonus Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Club Account</masterLabel>
+            <translation><!-- Business Club Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Credit Card</masterLabel>
+            <translation><!-- Business Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Loan</masterLabel>
+            <translation><!-- Business Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Mortgage Loan</masterLabel>
+            <translation><!-- Business Mortgage Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business combined insurance</masterLabel>
+            <translation><!-- Business combined insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Car loan</masterLabel>
+            <translation><!-- Car loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Classic Credit Card</masterLabel>
+            <translation><!-- Classic Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Classic Rewards Credit Card</masterLabel>
+            <translation><!-- Classic Rewards Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Company Credit Card</masterLabel>
+            <translation><!-- Company Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Education policy</masterLabel>
+            <translation><!-- Education policy --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>File and special perils insurance</masterLabel>
+            <translation><!-- File and special perils insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fire and special perils insurance</masterLabel>
+            <translation><!-- Fire and special perils insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fixed Deposit Savings Account</masterLabel>
+            <translation><!-- Fixed Deposit Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fixed Term Deposit Account</masterLabel>
+            <translation><!-- Fixed Term Deposit Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flexi Buy</masterLabel>
+            <translation><!-- Flexi Buy --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flexi Lease</masterLabel>
+            <translation><!-- Flexi Lease --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flexi Rent</masterLabel>
+            <translation><!-- Flexi Rent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Foreign Currency Account</masterLabel>
+            <translation><!-- Foreign Currency Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Foreign Currency Account USD</masterLabel>
+            <translation><!-- Foreign Currency Account USD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Foreign Currency Savings Account GBP</masterLabel>
+            <translation><!-- Foreign Currency Savings Account GBP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>General insurance</masterLabel>
+            <translation><!-- General insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gold Credit Card</masterLabel>
+            <translation><!-- Gold Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gold Rewards Credit Card</masterLabel>
+            <translation><!-- Gold Rewards Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Home insurance</masterLabel>
+            <translation><!-- Home insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Host-to-host</masterLabel>
+            <translation><!-- Host-to-host --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Instant Savings Account</masterLabel>
+            <translation><!-- Instant Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Internet banking</masterLabel>
+            <translation><!-- Internet banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Junior Account</masterLabel>
+            <translation><!-- Junior Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Junior Savings Account</masterLabel>
+            <translation><!-- Junior Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>La Riba Business Current Account</masterLabel>
+            <translation><!-- La Riba Business Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Liability covers</masterLabel>
+            <translation><!-- Liability covers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marine insurance</masterLabel>
+            <translation><!-- Marine insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medical insurance</masterLabel>
+            <translation><!-- Medical insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Merchant Services</masterLabel>
+            <translation><!-- Merchant Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mobile banking</masterLabel>
+            <translation><!-- Mobile banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Motor insurance</masterLabel>
+            <translation><!-- Motor insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-currency Prepaid</masterLabel>
+            <translation><!-- Multi-currency Prepaid --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-currency Prepaid AUD</masterLabel>
+            <translation><!-- Multi-currency Prepaid AUD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-currency Prepaid CAD</masterLabel>
+            <translation><!-- Multi-currency Prepaid CAD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-currency Prepaid EUR</masterLabel>
+            <translation><!-- Multi-currency Prepaid EUR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-currency Prepaid GBP</masterLabel>
+            <translation><!-- Multi-currency Prepaid GBP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-currency Prepaid INR</masterLabel>
+            <translation><!-- Multi-currency Prepaid INR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-currency Prepaid JPY</masterLabel>
+            <translation><!-- Multi-currency Prepaid JPY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-currency Prepaid KES</masterLabel>
+            <translation><!-- Multi-currency Prepaid KES --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-currency Prepaid USD</masterLabel>
+            <translation><!-- Multi-currency Prepaid USD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-currency Prepaid ZAR</masterLabel>
+            <translation><!-- Multi-currency Prepaid ZAR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>My life and family</masterLabel>
+            <translation><!-- My life and family --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Payment card insurance</masterLabel>
+            <translation><!-- Payment card insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Platinum Credit Card</masterLabel>
+            <translation><!-- Platinum Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Account</masterLabel>
+            <translation><!-- Premier Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Banking Account</masterLabel>
+            <translation><!-- Premier Banking Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Bonus Savings Account</masterLabel>
+            <translation><!-- Premier Bonus Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prepaid KES Cards</masterLabel>
+            <translation><!-- Prepaid KES Cards --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige Account</masterLabel>
+            <translation><!-- Prestige Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige Bonus Savings Account</masterLabel>
+            <translation><!-- Prestige Bonus Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SME Business Account</masterLabel>
+            <translation><!-- SME Business Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Secured personal loan</masterLabel>
+            <translation><!-- Secured personal loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Signature Credit Card</masterLabel>
+            <translation><!-- Signature Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Student Account</masterLabel>
+            <translation><!-- Student Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Student loan</masterLabel>
+            <translation><!-- Student loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Target Savings</masterLabel>
+            <translation><!-- Target Savings --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Travel insurance</masterLabel>
+            <translation><!-- Travel insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ultimate Account</masterLabel>
+            <translation><!-- Ultimate Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unsecured Loan - Check off</masterLabel>
+            <translation><!-- Unsecured Loan - Check off --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unsecured Loan - Non check off</masterLabel>
+            <translation><!-- Unsecured Loan - Non check off --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unsecured personal loan</masterLabel>
+            <translation><!-- Unsecured personal loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Young Pro Account</masterLabel>
+            <translation><!-- Young Pro Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Zidisha Bonus Account</masterLabel>
+            <translation><!-- Zidisha Bonus Account --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

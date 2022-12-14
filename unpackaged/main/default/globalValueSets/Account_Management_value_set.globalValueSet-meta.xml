@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Blocked my account</fullName>
+        <default>true</default>
+        <label>Blocked my account</label>
+    </customValue>
+    <customValue>
+        <fullName>Changing my personal details</fullName>
+        <default>false</default>
+        <label>Changing my personal details</label>
+    </customValue>
+    <customValue>
+        <fullName>Cheques</fullName>
+        <default>false</default>
+        <label>Cheques</label>
+    </customValue>
+    <customValue>
+        <fullName>Closed my account without my permission</fullName>
+        <default>false</default>
+        <label>Closed my account without my permission</label>
+    </customValue>
+    <customValue>
+        <fullName>Crediting funds to my account</fullName>
+        <default>false</default>
+        <label>Crediting funds to my account</label>
+    </customValue>
+    <customValue>
+        <fullName>Disputed transaction</fullName>
+        <default>false</default>
+        <label>Disputed transaction</label>
+    </customValue>
+    <customValue>
+        <fullName>My payment failed</fullName>
+        <default>false</default>
+        <label>My payment failed</label>
+    </customValue>
+    <customValue>
+        <fullName>Not receiving my statements</fullName>
+        <default>false</default>
+        <label>Not receiving my statements</label>
+    </customValue>
+    <customValue>
+        <fullName>Opened account without my permission</fullName>
+        <default>false</default>
+        <label>Opened account without my permission</label>
+    </customValue>
+    <customValue>
+        <fullName>Problems with opening / using my account</fullName>
+        <default>false</default>
+        <label>Problems with opening / using my account</label>
+    </customValue>
+    <customValue>
+        <fullName>Reserved funds on account</fullName>
+        <default>false</default>
+        <label>Reserved funds on account</label>
+    </customValue>
+    <customValue>
+        <fullName>Standing Orders</fullName>
+        <default>false</default>
+        <label>Standing Orders</label>
+    </customValue>
+    <customValue>
+        <fullName>Takes too long to close an account</fullName>
+        <default>false</default>
+        <label>Takes too long to close an account</label>
+    </customValue>
+    <customValue>
+        <fullName>Unpaid transaction</fullName>
+        <default>false</default>
+        <label>Unpaid transaction</label>
+    </customValue>
+    <masterLabel>Account Management value set</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

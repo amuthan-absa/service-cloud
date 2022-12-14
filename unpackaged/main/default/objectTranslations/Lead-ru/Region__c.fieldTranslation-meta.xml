@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Region --></label>
+        <name>Region__c</name>
+        <picklistValues>
+            <masterLabel>Accra East/Tema/Eastern/Volta</masterLabel>
+            <translation><!-- Accra East/Tema/Eastern/Volta --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accra South Central/Accra West/Western</masterLabel>
+            <translation><!-- Accra South Central/Accra West/Western --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Arusha</masterLabel>
+            <translation><!-- Arusha --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bois De Rose</masterLabel>
+            <translation><!-- Bois De Rose --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cabo Delgado</masterLabel>
+            <translation><!-- Cabo Delgado --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Capital City</masterLabel>
+            <translation><!-- Capital City --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Central</masterLabel>
+            <translation><!-- Central --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cluster Four</masterLabel>
+            <translation><!-- Cluster Four --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cluster One</masterLabel>
+            <translation><!-- Cluster One --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cluster Three</masterLabel>
+            <translation><!-- Cluster Three --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cluster Two</masterLabel>
+            <translation><!-- Cluster Two --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Coast Region</masterLabel>
+            <translation><!-- Coast Region --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Coastal Region</masterLabel>
+            <translation><!-- Coastal Region --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dar es Salaam</masterLabel>
+            <translation><!-- Dar es Salaam --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dodoma</masterLabel>
+            <translation><!-- Dodoma --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>East</masterLabel>
+            <translation><!-- East --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Francistown</masterLabel>
+            <translation><!-- Francistown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GIND</masterLabel>
+            <translation><!-- GIND --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gaza</masterLabel>
+            <translation><!-- Gaza --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inhambane</masterLabel>
+            <translation><!-- Inhambane --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Iringa</masterLabel>
+            <translation><!-- Iringa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kampala</masterLabel>
+            <translation><!-- Kampala --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kampala Central</masterLabel>
+            <translation><!-- Kampala Central --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kampala Metropolitan</masterLabel>
+            <translation><!-- Kampala Metropolitan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kariba Cluster</masterLabel>
+            <translation><!-- Kariba Cluster --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kinondoni</masterLabel>
+            <translation><!-- Kinondoni --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>La Digue</masterLabel>
+            <translation><!-- La Digue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lake Region</masterLabel>
+            <translation><!-- Lake Region --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Learning and Development Center</masterLabel>
+            <translation><!-- Learning and Development Center --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lichinga</masterLabel>
+            <translation><!-- Lichinga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Luangwa Cluster</masterLabel>
+            <translation><!-- Luangwa Cluster --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Luapula Cluster</masterLabel>
+            <translation><!-- Luapula Cluster --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mall</masterLabel>
+            <translation><!-- Mall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manica</masterLabel>
+            <translation><!-- Manica --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maputo Down Town</masterLabel>
+            <translation><!-- Maputo Down Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maputo Polana</masterLabel>
+            <translation><!-- Maputo Polana --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maputo Uptown</masterLabel>
+            <translation><!-- Maputo Uptown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Matola</masterLabel>
+            <translation><!-- Matola --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mauritius</masterLabel>
+            <translation><!-- Mauritius --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mbeya</masterLabel>
+            <translation><!-- Mbeya --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Morogoro</masterLabel>
+            <translation><!-- Morogoro --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Moshi</masterLabel>
+            <translation><!-- Moshi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mt.Kenya</masterLabel>
+            <translation><!-- Mt.Kenya --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mwanza</masterLabel>
+            <translation><!-- Mwanza --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nairobi West</masterLabel>
+            <translation><!-- Nairobi West --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nampula</masterLabel>
+            <translation><!-- Nampula --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nortern/Ashanti/Brong Ahafo</masterLabel>
+            <translation><!-- Nortern/Ashanti/Brong Ahafo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>North</masterLabel>
+            <translation><!-- North --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Northern Region</masterLabel>
+            <translation><!-- Northern Region --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Praslin</masterLabel>
+            <translation><!-- Praslin --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Praslin / La Digue</masterLabel>
+            <translation><!-- Praslin / La Digue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier</masterLabel>
+            <translation><!-- Premier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier And Prestige</masterLabel>
+            <translation><!-- Premier And Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige</masterLabel>
+            <translation><!-- Prestige --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige and Mall</masterLabel>
+            <translation><!-- Prestige and Mall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Providence</masterLabel>
+            <translation><!-- Providence --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Queensway Cluster</masterLabel>
+            <translation><!-- Queensway Cluster --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SME</masterLabel>
+            <translation><!-- SME --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sofala</masterLabel>
+            <translation><!-- Sofala --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tanga</masterLabel>
+            <translation><!-- Tanga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tellemarketing</masterLabel>
+            <translation><!-- Tellemarketing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tete</masterLabel>
+            <translation><!-- Tete --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Victoria</masterLabel>
+            <translation><!-- Victoria --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>West</masterLabel>
+            <translation><!-- West --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Western</masterLabel>
+            <translation><!-- Western --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Zambezi Cluster</masterLabel>
+            <translation><!-- Zambezi Cluster --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Zambezia</masterLabel>
+            <translation><!-- Zambezia --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Zanzibar</masterLabel>
+            <translation><!-- Zanzibar --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

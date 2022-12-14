@@ -1,0 +1,2806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Branch__c</fullName>
+    <externalId>false</externalId>
+    <label>Branch</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Town__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Bobonong</fullName>
+                <default>false</default>
+                <label>Bobonong</label>
+            </value>
+            <value>
+                <fullName>Letlhakane</fullName>
+                <default>false</default>
+                <label>Letlhakane</label>
+            </value>
+            <value>
+                <fullName>Mahalapye</fullName>
+                <default>false</default>
+                <label>Mahalapye</label>
+            </value>
+            <value>
+                <fullName>Orapa</fullName>
+                <default>false</default>
+                <label>Orapa</label>
+            </value>
+            <value>
+                <fullName>Palapye</fullName>
+                <default>false</default>
+                <label>Palapye</label>
+            </value>
+            <value>
+                <fullName>Pilane</fullName>
+                <default>false</default>
+                <label>Pilane</label>
+            </value>
+            <value>
+                <fullName>Selibe Phikwe</fullName>
+                <default>false</default>
+                <label>Selibe Phikwe</label>
+            </value>
+            <value>
+                <fullName>Serowe</fullName>
+                <default>false</default>
+                <label>Serowe</label>
+            </value>
+            <value>
+                <fullName>Francistown</fullName>
+                <default>false</default>
+                <label>Francistown</label>
+            </value>
+            <value>
+                <fullName>Blue Jacket</fullName>
+                <default>false</default>
+                <label>Blue Jacket</label>
+            </value>
+            <value>
+                <fullName>Galo Prestige</fullName>
+                <default>false</default>
+                <label>Galo Prestige</label>
+            </value>
+            <value>
+                <fullName>Carbo Prestige</fullName>
+                <default>false</default>
+                <label>Carbo Prestige</label>
+            </value>
+            <value>
+                <fullName>Personal Prestige</fullName>
+                <default>false</default>
+                <label>Personal Prestige</label>
+            </value>
+            <value>
+                <fullName>Telesales</fullName>
+                <default>false</default>
+                <label>Telesales</label>
+            </value>
+            <value>
+                <fullName>Ghanzi</fullName>
+                <default>false</default>
+                <label>Ghanzi</label>
+            </value>
+            <value>
+                <fullName>Gumare</fullName>
+                <default>false</default>
+                <label>Gumare</label>
+            </value>
+            <value>
+                <fullName>Kasane</fullName>
+                <default>false</default>
+                <label>Kasane</label>
+            </value>
+            <value>
+                <fullName>Masunga</fullName>
+                <default>false</default>
+                <label>Masunga</label>
+            </value>
+            <value>
+                <fullName>Maun</fullName>
+                <default>false</default>
+                <label>Maun</label>
+            </value>
+            <value>
+                <fullName>Nata</fullName>
+                <default>false</default>
+                <label>Nata</label>
+            </value>
+            <value>
+                <fullName>Shakawe</fullName>
+                <default>false</default>
+                <label>Shakawe</label>
+            </value>
+            <value>
+                <fullName>Tutume</fullName>
+                <default>false</default>
+                <label>Tutume</label>
+            </value>
+            <value>
+                <fullName>Airport Junction Premier</fullName>
+                <default>false</default>
+                <label>Airport Junction Premier</label>
+            </value>
+            <value>
+                <fullName>Carbo Premier</fullName>
+                <default>false</default>
+                <label>Carbo Premier</label>
+            </value>
+            <value>
+                <fullName>Francistown Premier</fullName>
+                <default>false</default>
+                <label>Francistown Premier</label>
+            </value>
+            <value>
+                <fullName>Game City Premier</fullName>
+                <default>false</default>
+                <label>Game City Premier</label>
+            </value>
+            <value>
+                <fullName>Airport Junction</fullName>
+                <default>false</default>
+                <label>Airport Junction</label>
+            </value>
+            <value>
+                <fullName>Broadhurst</fullName>
+                <default>false</default>
+                <label>Broadhurst</label>
+            </value>
+            <value>
+                <fullName>Game City</fullName>
+                <default>false</default>
+                <label>Game City</label>
+            </value>
+            <value>
+                <fullName>GIND</fullName>
+                <default>false</default>
+                <label>GIND</label>
+            </value>
+            <value>
+                <fullName>Head Office</fullName>
+                <default>false</default>
+                <label>Head Office</label>
+            </value>
+            <value>
+                <fullName>Mall</fullName>
+                <default>false</default>
+                <label>Mall</label>
+            </value>
+            <value>
+                <fullName>Jwaneng</fullName>
+                <default>false</default>
+                <label>Jwaneng</label>
+            </value>
+            <value>
+                <fullName>Kanye</fullName>
+                <default>false</default>
+                <label>Kanye</label>
+            </value>
+            <value>
+                <fullName>Lobatse</fullName>
+                <default>false</default>
+                <label>Lobatse</label>
+            </value>
+            <value>
+                <fullName>Molepolole</fullName>
+                <default>false</default>
+                <label>Molepolole</label>
+            </value>
+            <value>
+                <fullName>Moshupa</fullName>
+                <default>false</default>
+                <label>Moshupa</label>
+            </value>
+            <value>
+                <fullName>Tsabong</fullName>
+                <default>false</default>
+                <label>Tsabong</label>
+            </value>
+            <value>
+                <fullName>Branch</fullName>
+                <default>false</default>
+                <label>Branch</label>
+            </value>
+            <value>
+                <fullName>ACHIMOTA PRESTIGE</fullName>
+                <default>false</default>
+                <label>ACHIMOTA PRESTIGE</label>
+            </value>
+            <value>
+                <fullName>Haatso</fullName>
+                <default>false</default>
+                <label>Haatso</label>
+            </value>
+            <value>
+                <fullName>Kaneshie Branch</fullName>
+                <default>false</default>
+                <label>Kaneshie Branch</label>
+            </value>
+            <value>
+                <fullName>Legon Campus Branch</fullName>
+                <default>false</default>
+                <label>Legon Campus Branch</label>
+            </value>
+            <value>
+                <fullName>Legon Main Branch</fullName>
+                <default>false</default>
+                <label>Legon Main Branch</label>
+            </value>
+            <value>
+                <fullName>MADINA</fullName>
+                <default>false</default>
+                <label>MADINA</label>
+            </value>
+            <value>
+                <fullName>NESTER SQUARE</fullName>
+                <default>false</default>
+                <label>NESTER SQUARE</label>
+            </value>
+            <value>
+                <fullName>Spintex Business Banking</fullName>
+                <default>false</default>
+                <label>Spintex Business Banking</label>
+            </value>
+            <value>
+                <fullName>Spintex Main Branch</fullName>
+                <default>false</default>
+                <label>Spintex Main Branch</label>
+            </value>
+            <value>
+                <fullName>SPINTEX PRESTIGE</fullName>
+                <default>false</default>
+                <label>SPINTEX PRESTIGE</label>
+            </value>
+            <value>
+                <fullName>Tema Main Business Banking</fullName>
+                <default>false</default>
+                <label>Tema Main Business Banking</label>
+            </value>
+            <value>
+                <fullName>ACHIMOTA</fullName>
+                <default>false</default>
+                <label>ACHIMOTA</label>
+            </value>
+            <value>
+                <fullName>HO</fullName>
+                <default>false</default>
+                <label>HO</label>
+            </value>
+            <value>
+                <fullName>Hohoe</fullName>
+                <default>false</default>
+                <label>Hohoe</label>
+            </value>
+            <value>
+                <fullName>KOFORIDUA</fullName>
+                <default>false</default>
+                <label>KOFORIDUA</label>
+            </value>
+            <value>
+                <fullName>NKAWKAW</fullName>
+                <default>false</default>
+                <label>NKAWKAW</label>
+            </value>
+            <value>
+                <fullName>ODA</fullName>
+                <default>false</default>
+                <label>ODA</label>
+            </value>
+            <value>
+                <fullName>SOMANYA</fullName>
+                <default>false</default>
+                <label>SOMANYA</label>
+            </value>
+            <value>
+                <fullName>ASHIAMAN</fullName>
+                <default>false</default>
+                <label>ASHIAMAN</label>
+            </value>
+            <value>
+                <fullName>TEMA FISHING HARBOUR</fullName>
+                <default>false</default>
+                <label>TEMA FISHING HARBOUR</label>
+            </value>
+            <value>
+                <fullName>TEMA MAIN</fullName>
+                <default>false</default>
+                <label>TEMA MAIN</label>
+            </value>
+            <value>
+                <fullName>Tema Main Prestige</fullName>
+                <default>false</default>
+                <label>Tema Main Prestige</label>
+            </value>
+            <value>
+                <fullName>ABEKA LAPAZ</fullName>
+                <default>false</default>
+                <label>ABEKA LAPAZ</label>
+            </value>
+            <value>
+                <fullName>Accra High Street</fullName>
+                <default>false</default>
+                <label>Accra High Street</label>
+            </value>
+            <value>
+                <fullName>Accra High Street Prestige</fullName>
+                <default>false</default>
+                <label>Accra High Street Prestige</label>
+            </value>
+            <value>
+                <fullName>AVENUE CENTRAL</fullName>
+                <default>false</default>
+                <label>AVENUE CENTRAL</label>
+            </value>
+            <value>
+                <fullName>CIRCLE</fullName>
+                <default>false</default>
+                <label>CIRCLE</label>
+            </value>
+            <value>
+                <fullName>Circle Business Banking</fullName>
+                <default>false</default>
+                <label>Circle Business Banking</label>
+            </value>
+            <value>
+                <fullName>Circle Prestige</fullName>
+                <default>false</default>
+                <label>Circle Prestige</label>
+            </value>
+            <value>
+                <fullName>DANSOMAN</fullName>
+                <default>false</default>
+                <label>DANSOMAN</label>
+            </value>
+            <value>
+                <fullName>DARKUMAN</fullName>
+                <default>false</default>
+                <label>DARKUMAN</label>
+            </value>
+            <value>
+                <fullName>East Legon</fullName>
+                <default>false</default>
+                <label>East Legon</label>
+            </value>
+            <value>
+                <fullName>High Street Businees Banking</fullName>
+                <default>false</default>
+                <label>High Street Businees Banking</label>
+            </value>
+            <value>
+                <fullName>Knutsford</fullName>
+                <default>false</default>
+                <label>Knutsford</label>
+            </value>
+            <value>
+                <fullName>Knutsford Business Banking</fullName>
+                <default>false</default>
+                <label>Knutsford Business Banking</label>
+            </value>
+            <value>
+                <fullName>LG CENTRE</fullName>
+                <default>false</default>
+                <label>LG CENTRE</label>
+            </value>
+            <value>
+                <fullName>Maamobi</fullName>
+                <default>false</default>
+                <label>Maamobi</label>
+            </value>
+            <value>
+                <fullName>MAKOLA</fullName>
+                <default>false</default>
+                <label>MAKOLA</label>
+            </value>
+            <value>
+                <fullName>OSU</fullName>
+                <default>false</default>
+                <label>OSU</label>
+            </value>
+            <value>
+                <fullName>Osu Business Banking</fullName>
+                <default>false</default>
+                <label>Osu Business Banking</label>
+            </value>
+            <value>
+                <fullName>OSU Prestige</fullName>
+                <default>false</default>
+                <label>OSU Prestige</label>
+            </value>
+            <value>
+                <fullName>PREMIER</fullName>
+                <default>false</default>
+                <label>PREMIER</label>
+            </value>
+            <value>
+                <fullName>Premier Kempinski</fullName>
+                <default>false</default>
+                <label>Premier Kempinski</label>
+            </value>
+            <value>
+                <fullName>RIDGE</fullName>
+                <default>false</default>
+                <label>RIDGE</label>
+            </value>
+            <value>
+                <fullName>RING ROAD</fullName>
+                <default>false</default>
+                <label>RING ROAD</label>
+            </value>
+            <value>
+                <fullName>Ring Road Business Banking</fullName>
+                <default>false</default>
+                <label>Ring Road Business Banking</label>
+            </value>
+            <value>
+                <fullName>CAPE COAST</fullName>
+                <default>false</default>
+                <label>CAPE COAST</label>
+            </value>
+            <value>
+                <fullName>T-HIGH Business Banking</fullName>
+                <default>false</default>
+                <label>T-HIGH Business Banking</label>
+            </value>
+            <value>
+                <fullName>TAKORADI HIGH STREET</fullName>
+                <default>false</default>
+                <label>TAKORADI HIGH STREET</label>
+            </value>
+            <value>
+                <fullName>Takoradi Liberation</fullName>
+                <default>false</default>
+                <label>Takoradi Liberation</label>
+            </value>
+            <value>
+                <fullName>Tarkwa</fullName>
+                <default>false</default>
+                <label>Tarkwa</label>
+            </value>
+            <value>
+                <fullName>Berekum</fullName>
+                <default>false</default>
+                <label>Berekum</label>
+            </value>
+            <value>
+                <fullName>BOLGA</fullName>
+                <default>false</default>
+                <label>BOLGA</label>
+            </value>
+            <value>
+                <fullName>Ahodwo Main</fullName>
+                <default>false</default>
+                <label>Ahodwo Main</label>
+            </value>
+            <value>
+                <fullName>Ahodwo Prestige</fullName>
+                <default>false</default>
+                <label>Ahodwo Prestige</label>
+            </value>
+            <value>
+                <fullName>ASAFO Branch</fullName>
+                <default>false</default>
+                <label>ASAFO Branch</label>
+            </value>
+            <value>
+                <fullName>bantam agency</fullName>
+                <default>false</default>
+                <label>bantam agency</label>
+            </value>
+            <value>
+                <fullName>BANTAMA</fullName>
+                <default>false</default>
+                <label>BANTAMA</label>
+            </value>
+            <value>
+                <fullName>KEJETIA</fullName>
+                <default>false</default>
+                <label>KEJETIA</label>
+            </value>
+            <value>
+                <fullName>KNUST</fullName>
+                <default>false</default>
+                <label>KNUST</label>
+            </value>
+            <value>
+                <fullName>KPST</fullName>
+                <default>false</default>
+                <label>KPST</label>
+            </value>
+            <value>
+                <fullName>KPST Prestige</fullName>
+                <default>false</default>
+                <label>KPST Prestige</label>
+            </value>
+            <value>
+                <fullName>KROFROM</fullName>
+                <default>false</default>
+                <label>KROFROM</label>
+            </value>
+            <value>
+                <fullName>Kumasi Business Banking</fullName>
+                <default>false</default>
+                <label>Kumasi Business Banking</label>
+            </value>
+            <value>
+                <fullName>SUAME MAGAZINE</fullName>
+                <default>false</default>
+                <label>SUAME MAGAZINE</label>
+            </value>
+            <value>
+                <fullName>TAFO</fullName>
+                <default>false</default>
+                <label>TAFO</label>
+            </value>
+            <value>
+                <fullName>TANOSO</fullName>
+                <default>false</default>
+                <label>TANOSO</label>
+            </value>
+            <value>
+                <fullName>OBUASI</fullName>
+                <default>false</default>
+                <label>OBUASI</label>
+            </value>
+            <value>
+                <fullName>SUNYANI</fullName>
+                <default>false</default>
+                <label>SUNYANI</label>
+            </value>
+            <value>
+                <fullName>Gumani</fullName>
+                <default>false</default>
+                <label>Gumani</label>
+            </value>
+            <value>
+                <fullName>Gumani Prestige</fullName>
+                <default>false</default>
+                <label>Gumani Prestige</label>
+            </value>
+            <value>
+                <fullName>TAMALE</fullName>
+                <default>false</default>
+                <label>TAMALE</label>
+            </value>
+            <value>
+                <fullName>Tamale Business Banking</fullName>
+                <default>false</default>
+                <label>Tamale Business Banking</label>
+            </value>
+            <value>
+                <fullName>techiman</fullName>
+                <default>false</default>
+                <label>techiman</label>
+            </value>
+            <value>
+                <fullName>WA</fullName>
+                <default>false</default>
+                <label>WA</label>
+            </value>
+            <value>
+                <fullName>Changamwe</fullName>
+                <default>false</default>
+                <label>Changamwe</label>
+            </value>
+            <value>
+                <fullName>Diani</fullName>
+                <default>false</default>
+                <label>Diani</label>
+            </value>
+            <value>
+                <fullName>Digo</fullName>
+                <default>false</default>
+                <label>Digo</label>
+            </value>
+            <value>
+                <fullName>Kilifi</fullName>
+                <default>false</default>
+                <label>Kilifi</label>
+            </value>
+            <value>
+                <fullName>Malindi</fullName>
+                <default>false</default>
+                <label>Malindi</label>
+            </value>
+            <value>
+                <fullName>Moi Mombasa</fullName>
+                <default>false</default>
+                <label>Moi Mombasa</label>
+            </value>
+            <value>
+                <fullName>Nkrumah Rd</fullName>
+                <default>false</default>
+                <label>Nkrumah Rd</label>
+            </value>
+            <value>
+                <fullName>Nyali</fullName>
+                <default>false</default>
+                <label>Nyali</label>
+            </value>
+            <value>
+                <fullName>Taveta</fullName>
+                <default>false</default>
+                <label>Taveta</label>
+            </value>
+            <value>
+                <fullName>Voi</fullName>
+                <default>false</default>
+                <label>Voi</label>
+            </value>
+            <value>
+                <fullName>Embu</fullName>
+                <default>false</default>
+                <label>Embu</label>
+            </value>
+            <value>
+                <fullName>Garissa</fullName>
+                <default>false</default>
+                <label>Garissa</label>
+            </value>
+            <value>
+                <fullName>Gilgil</fullName>
+                <default>false</default>
+                <label>Gilgil</label>
+            </value>
+            <value>
+                <fullName>Githunguri</fullName>
+                <default>false</default>
+                <label>Githunguri</label>
+            </value>
+            <value>
+                <fullName>Isiolo</fullName>
+                <default>false</default>
+                <label>Isiolo</label>
+            </value>
+            <value>
+                <fullName>Karatina</fullName>
+                <default>false</default>
+                <label>Karatina</label>
+            </value>
+            <value>
+                <fullName>Kerugoya</fullName>
+                <default>false</default>
+                <label>Kerugoya</label>
+            </value>
+            <value>
+                <fullName>Kitui</fullName>
+                <default>false</default>
+                <label>Kitui</label>
+            </value>
+            <value>
+                <fullName>Limuru</fullName>
+                <default>false</default>
+                <label>Limuru</label>
+            </value>
+            <value>
+                <fullName>Maua</fullName>
+                <default>false</default>
+                <label>Maua</label>
+            </value>
+            <value>
+                <fullName>Meru</fullName>
+                <default>false</default>
+                <label>Meru</label>
+            </value>
+            <value>
+                <fullName>Muranga</fullName>
+                <default>false</default>
+                <label>Muranga</label>
+            </value>
+            <value>
+                <fullName>Naivasha</fullName>
+                <default>false</default>
+                <label>Naivasha</label>
+            </value>
+            <value>
+                <fullName>Nakuru East</fullName>
+                <default>false</default>
+                <label>Nakuru East</label>
+            </value>
+            <value>
+                <fullName>Nakuru West</fullName>
+                <default>false</default>
+                <label>Nakuru West</label>
+            </value>
+            <value>
+                <fullName>Nanyuki</fullName>
+                <default>false</default>
+                <label>Nanyuki</label>
+            </value>
+            <value>
+                <fullName>Narok</fullName>
+                <default>false</default>
+                <label>Narok</label>
+            </value>
+            <value>
+                <fullName>Nyahururu</fullName>
+                <default>false</default>
+                <label>Nyahururu</label>
+            </value>
+            <value>
+                <fullName>Nyeri</fullName>
+                <default>false</default>
+                <label>Nyeri</label>
+            </value>
+            <value>
+                <fullName>Thika</fullName>
+                <default>false</default>
+                <label>Thika</label>
+            </value>
+            <value>
+                <fullName>Avon Centre</fullName>
+                <default>false</default>
+                <label>Avon Centre</label>
+            </value>
+            <value>
+                <fullName>Buruburu</fullName>
+                <default>false</default>
+                <label>Buruburu</label>
+            </value>
+            <value>
+                <fullName>Eastleigh</fullName>
+                <default>false</default>
+                <label>Eastleigh</label>
+            </value>
+            <value>
+                <fullName>Gikomba</fullName>
+                <default>false</default>
+                <label>Gikomba</label>
+            </value>
+            <value>
+                <fullName>Hurlingham Branch</fullName>
+                <default>false</default>
+                <label>Hurlingham Branch</label>
+            </value>
+            <value>
+                <fullName>JKIA Branch</fullName>
+                <default>false</default>
+                <label>JKIA Branch</label>
+            </value>
+            <value>
+                <fullName>Kariobangi</fullName>
+                <default>false</default>
+                <label>Kariobangi</label>
+            </value>
+            <value>
+                <fullName>Kikuyu</fullName>
+                <default>false</default>
+                <label>Kikuyu</label>
+            </value>
+            <value>
+                <fullName>Kitengela</fullName>
+                <default>false</default>
+                <label>Kitengela</label>
+            </value>
+            <value>
+                <fullName>Machakos</fullName>
+                <default>false</default>
+                <label>Machakos</label>
+            </value>
+            <value>
+                <fullName>Market Branch</fullName>
+                <default>false</default>
+                <label>Market Branch</label>
+            </value>
+            <value>
+                <fullName>Nairobi West Branch</fullName>
+                <default>false</default>
+                <label>Nairobi West Branch</label>
+            </value>
+            <value>
+                <fullName>Ngong</fullName>
+                <default>false</default>
+                <label>Ngong</label>
+            </value>
+            <value>
+                <fullName>Ongata Rongai</fullName>
+                <default>false</default>
+                <label>Ongata Rongai</label>
+            </value>
+            <value>
+                <fullName>River Road</fullName>
+                <default>false</default>
+                <label>River Road</label>
+            </value>
+            <value>
+                <fullName>Ruaraka</fullName>
+                <default>false</default>
+                <label>Ruaraka</label>
+            </value>
+            <value>
+                <fullName>UON</fullName>
+                <default>false</default>
+                <label>UON</label>
+            </value>
+            <value>
+                <fullName>Wote</fullName>
+                <default>false</default>
+                <label>Wote</label>
+            </value>
+            <value>
+                <fullName>Absa Towers Premier</fullName>
+                <default>false</default>
+                <label>Absa Towers Premier</label>
+            </value>
+            <value>
+                <fullName>Nyali Premier</fullName>
+                <default>false</default>
+                <label>Nyali Premier</label>
+            </value>
+            <value>
+                <fullName>Premier Flagship</fullName>
+                <default>false</default>
+                <label>Premier Flagship</label>
+            </value>
+            <value>
+                <fullName>Sarit Premier</fullName>
+                <default>false</default>
+                <label>Sarit Premier</label>
+            </value>
+            <value>
+                <fullName>ABC Prestige</fullName>
+                <default>false</default>
+                <label>ABC Prestige</label>
+            </value>
+            <value>
+                <fullName>Absa Towers Prestige</fullName>
+                <default>false</default>
+                <label>Absa Towers Prestige</label>
+            </value>
+            <value>
+                <fullName>Bunyala Rd</fullName>
+                <default>false</default>
+                <label>Bunyala Rd</label>
+            </value>
+            <value>
+                <fullName>Garden City</fullName>
+                <default>false</default>
+                <label>Garden City</label>
+            </value>
+            <value>
+                <fullName>Harambee</fullName>
+                <default>false</default>
+                <label>Harambee</label>
+            </value>
+            <value>
+                <fullName>Karen</fullName>
+                <default>false</default>
+                <label>Karen</label>
+            </value>
+            <value>
+                <fullName>Lavington Branch</fullName>
+                <default>false</default>
+                <label>Lavington Branch</label>
+            </value>
+            <value>
+                <fullName>Lungalunga</fullName>
+                <default>false</default>
+                <label>Lungalunga</label>
+            </value>
+            <value>
+                <fullName>Muthaiga Branch</fullName>
+                <default>false</default>
+                <label>Muthaiga Branch</label>
+            </value>
+            <value>
+                <fullName>Parkside Towers</fullName>
+                <default>false</default>
+                <label>Parkside Towers</label>
+            </value>
+            <value>
+                <fullName>Sarit Prestige</fullName>
+                <default>false</default>
+                <label>Sarit Prestige</label>
+            </value>
+            <value>
+                <fullName>South Field Mall</fullName>
+                <default>false</default>
+                <label>South Field Mall</label>
+            </value>
+            <value>
+                <fullName>Thika Road Mall</fullName>
+                <default>false</default>
+                <label>Thika Road Mall</label>
+            </value>
+            <value>
+                <fullName>Two Rivers</fullName>
+                <default>false</default>
+                <label>Two Rivers</label>
+            </value>
+            <value>
+                <fullName>Village Market Prestige</fullName>
+                <default>false</default>
+                <label>Village Market Prestige</label>
+            </value>
+            <value>
+                <fullName>Westgate</fullName>
+                <default>false</default>
+                <label>Westgate</label>
+            </value>
+            <value>
+                <fullName>Westlands</fullName>
+                <default>false</default>
+                <label>Westlands</label>
+            </value>
+            <value>
+                <fullName>Yaya Prestige</fullName>
+                <default>false</default>
+                <label>Yaya Prestige</label>
+            </value>
+            <value>
+                <fullName>Queensway Hse</fullName>
+                <default>false</default>
+                <label>Queensway Hse</label>
+            </value>
+            <value>
+                <fullName>Sky Branch</fullName>
+                <default>false</default>
+                <label>Sky Branch</label>
+            </value>
+            <value>
+                <fullName>Telemarketing Unit</fullName>
+                <default>false</default>
+                <label>Telemarketing Unit</label>
+            </value>
+            <value>
+                <fullName>Bomet</fullName>
+                <default>false</default>
+                <label>Bomet</label>
+            </value>
+            <value>
+                <fullName>Bungoma</fullName>
+                <default>false</default>
+                <label>Bungoma</label>
+            </value>
+            <value>
+                <fullName>Busia</fullName>
+                <default>false</default>
+                <label>Busia</label>
+            </value>
+            <value>
+                <fullName>Eldoret</fullName>
+                <default>false</default>
+                <label>Eldoret</label>
+            </value>
+            <value>
+                <fullName>Homa bay</fullName>
+                <default>false</default>
+                <label>Homa bay</label>
+            </value>
+            <value>
+                <fullName>Kabarnet</fullName>
+                <default>false</default>
+                <label>Kabarnet</label>
+            </value>
+            <value>
+                <fullName>Kakamega</fullName>
+                <default>false</default>
+                <label>Kakamega</label>
+            </value>
+            <value>
+                <fullName>Kapenguria</fullName>
+                <default>false</default>
+                <label>Kapenguria</label>
+            </value>
+            <value>
+                <fullName>Kapsabet</fullName>
+                <default>false</default>
+                <label>Kapsabet</label>
+            </value>
+            <value>
+                <fullName>Kericho</fullName>
+                <default>false</default>
+                <label>Kericho</label>
+            </value>
+            <value>
+                <fullName>Kisii</fullName>
+                <default>false</default>
+                <label>Kisii</label>
+            </value>
+            <value>
+                <fullName>Kisumu</fullName>
+                <default>false</default>
+                <label>Kisumu</label>
+            </value>
+            <value>
+                <fullName>Kitale</fullName>
+                <default>false</default>
+                <label>Kitale</label>
+            </value>
+            <value>
+                <fullName>Mbale</fullName>
+                <default>false</default>
+                <label>Mbale</label>
+            </value>
+            <value>
+                <fullName>Migori</fullName>
+                <default>false</default>
+                <label>Migori</label>
+            </value>
+            <value>
+                <fullName>Webuye</fullName>
+                <default>false</default>
+                <label>Webuye</label>
+            </value>
+            <value>
+                <fullName>Black River</fullName>
+                <default>false</default>
+                <label>Black River</label>
+            </value>
+            <value>
+                <fullName>Centre de Flacq</fullName>
+                <default>false</default>
+                <label>Centre de Flacq</label>
+            </value>
+            <value>
+                <fullName>Curepipe</fullName>
+                <default>false</default>
+                <label>Curepipe</label>
+            </value>
+            <value>
+                <fullName>Ebene</fullName>
+                <default>false</default>
+                <label>Ebene</label>
+            </value>
+            <value>
+                <fullName>Grand Bay</fullName>
+                <default>false</default>
+                <label>Grand Bay</label>
+            </value>
+            <value>
+                <fullName>Port Louis</fullName>
+                <default>false</default>
+                <label>Port Louis</label>
+            </value>
+            <value>
+                <fullName>Premier Banking</fullName>
+                <default>false</default>
+                <label>Premier Banking</label>
+            </value>
+            <value>
+                <fullName>Quatre Bornes</fullName>
+                <default>false</default>
+                <label>Quatre Bornes</label>
+            </value>
+            <value>
+                <fullName>Rodrigues</fullName>
+                <default>false</default>
+                <label>Rodrigues</label>
+            </value>
+            <value>
+                <fullName>Rose Belle</fullName>
+                <default>false</default>
+                <label>Rose Belle</label>
+            </value>
+            <value>
+                <fullName>Rose Hill</fullName>
+                <default>false</default>
+                <label>Rose Hill</label>
+            </value>
+            <value>
+                <fullName>La Digue</fullName>
+                <default>false</default>
+                <label>La Digue</label>
+            </value>
+            <value>
+                <fullName>Praslin - Baie St Anne</fullName>
+                <default>false</default>
+                <label>Praslin - Baie St Anne</label>
+            </value>
+            <value>
+                <fullName>Providence</fullName>
+                <default>false</default>
+                <label>Providence</label>
+            </value>
+            <value>
+                <fullName>Victoria</fullName>
+                <default>false</default>
+                <label>Victoria</label>
+            </value>
+            <value>
+                <fullName>SME Branch</fullName>
+                <default>false</default>
+                <label>SME Branch</label>
+            </value>
+            <value>
+                <fullName>Arusha</fullName>
+                <default>false</default>
+                <label>Arusha</label>
+            </value>
+            <value>
+                <fullName>Alpha House</fullName>
+                <default>false</default>
+                <label>Alpha House</label>
+            </value>
+            <value>
+                <fullName>Dar City Mall</fullName>
+                <default>false</default>
+                <label>Dar City Mall</label>
+            </value>
+            <value>
+                <fullName>Mikocheni</fullName>
+                <default>false</default>
+                <label>Mikocheni</label>
+            </value>
+            <value>
+                <fullName>Mwanza</fullName>
+                <default>false</default>
+                <label>Mwanza</label>
+            </value>
+            <value>
+                <fullName>Ohio</fullName>
+                <default>false</default>
+                <label>Ohio</label>
+            </value>
+            <value>
+                <fullName>Pugu</fullName>
+                <default>false</default>
+                <label>Pugu</label>
+            </value>
+            <value>
+                <fullName>Skybranch</fullName>
+                <default>false</default>
+                <label>Skybranch</label>
+            </value>
+            <value>
+                <fullName>Slipway</fullName>
+                <default>false</default>
+                <label>Slipway</label>
+            </value>
+            <value>
+                <fullName>Ummy</fullName>
+                <default>false</default>
+                <label>Ummy</label>
+            </value>
+            <value>
+                <fullName>Dodoma</fullName>
+                <default>false</default>
+                <label>Dodoma</label>
+            </value>
+            <value>
+                <fullName>Iringa</fullName>
+                <default>false</default>
+                <label>Iringa</label>
+            </value>
+            <value>
+                <fullName>Mbeya</fullName>
+                <default>false</default>
+                <label>Mbeya</label>
+            </value>
+            <value>
+                <fullName>Morogoro</fullName>
+                <default>false</default>
+                <label>Morogoro</label>
+            </value>
+            <value>
+                <fullName>Moshi</fullName>
+                <default>false</default>
+                <label>Moshi</label>
+            </value>
+            <value>
+                <fullName>Tanga</fullName>
+                <default>false</default>
+                <label>Tanga</label>
+            </value>
+            <value>
+                <fullName>Jinja</fullName>
+                <default>false</default>
+                <label>Jinja</label>
+            </value>
+            <value>
+                <fullName>Aacacia Mall</fullName>
+                <default>false</default>
+                <label>Aacacia Mall</label>
+            </value>
+            <value>
+                <fullName>Archbishop Luwum Street</fullName>
+                <default>false</default>
+                <label>Archbishop Luwum Street</label>
+            </value>
+            <value>
+                <fullName>Bugolobi</fullName>
+                <default>false</default>
+                <label>Bugolobi</label>
+            </value>
+            <value>
+                <fullName>Corporate Service Center</fullName>
+                <default>false</default>
+                <label>Corporate Service Center</label>
+            </value>
+            <value>
+                <fullName>Hannington Premier</fullName>
+                <default>false</default>
+                <label>Hannington Premier</label>
+            </value>
+            <value>
+                <fullName>Kampala Road</fullName>
+                <default>false</default>
+                <label>Kampala Road</label>
+            </value>
+            <value>
+                <fullName>Kansanga</fullName>
+                <default>false</default>
+                <label>Kansanga</label>
+            </value>
+            <value>
+                <fullName>Kawempe</fullName>
+                <default>false</default>
+                <label>Kawempe</label>
+            </value>
+            <value>
+                <fullName>Kireka</fullName>
+                <default>false</default>
+                <label>Kireka</label>
+            </value>
+            <value>
+                <fullName>Lubowa</fullName>
+                <default>false</default>
+                <label>Lubowa</label>
+            </value>
+            <value>
+                <fullName>Lugogo</fullName>
+                <default>false</default>
+                <label>Lugogo</label>
+            </value>
+            <value>
+                <fullName>Mukono</fullName>
+                <default>false</default>
+                <label>Mukono</label>
+            </value>
+            <value>
+                <fullName>Nakulabye</fullName>
+                <default>false</default>
+                <label>Nakulabye</label>
+            </value>
+            <value>
+                <fullName>Ndeeba</fullName>
+                <default>false</default>
+                <label>Ndeeba</label>
+            </value>
+            <value>
+                <fullName>Ntida</fullName>
+                <default>false</default>
+                <label>Ntida</label>
+            </value>
+            <value>
+                <fullName>Parliament Avenue</fullName>
+                <default>false</default>
+                <label>Parliament Avenue</label>
+            </value>
+            <value>
+                <fullName>Rwenzori</fullName>
+                <default>false</default>
+                <label>Rwenzori</label>
+            </value>
+            <value>
+                <fullName>Shauriyako</fullName>
+                <default>false</default>
+                <label>Shauriyako</label>
+            </value>
+            <value>
+                <fullName>Tank Hill Muyenga</fullName>
+                <default>false</default>
+                <label>Tank Hill Muyenga</label>
+            </value>
+            <value>
+                <fullName>Telesales Branch</fullName>
+                <default>false</default>
+                <label>Telesales Branch</label>
+            </value>
+            <value>
+                <fullName>Wandegeya</fullName>
+                <default>false</default>
+                <label>Wandegeya</label>
+            </value>
+            <value>
+                <fullName>Abaita Ababiri</fullName>
+                <default>false</default>
+                <label>Abaita Ababiri</label>
+            </value>
+            <value>
+                <fullName>Entebbe Kitoro</fullName>
+                <default>false</default>
+                <label>Entebbe Kitoro</label>
+            </value>
+            <value>
+                <fullName>UN Branch</fullName>
+                <default>false</default>
+                <label>UN Branch</label>
+            </value>
+            <value>
+                <fullName>Arua</fullName>
+                <default>false</default>
+                <label>Arua</label>
+            </value>
+            <value>
+                <fullName>Gulu</fullName>
+                <default>false</default>
+                <label>Gulu</label>
+            </value>
+            <value>
+                <fullName>Hoima</fullName>
+                <default>false</default>
+                <label>Hoima</label>
+            </value>
+            <value>
+                <fullName>Lira</fullName>
+                <default>false</default>
+                <label>Lira</label>
+            </value>
+            <value>
+                <fullName>Masindi</fullName>
+                <default>false</default>
+                <label>Masindi</label>
+            </value>
+            <value>
+                <fullName>Fortportal</fullName>
+                <default>false</default>
+                <label>Fortportal</label>
+            </value>
+            <value>
+                <fullName>Kabale</fullName>
+                <default>false</default>
+                <label>Kabale</label>
+            </value>
+            <value>
+                <fullName>Kasese</fullName>
+                <default>false</default>
+                <label>Kasese</label>
+            </value>
+            <value>
+                <fullName>Masaka</fullName>
+                <default>false</default>
+                <label>Masaka</label>
+            </value>
+            <value>
+                <fullName>Mbarara</fullName>
+                <default>false</default>
+                <label>Mbarara</label>
+            </value>
+            <value>
+                <fullName>Arcades</fullName>
+                <default>false</default>
+                <label>Arcades</label>
+            </value>
+            <value>
+                <fullName>Levy Mall</fullName>
+                <default>false</default>
+                <label>Levy Mall</label>
+            </value>
+            <value>
+                <fullName>Southern Sun Prestige</fullName>
+                <default>false</default>
+                <label>Southern Sun Prestige</label>
+            </value>
+            <value>
+                <fullName>Chipata</fullName>
+                <default>false</default>
+                <label>Chipata</label>
+            </value>
+            <value>
+                <fullName>Choma</fullName>
+                <default>false</default>
+                <label>Choma</label>
+            </value>
+            <value>
+                <fullName>Kafue</fullName>
+                <default>false</default>
+                <label>Kafue</label>
+            </value>
+            <value>
+                <fullName>Livingstone Main</fullName>
+                <default>false</default>
+                <label>Livingstone Main</label>
+            </value>
+            <value>
+                <fullName>Livingstone Prestige</fullName>
+                <default>false</default>
+                <label>Livingstone Prestige</label>
+            </value>
+            <value>
+                <fullName>Longacres Mian</fullName>
+                <default>false</default>
+                <label>Longacres Mian</label>
+            </value>
+            <value>
+                <fullName>Longacres Prestige</fullName>
+                <default>false</default>
+                <label>Longacres Prestige</label>
+            </value>
+            <value>
+                <fullName>Mazabuka</fullName>
+                <default>false</default>
+                <label>Mazabuka</label>
+            </value>
+            <value>
+                <fullName>Mongu</fullName>
+                <default>false</default>
+                <label>Mongu</label>
+            </value>
+            <value>
+                <fullName>Monze</fullName>
+                <default>false</default>
+                <label>Monze</label>
+            </value>
+            <value>
+                <fullName>Petauke</fullName>
+                <default>false</default>
+                <label>Petauke</label>
+            </value>
+            <value>
+                <fullName>Kasama</fullName>
+                <default>false</default>
+                <label>Kasama</label>
+            </value>
+            <value>
+                <fullName>Cosmopolitan Mall Makeni</fullName>
+                <default>false</default>
+                <label>Cosmopolitan Mall Makeni</label>
+            </value>
+            <value>
+                <fullName>East Park</fullName>
+                <default>false</default>
+                <label>East Park</label>
+            </value>
+            <value>
+                <fullName>Kabulonga Centro Mall</fullName>
+                <default>false</default>
+                <label>Kabulonga Centro Mall</label>
+            </value>
+            <value>
+                <fullName>Kabwata</fullName>
+                <default>false</default>
+                <label>Kabwata</label>
+            </value>
+            <value>
+                <fullName>Mutaba</fullName>
+                <default>false</default>
+                <label>Mutaba</label>
+            </value>
+            <value>
+                <fullName>Mansa</fullName>
+                <default>false</default>
+                <label>Mansa</label>
+            </value>
+            <value>
+                <fullName>Nakonde</fullName>
+                <default>false</default>
+                <label>Nakonde</label>
+            </value>
+            <value>
+                <fullName>Chingola</fullName>
+                <default>false</default>
+                <label>Chingola</label>
+            </value>
+            <value>
+                <fullName>Kabwe</fullName>
+                <default>false</default>
+                <label>Kabwe</label>
+            </value>
+            <value>
+                <fullName>Kitwe Main</fullName>
+                <default>false</default>
+                <label>Kitwe Main</label>
+            </value>
+            <value>
+                <fullName>Kitwe Prestige</fullName>
+                <default>false</default>
+                <label>Kitwe Prestige</label>
+            </value>
+            <value>
+                <fullName>Mukuba Prestige</fullName>
+                <default>false</default>
+                <label>Mukuba Prestige</label>
+            </value>
+            <value>
+                <fullName>Luanshya</fullName>
+                <default>false</default>
+                <label>Luanshya</label>
+            </value>
+            <value>
+                <fullName>Mkushi</fullName>
+                <default>false</default>
+                <label>Mkushi</label>
+            </value>
+            <value>
+                <fullName>Mufulira</fullName>
+                <default>false</default>
+                <label>Mufulira</label>
+            </value>
+            <value>
+                <fullName>Ndola Buteko</fullName>
+                <default>false</default>
+                <label>Ndola Buteko</label>
+            </value>
+            <value>
+                <fullName>Ndola Prestige</fullName>
+                <default>false</default>
+                <label>Ndola Prestige</label>
+            </value>
+            <value>
+                <fullName>Solwezi</fullName>
+                <default>false</default>
+                <label>Solwezi</label>
+            </value>
+            <value>
+                <fullName>Lindi</fullName>
+                <default>false</default>
+                <label>Lindi</label>
+            </value>
+            <value>
+                <fullName>Masasi</fullName>
+                <default>false</default>
+                <label>Masasi</label>
+            </value>
+            <value>
+                <fullName>Mtwara</fullName>
+                <default>false</default>
+                <label>Mtwara</label>
+            </value>
+            <value>
+                <fullName>Chang&#39;ombe</fullName>
+                <default>false</default>
+                <label>Chang&#39;ombe</label>
+            </value>
+            <value>
+                <fullName>Njombe</fullName>
+                <default>false</default>
+                <label>Njombe</label>
+            </value>
+            <value>
+                <fullName>Kibaha</fullName>
+                <default>false</default>
+                <label>Kibaha</label>
+            </value>
+            <value>
+                <fullName>Songea</fullName>
+                <default>false</default>
+                <label>Songea</label>
+            </value>
+            <value>
+                <fullName>Sumbawanga</fullName>
+                <default>false</default>
+                <label>Sumbawanga</label>
+            </value>
+            <value>
+                <fullName>Tukuyu</fullName>
+                <default>false</default>
+                <label>Tukuyu</label>
+            </value>
+            <value>
+                <fullName>Tunduma</fullName>
+                <default>false</default>
+                <label>Tunduma</label>
+            </value>
+            <value>
+                <fullName>Babati</fullName>
+                <default>false</default>
+                <label>Babati</label>
+            </value>
+            <value>
+                <fullName>Corporate</fullName>
+                <default>false</default>
+                <label>Corporate</label>
+            </value>
+            <value>
+                <fullName>Mbezi Beach</fullName>
+                <default>false</default>
+                <label>Mbezi Beach</label>
+            </value>
+            <value>
+                <fullName>Mnazi Mmoja</fullName>
+                <default>false</default>
+                <label>Mnazi Mmoja</label>
+            </value>
+            <value>
+                <fullName>Industrial</fullName>
+                <default>false</default>
+                <label>Industrial</label>
+            </value>
+            <value>
+                <fullName>Kariakoo</fullName>
+                <default>false</default>
+                <label>Kariakoo</label>
+            </value>
+            <value>
+                <fullName>Zanzibar</fullName>
+                <default>false</default>
+                <label>Zanzibar</label>
+            </value>
+            <value>
+                <fullName>Bukoba</fullName>
+                <default>false</default>
+                <label>Bukoba</label>
+            </value>
+            <value>
+                <fullName>Geita</fullName>
+                <default>false</default>
+                <label>Geita</label>
+            </value>
+            <value>
+                <fullName>Igoma</fullName>
+                <default>false</default>
+                <label>Igoma</label>
+            </value>
+            <value>
+                <fullName>Mlimani City</fullName>
+                <default>false</default>
+                <label>Mlimani City</label>
+            </value>
+            <value>
+                <fullName>Seacliff</fullName>
+                <default>false</default>
+                <label>Seacliff</label>
+            </value>
+            <value>
+                <fullName>Tegeta</fullName>
+                <default>false</default>
+                <label>Tegeta</label>
+            </value>
+            <value>
+                <fullName>Ubungo</fullName>
+                <default>false</default>
+                <label>Ubungo</label>
+            </value>
+            <value>
+                <fullName>UDSM</fullName>
+                <default>false</default>
+                <label>UDSM</label>
+            </value>
+            <value>
+                <fullName>Musoma</fullName>
+                <default>false</default>
+                <label>Musoma</label>
+            </value>
+            <value>
+                <fullName>Nyanza</fullName>
+                <default>false</default>
+                <label>Nyanza</label>
+            </value>
+            <value>
+                <fullName>Shinyanga</fullName>
+                <default>false</default>
+                <label>Shinyanga</label>
+            </value>
+            <value>
+                <fullName>Tarime</fullName>
+                <default>false</default>
+                <label>Tarime</label>
+            </value>
+            <value>
+                <fullName>Samora</fullName>
+                <default>false</default>
+                <label>Samora</label>
+            </value>
+            <value>
+                <fullName>Muhimbili</fullName>
+                <default>false</default>
+                <label>Muhimbili</label>
+            </value>
+            <value>
+                <fullName>Kahama</fullName>
+                <default>false</default>
+                <label>Kahama</label>
+            </value>
+            <value>
+                <fullName>Kigoma</fullName>
+                <default>false</default>
+                <label>Kigoma</label>
+            </value>
+            <value>
+                <fullName>Kinondoni</fullName>
+                <default>false</default>
+                <label>Kinondoni</label>
+            </value>
+            <value>
+                <fullName>Makambako Town</fullName>
+                <default>false</default>
+                <label>Makambako Town</label>
+            </value>
+            <value>
+                <fullName>Nzega</fullName>
+                <default>false</default>
+                <label>Nzega</label>
+            </value>
+            <value>
+                <fullName>Tabora</fullName>
+                <default>false</default>
+                <label>Tabora</label>
+            </value>
+            <value>
+                <fullName>Mbagala</fullName>
+                <default>false</default>
+                <label>Mbagala</label>
+            </value>
+            <value>
+                <fullName>Karatu</fullName>
+                <default>false</default>
+                <label>Karatu</label>
+            </value>
+            <value>
+                <fullName>Singida</fullName>
+                <default>false</default>
+                <label>Singida</label>
+            </value>
+            <value>
+                <fullName>Pemba</fullName>
+                <default>false</default>
+                <label>Pemba</label>
+            </value>
+            <value>
+                <fullName>Chokwe</fullName>
+                <default>false</default>
+                <label>Chokwe</label>
+            </value>
+            <value>
+                <fullName>Manhica</fullName>
+                <default>false</default>
+                <label>Manhica</label>
+            </value>
+            <value>
+                <fullName>Xai-Xai</fullName>
+                <default>false</default>
+                <label>Xai-Xai</label>
+            </value>
+            <value>
+                <fullName>Inhambane</fullName>
+                <default>false</default>
+                <label>Inhambane</label>
+            </value>
+            <value>
+                <fullName>Maxixe</fullName>
+                <default>false</default>
+                <label>Maxixe</label>
+            </value>
+            <value>
+                <fullName>Vilanculos</fullName>
+                <default>false</default>
+                <label>Vilanculos</label>
+            </value>
+            <value>
+                <fullName>Lichinga</fullName>
+                <default>false</default>
+                <label>Lichinga</label>
+            </value>
+            <value>
+                <fullName>Chimoio</fullName>
+                <default>false</default>
+                <label>Chimoio</label>
+            </value>
+            <value>
+                <fullName>Manica</fullName>
+                <default>false</default>
+                <label>Manica</label>
+            </value>
+            <value>
+                <fullName>25 de Setembro</fullName>
+                <default>false</default>
+                <label>25 de Setembro</label>
+            </value>
+            <value>
+                <fullName>Baia Mall</fullName>
+                <default>false</default>
+                <label>Baia Mall</label>
+            </value>
+            <value>
+                <fullName>Centro de Negocios</fullName>
+                <default>false</default>
+                <label>Centro de Negocios</label>
+            </value>
+            <value>
+                <fullName>Polana</fullName>
+                <default>false</default>
+                <label>Polana</label>
+            </value>
+            <value>
+                <fullName>Rani Towers</fullName>
+                <default>false</default>
+                <label>Rani Towers</label>
+            </value>
+            <value>
+                <fullName>Alto Mae</fullName>
+                <default>false</default>
+                <label>Alto Mae</label>
+            </value>
+            <value>
+                <fullName>Avenida de Angola</fullName>
+                <default>false</default>
+                <label>Avenida de Angola</label>
+            </value>
+            <value>
+                <fullName>Avenida de Mocambique</fullName>
+                <default>false</default>
+                <label>Avenida de Mocambique</label>
+            </value>
+            <value>
+                <fullName>Fernao de Magalhaes</fullName>
+                <default>false</default>
+                <label>Fernao de Magalhaes</label>
+            </value>
+            <value>
+                <fullName>Guerra Popular</fullName>
+                <default>false</default>
+                <label>Guerra Popular</label>
+            </value>
+            <value>
+                <fullName>Hollard</fullName>
+                <default>false</default>
+                <label>Hollard</label>
+            </value>
+            <value>
+                <fullName>Inhaca</fullName>
+                <default>false</default>
+                <label>Inhaca</label>
+            </value>
+            <value>
+                <fullName>Mao Tse Tung</fullName>
+                <default>false</default>
+                <label>Mao Tse Tung</label>
+            </value>
+            <value>
+                <fullName>Boane</fullName>
+                <default>false</default>
+                <label>Boane</label>
+            </value>
+            <value>
+                <fullName>Machava</fullName>
+                <default>false</default>
+                <label>Machava</label>
+            </value>
+            <value>
+                <fullName>Matola Shoprite</fullName>
+                <default>false</default>
+                <label>Matola Shoprite</label>
+            </value>
+            <value>
+                <fullName>Matola Spar</fullName>
+                <default>false</default>
+                <label>Matola Spar</label>
+            </value>
+            <value>
+                <fullName>Ressano Garcia</fullName>
+                <default>false</default>
+                <label>Ressano Garcia</label>
+            </value>
+            <value>
+                <fullName>Lard</fullName>
+                <default>false</default>
+                <label>Lard</label>
+            </value>
+            <value>
+                <fullName>Nacala</fullName>
+                <default>false</default>
+                <label>Nacala</label>
+            </value>
+            <value>
+                <fullName>Nampula</fullName>
+                <default>false</default>
+                <label>Nampula</label>
+            </value>
+            <value>
+                <fullName>Wamphula</fullName>
+                <default>false</default>
+                <label>Wamphula</label>
+            </value>
+            <value>
+                <fullName>Prestige</fullName>
+                <default>false</default>
+                <label>Prestige</label>
+            </value>
+            <value>
+                <fullName>SME</fullName>
+                <default>false</default>
+                <label>SME</label>
+            </value>
+            <value>
+                <fullName>Beira</fullName>
+                <default>false</default>
+                <label>Beira</label>
+            </value>
+            <value>
+                <fullName>Dondo</fullName>
+                <default>false</default>
+                <label>Dondo</label>
+            </value>
+            <value>
+                <fullName>Manga</fullName>
+                <default>false</default>
+                <label>Manga</label>
+            </value>
+            <value>
+                <fullName>Moatize</fullName>
+                <default>false</default>
+                <label>Moatize</label>
+            </value>
+            <value>
+                <fullName>Tete</fullName>
+                <default>false</default>
+                <label>Tete</label>
+            </value>
+            <value>
+                <fullName>Marromeu</fullName>
+                <default>false</default>
+                <label>Marromeu</label>
+            </value>
+            <value>
+                <fullName>Mocuba</fullName>
+                <default>false</default>
+                <label>Mocuba</label>
+            </value>
+            <value>
+                <fullName>Quelimane</fullName>
+                <default>false</default>
+                <label>Quelimane</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Gaborone GIND</controllingFieldValue>
+            <valueName>Carbo Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gaborone GIND</controllingFieldValue>
+            <valueName>Personal Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Telesales</controllingFieldValue>
+            <valueName>Telesales</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Ghanzi</controllingFieldValue>
+            <valueName>Ghanzi</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gumare</controllingFieldValue>
+            <valueName>Gumare</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kasane</controllingFieldValue>
+            <valueName>Kasane</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Masunga</controllingFieldValue>
+            <valueName>Masunga</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Maun</controllingFieldValue>
+            <valueName>Maun</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nata</controllingFieldValue>
+            <valueName>Nata</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Shakawe</controllingFieldValue>
+            <valueName>Shakawe</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Bobonong</controllingFieldValue>
+            <valueName>Bobonong</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Letlhakane</controllingFieldValue>
+            <valueName>Letlhakane</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mahalapye</controllingFieldValue>
+            <valueName>Mahalapye</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Orapa</controllingFieldValue>
+            <valueName>Orapa</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Palapye</controllingFieldValue>
+            <valueName>Palapye</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Pilane</controllingFieldValue>
+            <valueName>Pilane</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Selibe Phikwe</controllingFieldValue>
+            <valueName>Selibe Phikwe</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Serowe</controllingFieldValue>
+            <valueName>Serowe</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Francistown</controllingFieldValue>
+            <valueName>Francistown</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Francistown</controllingFieldValue>
+            <valueName>Blue Jacket</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Francistown</controllingFieldValue>
+            <valueName>Galo Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Tutume</controllingFieldValue>
+            <valueName>Tutume</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premier Town</controllingFieldValue>
+            <valueName>Airport Junction Premier</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premier Town</controllingFieldValue>
+            <valueName>Carbo Premier</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premier Town</controllingFieldValue>
+            <valueName>Francistown Premier</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premier Town</controllingFieldValue>
+            <valueName>Game City Premier</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gaborone</controllingFieldValue>
+            <valueName>Airport Junction</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gaborone</controllingFieldValue>
+            <valueName>Broadhurst</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gaborone</controllingFieldValue>
+            <valueName>Game City</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gaborone</controllingFieldValue>
+            <valueName>GIND</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gaborone</controllingFieldValue>
+            <valueName>Head Office</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gaborone</controllingFieldValue>
+            <valueName>Mall</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Jwaneng</controllingFieldValue>
+            <valueName>Jwaneng</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kanye</controllingFieldValue>
+            <valueName>Kanye</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Lobatse</controllingFieldValue>
+            <valueName>Lobatse</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Moshupa</controllingFieldValue>
+            <valueName>Moshupa</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Tsabong</controllingFieldValue>
+            <valueName>Tsabong</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Achimota</controllingFieldValue>
+            <valueName>ACHIMOTA</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ho</controllingFieldValue>
+            <valueName>HO</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Hohoe</controllingFieldValue>
+            <valueName>Hohoe</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Koforidua</controllingFieldValue>
+            <valueName>KOFORIDUA</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nkawkaw</controllingFieldValue>
+            <valueName>NKAWKAW</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Oda</controllingFieldValue>
+            <valueName>ODA</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Somanya</controllingFieldValue>
+            <valueName>SOMANYA</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Tema</controllingFieldValue>
+            <valueName>ASHIAMAN</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Tema</controllingFieldValue>
+            <valueName>TEMA FISHING HARBOUR</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Tema</controllingFieldValue>
+            <valueName>TEMA MAIN</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Tema</controllingFieldValue>
+            <valueName>Tema Main Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>ACHIMOTA PRESTIGE</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Haatso</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Kaneshie Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Legon Campus Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Legon Main Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>MADINA</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>NESTER SQUARE</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Spintex Business Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Spintex Main Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>SPINTEX PRESTIGE</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Tema Main Business Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>ABEKA LAPAZ</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Accra High Street</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Accra High Street Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>AVENUE CENTRAL</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>CIRCLE</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Circle Business Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Circle Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>DANSOMAN</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>DARKUMAN</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>East Legon</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>High Street Businees Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Knutsford</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Knutsford Business Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>LG CENTRE</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Maamobi</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>MAKOLA</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>OSU</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Osu Business Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>OSU Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <controllingFieldValue>Victoria - Capital City</controllingFieldValue>
+            <valueName>PREMIER</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Premier Kempinski</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>RIDGE</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>RING ROAD</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Accra</controllingFieldValue>
+            <valueName>Ring Road Business Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Cape Coast</controllingFieldValue>
+            <valueName>CAPE COAST</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Takoradi</controllingFieldValue>
+            <valueName>T-HIGH Business Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Takoradi</controllingFieldValue>
+            <valueName>TAKORADI HIGH STREET</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Takoradi</controllingFieldValue>
+            <valueName>Takoradi Liberation</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Takoradi</controllingFieldValue>
+            <valueName>Tarkwa</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>BEREKUM</controllingFieldValue>
+            <valueName>Berekum</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>BOLGA</controllingFieldValue>
+            <valueName>BOLGA</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>Ahodwo Main</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>Ahodwo Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>ASAFO Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>bantam agency</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>BANTAMA</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>KEJETIA</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>KNUST</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>KPST</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>KPST Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>KROFROM</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>Kumasi Business Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>SUAME MAGAZINE</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>TAFO</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kumasi</controllingFieldValue>
+            <valueName>TANOSO</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>OBUASI</controllingFieldValue>
+            <valueName>OBUASI</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>SUNYANI</controllingFieldValue>
+            <valueName>SUNYANI</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>TAMALE</controllingFieldValue>
+            <valueName>Gumani</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>TAMALE</controllingFieldValue>
+            <valueName>Gumani Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>TAMALE</controllingFieldValue>
+            <valueName>TAMALE</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>TAMALE</controllingFieldValue>
+            <valueName>Tamale Business Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>TECHIMAN</controllingFieldValue>
+            <valueName>techiman</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>WA</controllingFieldValue>
+            <valueName>WA</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Coast</controllingFieldValue>
+            <valueName>Changamwe</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Coast</controllingFieldValue>
+            <valueName>Diani</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Coast</controllingFieldValue>
+            <valueName>Digo</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Coast</controllingFieldValue>
+            <valueName>Kilifi</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Coast</controllingFieldValue>
+            <valueName>Malindi</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Coast</controllingFieldValue>
+            <valueName>Moi Mombasa</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Coast</controllingFieldValue>
+            <valueName>Nkrumah Rd</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Coast</controllingFieldValue>
+            <valueName>Nyali</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Coast</controllingFieldValue>
+            <valueName>Taveta</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Coast</controllingFieldValue>
+            <valueName>Voi</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Embu</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Garissa</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Gilgil</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Githunguri</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Isiolo</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Karatina</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Kerugoya</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Kitui</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Limuru</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Maua</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Meru</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Muranga</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Naivasha</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Nakuru East</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Nakuru West</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Nanyuki</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Narok</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Nyahururu</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Nyeri</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mt.Kenya</controllingFieldValue>
+            <valueName>Thika</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Avon Centre</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Buruburu</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Eastleigh</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Gikomba</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Hurlingham Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>JKIA Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Kariobangi</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Kikuyu</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Kitengela</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Machakos</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Market Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Nairobi West Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Ngong</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Ongata Rongai</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>River Road</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Ruaraka</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>UON</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Nairobi West</controllingFieldValue>
+            <valueName>Wote</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premier Kenya</controllingFieldValue>
+            <valueName>Absa Towers Premier</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premier Kenya</controllingFieldValue>
+            <valueName>Nyali Premier</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premier Kenya</controllingFieldValue>
+            <valueName>Premier Flagship</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premier Kenya</controllingFieldValue>
+            <valueName>Sarit Premier</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>ABC Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Absa Towers Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Bunyala Rd</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Garden City</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Harambee</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Karen</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Lavington Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Lungalunga</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Muthaiga Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Parkside Towers</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Sarit Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>South Field Mall</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Thika Road Mall</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Two Rivers</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Village Market Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Westgate</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Westlands</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Prestige and Mall</controllingFieldValue>
+            <valueName>Yaya Prestige</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Queensway Cluster</controllingFieldValue>
+            <valueName>Queensway Hse</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Tellemarketing</controllingFieldValue>
+            <valueName>Sky Branch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Tellemarketing</controllingFieldValue>
+            <valueName>Telemarketing Unit</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Bomet</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Bungoma</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Busia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Eldoret</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Homa bay</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Kabarnet</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Kakamega</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Kapenguria</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Kapsabet</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Kericho</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Kisii</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Kisumu</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Kitale</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Mbale</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Migori</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Western</controllingFieldValue>
+            <valueName>Webuye</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mauritius</controllingFieldValue>
+            <valueName>Black River</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mauritius</controllingFieldValue>
+            <valueName>Centre de Flacq</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mauritius</controllingFieldValue>
+            <valueName>Curepipe</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mauritius</controllingFieldValue>
+            <valueName>Ebene</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mauritius</controllingFieldValue>
+            <valueName>Grand Bay</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mauritius</controllingFieldValue>
+            <valueName>Port Louis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mauritius</controllingFieldValue>
+            <valueName>Premier Banking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mauritius</controllingFieldValue>
+            <valueName>Quatre Bornes</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mauritius</controllingFieldValue>
+            <valueName>Rodrigues</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mauritius</controllingFieldValue>
+            <valueName>Rose Belle</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mauritius</controllingFieldValue>
+            <valueName>Rose Hill</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>La Digue</controllingFieldValue>
+            <valueName>La Digue</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Praslin</controllingFieldValue>
+            <valueName>Praslin - Baie St Anne</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Victoria</controllingFieldValue>
+            <valueName>Victoria</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Victoria - Capital City</controllingFieldValue>
+            <valueName>SME Branch</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>
