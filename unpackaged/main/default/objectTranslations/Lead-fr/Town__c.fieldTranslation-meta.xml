@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Town --></label>
+        <name>Town__c</name>
+        <picklistValues>
+            <masterLabel>Accra</masterLabel>
+            <translation><!-- Accra --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Achimota</masterLabel>
+            <translation><!-- Achimota --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Arua</masterLabel>
+            <translation><!-- Arua --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Arusha</masterLabel>
+            <translation><!-- Arusha --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BEREKUM</masterLabel>
+            <translation><!-- BEREKUM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BOLGA</masterLabel>
+            <translation><!-- BOLGA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Babati Town</masterLabel>
+            <translation><!-- Babati Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bobonong</masterLabel>
+            <translation><!-- Bobonong --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bois De Rose</masterLabel>
+            <translation><!-- Bois De Rose --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bukoba Town</masterLabel>
+            <translation><!-- Bukoba Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cape Coast</masterLabel>
+            <translation><!-- Cape Coast --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chingola</masterLabel>
+            <translation><!-- Chingola --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chipata</masterLabel>
+            <translation><!-- Chipata --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Choma</masterLabel>
+            <translation><!-- Choma --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Coast</masterLabel>
+            <translation><!-- Coast --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dar es Salaam</masterLabel>
+            <translation><!-- Dar es Salaam --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dodoma</masterLabel>
+            <translation><!-- Dodoma --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dodoma Town</masterLabel>
+            <translation><!-- Dodoma Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Entebbe</masterLabel>
+            <translation><!-- Entebbe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fortportal</masterLabel>
+            <translation><!-- Fortportal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Francistown</masterLabel>
+            <translation><!-- Francistown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gaborone</masterLabel>
+            <translation><!-- Gaborone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gaborone GIND</masterLabel>
+            <translation><!-- Gaborone GIND --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gaborone Mall</masterLabel>
+            <translation><!-- Gaborone Mall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Geita Town</masterLabel>
+            <translation><!-- Geita Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ghanzi</masterLabel>
+            <translation><!-- Ghanzi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gulu</masterLabel>
+            <translation><!-- Gulu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gumare</masterLabel>
+            <translation><!-- Gumare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hohoe</masterLabel>
+            <translation><!-- Hohoe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hoima</masterLabel>
+            <translation><!-- Hoima --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Igoma Town</masterLabel>
+            <translation><!-- Igoma Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ilala Town</masterLabel>
+            <translation><!-- Ilala Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ilala- Dar es Salaam</masterLabel>
+            <translation><!-- Ilala- Dar es Salaam --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Iringa</masterLabel>
+            <translation><!-- Iringa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jinja</masterLabel>
+            <translation><!-- Jinja --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jwaneng</masterLabel>
+            <translation><!-- Jwaneng --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kabale</masterLabel>
+            <translation><!-- Kabale --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kabwe</masterLabel>
+            <translation><!-- Kabwe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kafue</masterLabel>
+            <translation><!-- Kafue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kahama</masterLabel>
+            <translation><!-- Kahama --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kampala</masterLabel>
+            <translation><!-- Kampala --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kanye</masterLabel>
+            <translation><!-- Kanye --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Karatu Town</masterLabel>
+            <translation><!-- Karatu Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kasama</masterLabel>
+            <translation><!-- Kasama --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kasane</masterLabel>
+            <translation><!-- Kasane --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kasese</masterLabel>
+            <translation><!-- Kasese --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kigoma Town</masterLabel>
+            <translation><!-- Kigoma Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kinondoni</masterLabel>
+            <translation><!-- Kinondoni --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kinondoni Town</masterLabel>
+            <translation><!-- Kinondoni Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kitwe</masterLabel>
+            <translation><!-- Kitwe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Koforidua</masterLabel>
+            <translation><!-- Koforidua --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kumasi</masterLabel>
+            <translation><!-- Kumasi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>La Digue</masterLabel>
+            <translation><!-- La Digue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Letlhakane</masterLabel>
+            <translation><!-- Letlhakane --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lindi</masterLabel>
+            <translation><!-- Lindi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lira</masterLabel>
+            <translation><!-- Lira --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Livingstone</masterLabel>
+            <translation><!-- Livingstone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lobatse</masterLabel>
+            <translation><!-- Lobatse --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Luanshya</masterLabel>
+            <translation><!-- Luanshya --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lusaka Kariba</masterLabel>
+            <translation><!-- Lusaka Kariba --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lusaka Luangwa</masterLabel>
+            <translation><!-- Lusaka Luangwa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lusaka Luapula</masterLabel>
+            <translation><!-- Lusaka Luapula --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mahalapye</masterLabel>
+            <translation><!-- Mahalapye --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Makambako</masterLabel>
+            <translation><!-- Makambako --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Makambako Town</masterLabel>
+            <translation><!-- Makambako Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mansa</masterLabel>
+            <translation><!-- Mansa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Masaka</masterLabel>
+            <translation><!-- Masaka --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Masasi Town</masterLabel>
+            <translation><!-- Masasi Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Masindi</masterLabel>
+            <translation><!-- Masindi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Masunga</masterLabel>
+            <translation><!-- Masunga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maun</masterLabel>
+            <translation><!-- Maun --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mauritius</masterLabel>
+            <translation><!-- Mauritius --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mazabuka</masterLabel>
+            <translation><!-- Mazabuka --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mbarara</masterLabel>
+            <translation><!-- Mbarara --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mbeya</masterLabel>
+            <translation><!-- Mbeya --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Meru Town</masterLabel>
+            <translation><!-- Meru Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mkushi</masterLabel>
+            <translation><!-- Mkushi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Molepolole</masterLabel>
+            <translation><!-- Molepolole --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mongu</masterLabel>
+            <translation><!-- Mongu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Monze</masterLabel>
+            <translation><!-- Monze --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Morogoro</masterLabel>
+            <translation><!-- Morogoro --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Morogoro Town</masterLabel>
+            <translation><!-- Morogoro Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Moshi</masterLabel>
+            <translation><!-- Moshi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Moshi Town</masterLabel>
+            <translation><!-- Moshi Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Moshupa</masterLabel>
+            <translation><!-- Moshupa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mt.Kenya</masterLabel>
+            <translation><!-- Mt.Kenya --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mtwara Town</masterLabel>
+            <translation><!-- Mtwara Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mufulira</masterLabel>
+            <translation><!-- Mufulira --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Musoma Town</masterLabel>
+            <translation><!-- Musoma Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mwanza</masterLabel>
+            <translation><!-- Mwanza --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mwanza Town</masterLabel>
+            <translation><!-- Mwanza Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nairobi West</masterLabel>
+            <translation><!-- Nairobi West --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nakonde</masterLabel>
+            <translation><!-- Nakonde --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nata</masterLabel>
+            <translation><!-- Nata --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ndola</masterLabel>
+            <translation><!-- Ndola --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Njombe Town</masterLabel>
+            <translation><!-- Njombe Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nkawkaw</masterLabel>
+            <translation><!-- Nkawkaw --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nyanza Town</masterLabel>
+            <translation><!-- Nyanza Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nzega Town</masterLabel>
+            <translation><!-- Nzega Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OBUASI</masterLabel>
+            <translation><!-- OBUASI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Oda</masterLabel>
+            <translation><!-- Oda --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Orapa</masterLabel>
+            <translation><!-- Orapa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Palapye</masterLabel>
+            <translation><!-- Palapye --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Petauke</masterLabel>
+            <translation><!-- Petauke --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pilane</masterLabel>
+            <translation><!-- Pilane --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Praslin</masterLabel>
+            <translation><!-- Praslin --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Kenya</masterLabel>
+            <translation><!-- Premier Kenya --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Town</masterLabel>
+            <translation><!-- Premier Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige and Mall</masterLabel>
+            <translation><!-- Prestige and Mall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Providence</masterLabel>
+            <translation><!-- Providence --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pwani</masterLabel>
+            <translation><!-- Pwani --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Queensway Cluster</masterLabel>
+            <translation><!-- Queensway Cluster --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ruvuma Town</masterLabel>
+            <translation><!-- Ruvuma Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SUNYANI</masterLabel>
+            <translation><!-- SUNYANI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Selibe Phikwe</masterLabel>
+            <translation><!-- Selibe Phikwe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Serowe</masterLabel>
+            <translation><!-- Serowe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shakawe</masterLabel>
+            <translation><!-- Shakawe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shinyanga Town</masterLabel>
+            <translation><!-- Shinyanga Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Singida Town</masterLabel>
+            <translation><!-- Singida Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Solwezi</masterLabel>
+            <translation><!-- Solwezi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Somanya</masterLabel>
+            <translation><!-- Somanya --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sumbawanga</masterLabel>
+            <translation><!-- Sumbawanga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TAMALE</masterLabel>
+            <translation><!-- TAMALE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TECHIMAN</masterLabel>
+            <translation><!-- TECHIMAN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tabora Town</masterLabel>
+            <translation><!-- Tabora Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Takoradi</masterLabel>
+            <translation><!-- Takoradi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tanga</masterLabel>
+            <translation><!-- Tanga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tanga Town</masterLabel>
+            <translation><!-- Tanga Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tarime Town</masterLabel>
+            <translation><!-- Tarime Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tarkwa</masterLabel>
+            <translation><!-- Tarkwa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Telesales</masterLabel>
+            <translation><!-- Telesales --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tellemarketing</masterLabel>
+            <translation><!-- Tellemarketing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tema</masterLabel>
+            <translation><!-- Tema --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Temeke-Dar es Salaam</masterLabel>
+            <translation><!-- Temeke-Dar es Salaam --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tsabong</masterLabel>
+            <translation><!-- Tsabong --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tukuyu Town</masterLabel>
+            <translation><!-- Tukuyu Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tunduma Town</masterLabel>
+            <translation><!-- Tunduma Town --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tutume</masterLabel>
+            <translation><!-- Tutume --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Victoria</masterLabel>
+            <translation><!-- Victoria --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Victoria - Capital City</masterLabel>
+            <translation><!-- Victoria - Capital City --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WA</masterLabel>
+            <translation><!-- WA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Western</masterLabel>
+            <translation><!-- Western --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Zanzibar</masterLabel>
+            <translation><!-- Zanzibar --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ho</masterLabel>
+            <translation><!-- ho --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

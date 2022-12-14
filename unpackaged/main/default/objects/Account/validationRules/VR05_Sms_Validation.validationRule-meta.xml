@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>VR05_Sms_Validation</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND( ISPICKVAL( PreferredContactMethod__c , &#39;SMS&#39;),
+ ISBLANK( Phonenumber__c ), NOT( $Setup.ValidationConfigurations__c.Bypass_SMS_Validation__c ) )</errorConditionFormula>
+    <errorDisplayField>Phonenumber__c</errorDisplayField>
+    <errorMessage>Phone Number Field shouldn&#39;t be blank.</errorMessage>
+</ValidationRule>

@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Product --></label>
+        <name>Product__c</name>
+        <picklistValues>
+            <masterLabel>Absa Direct Personal Loan</masterLabel>
+            <translation><!-- Absa Direct Personal Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa Education Plan</masterLabel>
+            <translation><!-- Absa Education Plan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa Flexi Account</masterLabel>
+            <translation><!-- Absa Flexi Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa Junior Saving</masterLabel>
+            <translation><!-- Absa Junior Saving --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa Life Protection Plan</masterLabel>
+            <translation><!-- Absa Life Protection Plan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa Loan</masterLabel>
+            <translation><!-- Absa Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa Personal Loan</masterLabel>
+            <translation><!-- Absa Personal Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Absa Prestige Loan</masterLabel>
+            <translation><!-- Absa Prestige Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Asset finance</masterLabel>
+            <translation><!-- Asset finance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Awamu Account</masterLabel>
+            <translation><!-- Awamu Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bill of Exchnage</masterLabel>
+            <translation><!-- Bill of Exchnage --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bonus Savings Account</masterLabel>
+            <translation><!-- Bonus Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business  Loan</masterLabel>
+            <translation><!-- Business  Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Access Account</masterLabel>
+            <translation><!-- Business Access Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Bonus saving Account</masterLabel>
+            <translation><!-- Business Bonus saving Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Current Account</masterLabel>
+            <translation><!-- Business Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Current Card Enquiry</masterLabel>
+            <translation><!-- Business Current Card Enquiry --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Current ot Call Deposit</masterLabel>
+            <translation><!-- Business Current ot Call Deposit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Daily Interest Account</masterLabel>
+            <translation><!-- Business Daily Interest Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Debit Card</masterLabel>
+            <translation><!-- Business Debit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Fixed Deposit Account</masterLabel>
+            <translation><!-- Business Fixed Deposit Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Foreign Currency Account</masterLabel>
+            <translation><!-- Business Foreign Currency Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Foreign Currency Current Account</masterLabel>
+            <translation><!-- Business Foreign Currency Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Instalment Loan</masterLabel>
+            <translation><!-- Business Instalment Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Insurance</masterLabel>
+            <translation><!-- Business Insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Overdraft</masterLabel>
+            <translation><!-- Business Overdraft --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Saving  Account</masterLabel>
+            <translation><!-- Business Saving  Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Secured Loan</masterLabel>
+            <translation><!-- Business Secured Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business mortgage loan</masterLabel>
+            <translation><!-- Business mortgage loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Buy to Let</masterLabel>
+            <translation><!-- Buy to Let --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Call Account</masterLabel>
+            <translation><!-- Call Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Car Insurance</masterLabel>
+            <translation><!-- Car Insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chanua Savings Account</masterLabel>
+            <translation><!-- Chanua Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Classic Credit Card</masterLabel>
+            <translation><!-- Classic Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Collection accounts</masterLabel>
+            <translation><!-- Collection accounts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Commercial Fixed Deposit Account</masterLabel>
+            <translation><!-- Commercial Fixed Deposit Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Company credit card</masterLabel>
+            <translation><!-- Company credit card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Credit Life</masterLabel>
+            <translation><!-- Credit Life --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Credit Life Insurance</masterLabel>
+            <translation><!-- Credit Life Insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Current Account</masterLabel>
+            <translation><!-- Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Current Account Treat</masterLabel>
+            <translation><!-- Current Account Treat --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Current accounts</masterLabel>
+            <translation><!-- Current accounts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Debt Finance</masterLabel>
+            <translation><!-- Debt Finance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Direct Ultimate Account</masterLabel>
+            <translation><!-- Direct Ultimate Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Documentary trade</masterLabel>
+            <translation><!-- Documentary trade --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Embedded Funeral</masterLabel>
+            <translation><!-- Embedded Funeral --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Employee Salary Overdraft</masterLabel>
+            <translation><!-- Employee Salary Overdraft --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Equity Release</masterLabel>
+            <translation><!-- Equity Release --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fixed Deposit Account</masterLabel>
+            <translation><!-- Fixed Deposit Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fixed Deposits Account</masterLabel>
+            <translation><!-- Fixed Deposits Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fixed Term Deposit</masterLabel>
+            <translation><!-- Fixed Term Deposit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fixed deposits</masterLabel>
+            <translation><!-- Fixed deposits --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flexi Buy</masterLabel>
+            <translation><!-- Flexi Buy --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flexi Lease</masterLabel>
+            <translation><!-- Flexi Lease --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flexi Rent</masterLabel>
+            <translation><!-- Flexi Rent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Foreign Currency Account</masterLabel>
+            <translation><!-- Foreign Currency Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Foreign Currency Current Account</masterLabel>
+            <translation><!-- Foreign Currency Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Foreign Currency Savings Account</masterLabel>
+            <translation><!-- Foreign Currency Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Forex</masterLabel>
+            <translation><!-- Forex --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FutureU Savings Account</masterLabel>
+            <translation><!-- FutureU Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gold Credit Card</masterLabel>
+            <translation><!-- Gold Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Government Instruments</masterLabel>
+            <translation><!-- Government Instruments --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Graduate Loan</masterLabel>
+            <translation><!-- Graduate Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Group accident &amp; funeral insurance for NBC Privilege</masterLabel>
+            <translation><!-- Group accident &amp; funeral insurance for NBC Privilege --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hedging Solutions</masterLabel>
+            <translation><!-- Hedging Solutions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High Rate Savings Account</masterLabel>
+            <translation><!-- High Rate Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Home Improvement</masterLabel>
+            <translation><!-- Home Improvement --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Home Insurance</masterLabel>
+            <translation><!-- Home Insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Home Purchase</masterLabel>
+            <translation><!-- Home Purchase --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Home Take-over</masterLabel>
+            <translation><!-- Home Take-over --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Home loan</masterLabel>
+            <translation><!-- Home loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Host-to-Host</masterLabel>
+            <translation><!-- Host-to-Host --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ignition Account</masterLabel>
+            <translation><!-- Ignition Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Instant Savings Account</masterLabel>
+            <translation><!-- Instant Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Internet banking</masterLabel>
+            <translation><!-- Internet banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Investments</masterLabel>
+            <translation><!-- Investments --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Isago Pay as You Use</masterLabel>
+            <translation><!-- Isago Pay as You Use --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Join Business Club</masterLabel>
+            <translation><!-- Join Business Club --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Junior Eagle Account</masterLabel>
+            <translation><!-- Junior Eagle Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lekgolo Savings Account</masterLabel>
+            <translation><!-- Lekgolo Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Letter of Credit</masterLabel>
+            <translation><!-- Letter of Credit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Loan repayment cover</masterLabel>
+            <translation><!-- Loan repayment cover --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Malengo Saving Account</masterLabel>
+            <translation><!-- Malengo Saving Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Merchant Services</masterLabel>
+            <translation><!-- Merchant Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mobile Banking</masterLabel>
+            <translation><!-- Mobile Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mortgage</masterLabel>
+            <translation><!-- Mortgage --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mortgage Protection Scheme</masterLabel>
+            <translation><!-- Mortgage Protection Scheme --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Motor Insurance</masterLabel>
+            <translation><!-- Motor Insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Motshelo Savings Account</masterLabel>
+            <translation><!-- Motshelo Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NBC Cash Cover Facility</masterLabel>
+            <translation><!-- NBC Cash Cover Facility --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NBC Direct Current Account</masterLabel>
+            <translation><!-- NBC Direct Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NBC Equity Release</masterLabel>
+            <translation><!-- NBC Equity Release --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NBC Funeral insurance for Ordinary Savings</masterLabel>
+            <translation><!-- NBC Funeral insurance for Ordinary Savings --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NBC Group Loans</masterLabel>
+            <translation><!-- NBC Group Loans --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NBC Home Purchase Loan</masterLabel>
+            <translation><!-- NBC Home Purchase Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NBC Individual Current Account</masterLabel>
+            <translation><!-- NBC Individual Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NBC Kikundi Account</masterLabel>
+            <translation><!-- NBC Kikundi Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NBC Pensioners Loan</masterLabel>
+            <translation><!-- NBC Pensioners Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NBC Refinancing Home Loan</masterLabel>
+            <translation><!-- NBC Refinancing Home Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NBC Takaful funeral insurance for Islamic Banking</masterLabel>
+            <translation><!-- NBC Takaful funeral insurance for Islamic Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Overdraft and short-term loans</masterLabel>
+            <translation><!-- Overdraft and short-term loans --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pamoja Bonus Savings account</masterLabel>
+            <translation><!-- Pamoja Bonus Savings account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personal Current Account</masterLabel>
+            <translation><!-- Personal Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personal Direct Loan</masterLabel>
+            <translation><!-- Personal Direct Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personal Foreign Currency Current Account</masterLabel>
+            <translation><!-- Personal Foreign Currency Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personal Foreign USD Account</masterLabel>
+            <translation><!-- Personal Foreign USD Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personal Loan</masterLabel>
+            <translation><!-- Personal Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Platinum Credit Card</masterLabel>
+            <translation><!-- Platinum Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Account</masterLabel>
+            <translation><!-- Premier Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Banking</masterLabel>
+            <translation><!-- Premier Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Bonus Savings Account</masterLabel>
+            <translation><!-- Premier Bonus Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Current Account</masterLabel>
+            <translation><!-- Premier Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Premier Ultimate Account</masterLabel>
+            <translation><!-- Premier Ultimate Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige  Account</masterLabel>
+            <translation><!-- Prestige  Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige Bank Account</masterLabel>
+            <translation><!-- Prestige Bank Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige Current Account</masterLabel>
+            <translation><!-- Prestige Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige Plus Account</masterLabel>
+            <translation><!-- Prestige Plus Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige Transact Account</masterLabel>
+            <translation><!-- Prestige Transact Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prestige Ultimate Account</masterLabel>
+            <translation><!-- Prestige Ultimate Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pure Save Account</masterLabel>
+            <translation><!-- Pure Save Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Re-mortgage</masterLabel>
+            <translation><!-- Re-mortgage --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Renmogo Current Account</masterLabel>
+            <translation><!-- Renmogo Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Retrenchment Cover</masterLabel>
+            <translation><!-- Retrenchment Cover --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SME Enterprise Account</masterLabel>
+            <translation><!-- SME Enterprise Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SME Scheme loan</masterLabel>
+            <translation><!-- SME Scheme loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Scheme Loan</masterLabel>
+            <translation><!-- Scheme Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>School Plan</masterLabel>
+            <translation><!-- School Plan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Secured Loan</masterLabel>
+            <translation><!-- Secured Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Serala Savings Account</masterLabel>
+            <translation><!-- Serala Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Structured Trade and Commodity Finance</masterLabel>
+            <translation><!-- Structured Trade and Commodity Finance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Student Savings Account</masterLabel>
+            <translation><!-- Student Savings Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Supplier Finance</masterLabel>
+            <translation><!-- Supplier Finance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Target Save Account</masterLabel>
+            <translation><!-- Target Save Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Term Debt Funding</masterLabel>
+            <translation><!-- Term Debt Funding --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Term Deposit Account</masterLabel>
+            <translation><!-- Term Deposit Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Term loan</masterLabel>
+            <translation><!-- Term loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Trade loans</masterLabel>
+            <translation><!-- Trade loans --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Travel Insurance</masterLabel>
+            <translation><!-- Travel Insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ultimate Account</masterLabel>
+            <translation><!-- Ultimate Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ultimate Ultra Salary Account</masterLabel>
+            <translation><!-- Ultimate Ultra Salary Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unlimited Life Protection Plan</masterLabel>
+            <translation><!-- Unlimited Life Protection Plan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unsecured Loan</masterLabel>
+            <translation><!-- Unsecured Loan --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

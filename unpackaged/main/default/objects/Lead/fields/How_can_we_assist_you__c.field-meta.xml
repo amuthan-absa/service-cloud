@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>How_can_we_assist_you__c</fullName>
+    <externalId>false</externalId>
+    <label>How can we assist you?</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Current account</fullName>
+                <default>false</default>
+                <label>Current account</label>
+            </value>
+            <value>
+                <fullName>Savings account</fullName>
+                <default>false</default>
+                <label>Savings account</label>
+            </value>
+            <value>
+                <fullName>Fixed deposit account</fullName>
+                <default>false</default>
+                <label>Fixed deposit account</label>
+            </value>
+            <value>
+                <fullName>I have another query</fullName>
+                <default>false</default>
+                <label>I have another query</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

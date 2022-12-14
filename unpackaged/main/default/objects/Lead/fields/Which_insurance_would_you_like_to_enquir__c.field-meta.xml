@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Which_insurance_would_you_like_to_enquir__c</fullName>
+    <externalId>false</externalId>
+    <label>Which insurance would you like to enquir</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Lorako Business Insurance</fullName>
+                <default>false</default>
+                <label>Lorako Business Insurance</label>
+            </value>
+            <value>
+                <fullName>Motor Comprehensive</fullName>
+                <default>false</default>
+                <label>Motor Comprehensive</label>
+            </value>
+            <value>
+                <fullName>Homeowners</fullName>
+                <default>false</default>
+                <label>Homeowners</label>
+            </value>
+            <value>
+                <fullName>Household Contents</fullName>
+                <default>false</default>
+                <label>Household Contents</label>
+            </value>
+            <value>
+                <fullName>Kgomotso Funeral Plan</fullName>
+                <default>false</default>
+                <label>Kgomotso Funeral Plan</label>
+            </value>
+            <value>
+                <fullName>Retrenchment Insurance</fullName>
+                <default>false</default>
+                <label>Retrenchment Insurance</label>
+            </value>
+            <value>
+                <fullName>Immediate Annuity</fullName>
+                <default>false</default>
+                <label>Immediate Annuity</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

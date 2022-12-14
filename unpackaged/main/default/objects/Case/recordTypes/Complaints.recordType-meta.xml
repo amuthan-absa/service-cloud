@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Complaints</fullName>
+    <active>true</active>
+    <businessProcess>Status</businessProcess>
+    <compactLayoutAssignment>Complaints</compactLayoutAssignment>
+    <label>Complaints</label>
+    <picklistValues>
+        <picklist>Case_Type__c</picklist>
+        <values>
+            <fullName>Complaints</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Compliments</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Feedback</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Inquiry</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Non-confidential fraud</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Service Request</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Communication_Method__c</picklist>
+        <values>
+            <fullName>Email</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fax</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Phone</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Post</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SMS</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Complaint_Theme__c</picklist>
+        <values>
+            <fullName>ATM</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa Mobile Wallet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Account Management</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Agency Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bancassurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Collections</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Complaints Handling</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Data Privacy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>E-Statements</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fees Charges</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Foreign Exchange</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Internet Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Jumo Loans</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Loans</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mobile Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mobile Service Provider Wallet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Payments</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SMS</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sales and Marketing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Savings and Investments</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Staff behavior</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Statements</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Timiza Loans</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>USSD</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Complaint_Type__c</picklist>
+        <values>
+            <fullName>Channel</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mobile_Wallet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Product</fullName>
+            <default>true</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Compliance_Related__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>ID_V_Level_Required__c</picklist>
+        <values>
+            <fullName>Full</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lite</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>None</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Origin</picklist>
+        <values>
+            <fullName>Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Email</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Internet Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Phone</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Regulator</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Social Media</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Web</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Priority</picklist>
+        <values>
+            <fullName>High</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Low</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Medium</fullName>
+            <default>true</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Reason</picklist>
+        <values>
+            <fullName>Complex functionality</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Existing problem</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Instructions not clear</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>New problem</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>User didn%27t attend training</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Resolved_FPOC__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Service_Type__c</picklist>
+        <values>
+            <fullName>3rd Party ATM - Card declined</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>3rd Party ATM - Card retained</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>3rd Party ATM - Cash withdrawal fees</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>3rd party ATM - debited account%2C cash not received</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>ATM Cash send failure</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>ATM Deposit not reflecting on the account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>ATM location</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>ATM not working</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa ATM - Card declined</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa ATM - Card retained</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa ATM - debited account%2C cash not received</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Account maintenance fees</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Agency Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Applied the wrong interest</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Attitude of Staff</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Availability of brochures for products</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Behaving fraudulently</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Blocked my account</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Branch location</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Branch operating hours</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Branch premises</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Canceled my card without my permission</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Card blocked</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Card fees</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Card not working</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cash Acceptor</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cash Send</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cash handling fees</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Changing my personal details</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cheques</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Closed my account without my permission</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Contacted me without permission</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Could not load%2Fpay beneficiaries on internet banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Could not load%2Fpay beneficiaries on my USSD banking on my phone</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Could not load%2Fpay beneficiaries on the mobile banking app</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Could not load%2Fpay beneficiaries through my Absa mobile wallet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Credit Bureau listing of Timiza loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Credit Listing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Credit Shield installment</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Crediting funds to my account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cross border payments clearing periods</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Delay in issuing or delivering my card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Delays in processing my loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demand deposits</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Denied access to my personal data</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Did not adhere to my instruction</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Did not handle my complaint well</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Did not inform me of the charges</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Did not process my insurance request</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Did not receive a local Absa payment</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Did not receive a local non-Absa payment</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Did not receive an international payment</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Did not receive the password for my Absa mobile wallet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Difficulty canceling or closing my card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Disclosed my personal information</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Disputed balance on my loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Disputed loan repayment</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Disputed transaction</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Do not call me again</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Duplicated international payment debited to my account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Duplicated local Absa payment debited to my account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Duplicated local non-Absa payment debited to my account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>E-Statements not Opening</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Exchange rate</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Execution of Court Order</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fixed deposit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Forex Fees</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>I could not get a loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>I could not view my balances on my Absa mobile wallet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>I did not receive my OTP %2F Secure Code from internet banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>I did not receive my OTP %2F Secure code from the USSD banking on my phone</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>I did not receive my OTP %2F Secure code from the mobile banking app</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>I did not receive the OTP %2F Secure code for my Absa mobile wallet transaction</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>I was unable to complete my transaction on internet banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>I was unable to complete my transaction on my Absa mobile wallet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>I was unable to complete my transaction on the USSD banking on my phone</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>I was unable to complete my transaction on the mobile banking app</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Inaccurate product information</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Incorrect%2Fno mention of fees</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Insufficient narratives</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Internet banking fees</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Issues with SMS alerts</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Issuing or re-setting the PIN on my card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Legal</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Letter of Credit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Long queues</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Made a mistake when they activated%2Fissued my card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Misleading advertising</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mortgage</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Multiple SMS Alerts on Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>My card was declined</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>My payment failed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Need to change the password on my Absa mobile wallet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>No cash in the ATM</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Non-receipt of swift copy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Not informed of charges</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Not receiving my statements</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Opened an account without my permission</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other Treasury bill related issues</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Overdraft Charges</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>POS transaction did not go through</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Payment did not go through to a local Absa beneficiary</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Payment did not go through to a local non-Absa beneficiary</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Payment did not go through to an international beneficiary</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Payment to my loan failed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Penalty charges</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Personal data quality issues</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Problems with changing the limit on my card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Problems with opening %2F using my account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Receipts</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rediscounting my Treasury Bill</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Repayment collected not reflecting on my Timiza Wallet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Requested investment profit not received</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Reserved funds on account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SMS Alert Cancellation Not Actioned</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SMS Alert Facility Not Configured</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SMS alert charges</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Security at the Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Service or transaction charges</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Short term deposits</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Staff being available</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Staff error</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Staff knowledge</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Standing Orders</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Suspected Fraud</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Takes too long to close an account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>The Absa mobile wallet platform was offline</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>The USSD banking on my phone was not stable</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>The USSD banking on my phone was offline</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>The insurance on my card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>The internet banking platform was not stable</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>The internet banking platform was offline</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>The merchant did not honor the promotional offer</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>The mobile banking app platform was offline</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>The term of my loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Took too long to resolve my complaint</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Transfer to my wallet failed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Treasury bill not purchased</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Treasury bonds</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Unable to view the balance on my loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Unauthorized processing of personal data</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Unpaid transaction</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Vehicle and Asset insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Welcome kit incomplete - Absa Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>When I choose one of the options under the Service Type field%3A</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wrong international value received</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wrong local value received from a non-Absa payment</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wrong local value received from an Absa payment</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Type</picklist>
+        <values>
+            <fullName>Channel</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Product</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wallet Complaint</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

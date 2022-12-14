@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>BusinessSegment__c</fullName>
+    <externalId>false</externalId>
+    <label>Business Segment</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Mass</fullName>
+                <default>false</default>
+                <label>Mass</label>
+            </value>
+            <value>
+                <fullName>Premier</fullName>
+                <default>false</default>
+                <label>Premier</label>
+            </value>
+            <value>
+                <fullName>SME</fullName>
+                <default>false</default>
+                <label>SME</label>
+            </value>
+            <value>
+                <fullName>Local Business</fullName>
+                <default>false</default>
+                <label>Local Business</label>
+            </value>
+            <value>
+                <fullName>Commercial</fullName>
+                <default>false</default>
+                <label>Commercial</label>
+            </value>
+            <value>
+                <fullName>Corporate</fullName>
+                <default>false</default>
+                <label>Corporate</label>
+            </value>
+            <value>
+                <fullName>Agriculture</fullName>
+                <default>false</default>
+                <label>Agriculture</label>
+            </value>
+            <value>
+                <fullName>Prestige</fullName>
+                <default>false</default>
+                <label>Prestige</label>
+            </value>
+            <value>
+                <fullName>Personal Standard</fullName>
+                <default>false</default>
+                <label>Personal Standard</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
