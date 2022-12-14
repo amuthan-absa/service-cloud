@@ -1,0 +1,17 @@
+<apex:page controller="IDVControllerVF">
+    <apex:form >
+        <apex:pageBlock >
+            <apex:pageblockButtons >
+                <apex:commandButton value="Next"/>
+                <apex:commandButton value="Finish"/>
+            </apex:pageblockButtons>
+            <apex:pageblockSection >
+                Please enter the Account Number : <apex:inputtext value="{!acctNumber}"/>
+            </apex:pageblockSection>
+            <apex:pageBlockSection title="Questions">
+                <apex:outputText >Dynamic Question</apex:outputText>
+                <apex:inputtext />
+            </apex:pageBlockSection>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>

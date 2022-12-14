@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Which credit card are you interested in? --></label>
+        <name>Which_credit_card_are_you_interested_in__c</name>
+        <picklistValues>
+            <masterLabel>Classic Credit Card</masterLabel>
+            <translation><!-- Classic Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Company Credit Card</masterLabel>
+            <translation><!-- Company Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gold Credit Card</masterLabel>
+            <translation><!-- Gold Credit Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Platinum Credit Card</masterLabel>
+            <translation><!-- Platinum Credit Card --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

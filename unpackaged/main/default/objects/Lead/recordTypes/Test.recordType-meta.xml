@@ -1,0 +1,3717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Test</fullName>
+    <active>true</active>
+    <businessProcess>FinServ__Lead Process</businessProcess>
+    <label>Test</label>
+    <picklistValues>
+        <picklist>Ask_more_about_merchant_services__c</picklist>
+        <values>
+            <fullName>Integrated POS</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Point-of-Sale</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>eCommerce</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>mPOS</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Branch__c</picklist>
+        <values>
+            <fullName>25 de Setembro</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>ABC Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>ABEKA LAPAZ</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>ACHIMOTA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>ACHIMOTA PRESTIGE</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>ASAFO Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>ASHIAMAN</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>AVENUE CENTRAL</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Aacacia Mall</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Abaita Ababiri</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa Towers Premier</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa Towers Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Accra High Street</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Accra High Street Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ahodwo Main</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ahodwo Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Airport Junction</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Airport Junction Premier</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Alpha House</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Alto Mae</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Arcades</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Archbishop Luwum Street</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Arua</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Arusha</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Avenida de Angola</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Avenida de Mocambique</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Avon Centre</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BANTAMA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BOLGA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Babati</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Baia Mall</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Beira</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Berekum</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Black River</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Blue Jacket</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Boane</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bobonong</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bomet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Broadhurst</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bugolobi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bukoba</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bungoma</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bunyala Rd</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Buruburu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Busia</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CAPE COAST</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CIRCLE</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Carbo Premier</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Carbo Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Centre de Flacq</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Centro de Negocios</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chang%27ombe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Changamwe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chimoio</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chingola</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chipata</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chokwe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Choma</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Circle Business Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Circle Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Corporate</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Corporate Service Center</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cosmopolitan Mall Makeni</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Curepipe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>DANSOMAN</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>DARKUMAN</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dar City Mall</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Diani</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Digo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dodoma</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dondo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>East Legon</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>East Park</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Eastleigh</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ebene</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Eldoret</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Embu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Entebbe Kitoro</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fernao de Magalhaes</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fortportal</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Francistown</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Francistown Premier</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>GIND</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Galo Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Game City</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Game City Premier</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Garden City</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Garissa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Geita</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ghanzi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gikomba</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gilgil</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Githunguri</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Grand Bay</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Guerra Popular</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gulu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gumani</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gumani Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gumare</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>HO</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Haatso</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hannington Premier</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Harambee</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Head Office</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>High Street Businees Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hohoe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hoima</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hollard</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Homa bay</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hurlingham Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Igoma</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Industrial</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Inhaca</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Inhambane</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Iringa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Isiolo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>JKIA Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Jinja</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Jwaneng</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>KEJETIA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>KNUST</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>KOFORIDUA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>KPST</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>KPST Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>KROFROM</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kabale</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kabarnet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kabulonga Centro Mall</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kabwata</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kabwe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kafue</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kahama</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kakamega</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kampala Road</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kaneshie Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kansanga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kanye</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kapenguria</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kapsabet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Karatina</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Karatu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Karen</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kariakoo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kariobangi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kasama</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kasane</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kasese</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kawempe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kericho</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kerugoya</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kibaha</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kigoma</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kikuyu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kilifi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kinondoni</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kireka</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kisii</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kisumu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kitale</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kitengela</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kitui</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kitwe Main</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kitwe Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Knutsford</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Knutsford Business Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kumasi Business Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>LG CENTRE</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Digue</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lard</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lavington Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Legon Campus Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Legon Main Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Letlhakane</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Levy Mall</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lichinga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Limuru</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lindi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lira</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Livingstone Main</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Livingstone Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lobatse</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Longacres Mian</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Longacres Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Luanshya</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lubowa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lugogo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lungalunga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>MADINA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>MAKOLA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Maamobi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Machakos</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Machava</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mahalapye</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Makambako Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Malindi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mall</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Manga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Manhica</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Manica</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mansa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mao Tse Tung</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Market Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Marromeu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Masaka</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Masasi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Masindi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Masunga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Matola Shoprite</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Matola Spar</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Maua</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Maun</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Maxixe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mazabuka</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mbagala</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mbale</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mbarara</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mbeya</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mbezi Beach</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Meru</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Migori</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mikocheni</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mkushi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mlimani City</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mnazi Mmoja</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Moatize</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mocuba</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Moi Mombasa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Molepolole</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mongu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Monze</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Morogoro</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Moshi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Moshupa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mtwara</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mufulira</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Muhimbili</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mukono</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mukuba Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Muranga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Musoma</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mutaba</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Muthaiga Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mwanza</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NESTER SQUARE</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NKAWKAW</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nacala</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nairobi West Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Naivasha</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nakonde</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nakulabye</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nakuru East</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nakuru West</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nampula</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nanyuki</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Narok</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nata</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ndeeba</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ndola Buteko</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ndola Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ngong</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Njombe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nkrumah Rd</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ntida</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nyahururu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nyali</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nyali Premier</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nyanza</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nyeri</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nzega</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>OBUASI</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>ODA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>OSU</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>OSU Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ohio</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ongata Rongai</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Orapa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Osu Business Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>PREMIER</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Palapye</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Parkside Towers</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Parliament Avenue</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pemba</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Personal Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Petauke</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pilane</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Polana</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Port Louis</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Praslin - Baie St Anne</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Flagship</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Kempinski</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Providence</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pugu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Quatre Bornes</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Queensway Hse</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Quelimane</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>RIDGE</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>RING ROAD</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rani Towers</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ressano Garcia</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ring Road Business Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>River Road</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rodrigues</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rose Belle</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rose Hill</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ruaraka</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rwenzori</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SME</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SME Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SOMANYA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SPINTEX PRESTIGE</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SUAME MAGAZINE</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SUNYANI</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Samora</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sarit Premier</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sarit Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Seacliff</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Selibe Phikwe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Serowe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Shakawe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Shauriyako</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Shinyanga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Singida</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sky Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Skybranch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Slipway</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Solwezi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Songea</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>South Field Mall</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Southern Sun Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Spintex Business Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Spintex Main Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sumbawanga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>T-HIGH Business Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TAFO</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TAKORADI HIGH STREET</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TAMALE</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TANOSO</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TEMA FISHING HARBOUR</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TEMA MAIN</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tabora</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Takoradi Liberation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tamale Business Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tanga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tank Hill Muyenga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tarime</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tarkwa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Taveta</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tegeta</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Telemarketing Unit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Telesales</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Telesales Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tema Main Business Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tema Main Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tete</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Thika</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Thika Road Mall</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tsabong</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tukuyu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tunduma</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tutume</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Two Rivers</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>UDSM</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>UN Branch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>UON</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ubungo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ummy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Victoria</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Vilanculos</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Village Market Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Voi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>WA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wamphula</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wandegeya</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Webuye</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Westgate</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Westlands</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wote</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Xai-Xai</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yaya Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Zanzibar</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>bantam agency</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>techiman</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Existing_Customer__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>How_can_we_assist_you__c</picklist>
+        <values>
+            <fullName>Current account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fixed deposit account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>I have another query</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Savings account</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Industry</picklist>
+        <values>
+            <fullName>Agriculture</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Apparel</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Biotechnology</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chemicals</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Communications</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Construction</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consulting</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Education</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Electronics</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Energy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Engineering</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Entertainment</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Environmental</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Food %26 Beverage</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Government</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Healthcare</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hospitality</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Machinery</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Manufacturing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Media</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Not For Profit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Recreation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Retail</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Shipping</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Technology</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Telecommunications</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Transportation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Utilities</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Intrest_in_which_type_of_facility__c</picklist>
+        <values>
+            <fullName>Corporate Term Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Domestic Asset Finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Revolving Credit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Structured Finance</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LeadSource</picklist>
+        <values>
+            <fullName>Affluent Customers</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Purchased List</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Name</picklist>
+        <values>
+            <fullName>Dr%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mr%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mrs%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ms%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prof%2E</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Product__c</picklist>
+        <values>
+            <fullName>Absa Direct Personal Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa Education Plan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa Flexi Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa Junior Saving</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa Life Protection Plan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa Personal Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa Prestige Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Asset finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Awamu Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bill of Exchnage</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bonus Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business  Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Access Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Bonus saving Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Current Card Enquiry</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Current ot Call Deposit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Daily Interest Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Debit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Fixed Deposit Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Foreign Currency Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Foreign Currency Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Instalment Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Overdraft</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Saving  Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Secured Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business mortgage loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Buy to Let</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Car Insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chanua Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Classic Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Collection accounts</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Commercial Fixed Deposit Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Company credit card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Credit Life</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Credit Life Insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Current Account Treat</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Current accounts</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Debt Finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Direct Ultimate Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Documentary trade</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Embedded Funeral</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Employee Salary Overdraft</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Equity Release</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fixed Deposit Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fixed Deposits Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fixed Term Deposit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fixed deposits</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Flexi Buy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Flexi Lease</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Flexi Rent</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Foreign Currency Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Foreign Currency Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Foreign Currency Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Forex</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>FutureU Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gold Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Government Instruments</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Graduate Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Group accident %26 funeral insurance for NBC Privilege</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hedging Solutions</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>High Rate Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Home Improvement</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Home Insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Home Purchase</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Home Take-over</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Home loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Host-to-Host</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ignition Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Instant Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Internet banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Investments</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Isago Pay as You Use</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Join Business Club</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Junior Eagle Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lekgolo Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Letter of Credit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Loan repayment cover</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Malengo Saving Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Merchant Services</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mobile Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mortgage</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mortgage Protection Scheme</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Motor Insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Motshelo Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NBC Cash Cover Facility</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NBC Direct Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NBC Equity Release</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NBC Funeral insurance for Ordinary Savings</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NBC Group Loans</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NBC Home Purchase Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NBC Individual Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NBC Kikundi Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NBC Pensioners Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NBC Refinancing Home Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NBC Takaful funeral insurance for Islamic Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Overdraft and short-term loans</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pamoja Bonus Savings account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Personal Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Personal Direct Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Personal Foreign Currency Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Personal Foreign USD Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Personal Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Platinum Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Bonus Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Ultimate Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prestige  Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prestige Bank Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prestige Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prestige Plus Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prestige Transact Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prestige Ultimate Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pure Save Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Re-mortgage</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Renmogo Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Retrenchment Cover</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SME Enterprise Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SME Scheme loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Scheme Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>School Plan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Secured Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Serala Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Structured Trade and Commodity Finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Student Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Supplier Finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Target Save Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Term Debt Funding</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Term Deposit Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Term loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Trade loans</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Travel Insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ultimate Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ultimate Ultra Salary Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Unlimited Life Protection Plan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Unsecured Loan</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Rating</picklist>
+        <values>
+            <fullName>Cold</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hot</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Warm</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Region__c</picklist>
+        <values>
+            <fullName>Accra East%2FTema%2FEastern%2FVolta</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Accra South Central%2FAccra West%2FWestern</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Arusha</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bois De Rose</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cabo Delgado</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Capital City</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Central</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cluster Four</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cluster One</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cluster Three</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cluster Two</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Coast Region</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Coastal Region</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dar es Salaam</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dodoma</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>East</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Francistown</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>GIND</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gaza</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Inhambane</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Iringa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kampala</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kampala Central</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kampala Metropolitan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kariba Cluster</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kinondoni</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Digue</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lake Region</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Learning and Development Center</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lichinga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Luangwa Cluster</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Luapula Cluster</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mall</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Manica</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Maputo Down Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Maputo Polana</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Maputo Uptown</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Matola</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mauritius</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mbeya</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Morogoro</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Moshi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mt%2EKenya</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mwanza</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nairobi West</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nampula</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nortern%2FAshanti%2FBrong Ahafo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>North</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Northern Region</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Praslin</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Praslin %2F La Digue</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier And Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prestige</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prestige and Mall</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Providence</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Queensway Cluster</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SME</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sofala</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tanga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tellemarketing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tete</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Victoria</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>West</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Western</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Zambezi Cluster</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Zambezia</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Zanzibar</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Select_the_loan_you_would_like_to_apply__c</picklist>
+        <values>
+            <fullName>A new car</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>A used car</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Source_through_EPL__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Town__c</picklist>
+        <values>
+            <fullName>Accra</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Achimota</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Arua</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Arusha</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BEREKUM</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BOLGA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Babati Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bobonong</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bois De Rose</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bukoba Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cape Coast</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chingola</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chipata</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Choma</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Coast</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dar es Salaam</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dodoma</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dodoma Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Entebbe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fortportal</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Francistown</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gaborone</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gaborone GIND</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gaborone Mall</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Geita Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ghanzi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gulu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gumare</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hohoe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hoima</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Igoma Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ilala Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ilala- Dar es Salaam</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Iringa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Jinja</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Jwaneng</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kabale</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kabwe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kafue</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kahama</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kampala</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kanye</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Karatu Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kasama</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kasane</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kasese</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kigoma Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kinondoni</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kinondoni Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kitwe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Koforidua</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kumasi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Digue</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Letlhakane</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lindi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lira</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Livingstone</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lobatse</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Luanshya</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lusaka Kariba</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lusaka Luangwa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lusaka Luapula</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mahalapye</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Makambako</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Makambako Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mansa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Masaka</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Masasi Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Masindi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Masunga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Maun</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mauritius</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mazabuka</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mbarara</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mbeya</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Meru Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mkushi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Molepolole</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mongu</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Monze</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Morogoro</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Morogoro Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Moshi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Moshi Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Moshupa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mt%2EKenya</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mtwara Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mufulira</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Musoma Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mwanza</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mwanza Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nairobi West</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nakonde</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nata</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ndola</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Njombe Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nkawkaw</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nyanza Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Nzega Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>OBUASI</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Oda</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Orapa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Palapye</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Petauke</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pilane</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Praslin</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Kenya</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prestige and Mall</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Providence</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pwani</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Queensway Cluster</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ruvuma Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SUNYANI</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Selibe Phikwe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Serowe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Shakawe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Shinyanga Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Singida Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Solwezi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Somanya</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sumbawanga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TAMALE</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TECHIMAN</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tabora Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Takoradi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tanga</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tanga Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tarime Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tarkwa</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Telesales</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tellemarketing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tema</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Temeke-Dar es Salaam</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tsabong</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tukuyu Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tunduma Town</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tutume</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Victoria</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Victoria - Capital City</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>WA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Western</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Zanzibar</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>ho</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Which_Insurance_enquiry_about__c</picklist>
+        <values>
+            <fullName>Homeowners</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Household Contents</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Immediate Annuity</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kgomotso Funeral Plan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lorako Business Insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Motor Comprehensive</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Retrenchment Insurance</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Which_La_Riba_Saving_Account_apply_for__c</picklist>
+        <values>
+            <fullName>La Riba Al Hadaf Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Riba Junior Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Riba Uwezo Accout</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Which_Personal_Account_to_apply_for__c</picklist>
+        <values>
+            <fullName>La Riba Absa Junior</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Riba Asset Based Finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Riba Business Finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Riba Construction Finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Riba Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Riba Mortgage Finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Riba Premier Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Riba Prestige Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mudhaarabah</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Which_account_enquiry_about__c</picklist>
+        <values>
+            <fullName>Bonus Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Instant Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Target Save</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Which_credit_card_are_you_interested_in__c</picklist>
+        <values>
+            <fullName>Classic Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Company Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gold Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Platinum Credit Card</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Which_home_mortgage_to_apply_for__c</picklist>
+        <values>
+            <fullName>Buy to Let</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Construction Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Equity Release</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Home Loan Straight Purchase</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Re-mortgage</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Which_insurance_would_you_like_to_enquir__c</picklist>
+        <values>
+            <fullName>Homeowners</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Household Contents</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Immediate Annuity</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kgomotso Funeral Plan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lorako Business Insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Motor Comprehensive</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Retrenchment Insurance</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Which_solution_are_you_interested_in__c</picklist>
+        <values>
+            <fullName>Absa Bank Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Absa One Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Asset insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bonus Savings Accoun</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Bonus Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Club Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Mortgage Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business combined insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Car loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Classic Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Classic Rewards Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Company Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Education policy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>File and special perils insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fire and special perils insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fixed Deposit Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fixed Term Deposit Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Flexi Buy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Flexi Lease</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Flexi Rent</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Foreign Currency Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Foreign Currency Account USD</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Foreign Currency Savings Account GBP</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>General insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gold Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gold Rewards Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Home insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Host-to-host</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Instant Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Internet banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Junior Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Junior Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>La Riba Business Current Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Liability covers</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Marine insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Medical insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Merchant Services</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mobile banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Motor insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Multi-currency Prepaid</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Multi-currency Prepaid AUD</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Multi-currency Prepaid CAD</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Multi-currency Prepaid EUR</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Multi-currency Prepaid GBP</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Multi-currency Prepaid INR</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Multi-currency Prepaid JPY</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Multi-currency Prepaid KES</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Multi-currency Prepaid USD</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Multi-currency Prepaid ZAR</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>My life and family</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Payment card insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Platinum Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Banking Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Premier Bonus Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prepaid KES Cards</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prestige Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prestige Bonus Savings Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>SME Business Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Secured personal loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Signature Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Student Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Student loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Target Savings</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Travel insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ultimate Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Unsecured Loan - Check off</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Unsecured Loan - Non check off</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Unsecured personal loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Young Pro Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Zidisha Bonus Account</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

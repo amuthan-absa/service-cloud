@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Next_Birthday__c</fullName>
+    <description>calculate user next birthday</description>
+    <externalId>false</externalId>
+    <formula>IF(MONTH(  DOB__c ) &gt; MONTH(TODAY()),DATE(YEAR(TODAY()),MONTH(DOB__c ),DAY(DOB__c )),
+IF(MONTH(DOB__c  ) &lt; MONTH(TODAY()),DATE(YEAR(TODAY())+1,MONTH(DOB__c ),DAY(DOB__c )),
+IF(DAY(DOB__c ) &gt;= (DAY(TODAY())),DATE(YEAR(TODAY()),MONTH(DOB__c ),DAY(DOB__c )),
+DATE(YEAR(TODAY())+1,MONTH(DOB__c ),DAY(DOB__c )))))</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Next Birthday</label>
+    <required>false</required>
+    <type>Date</type>
+</CustomField>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <fieldSets>
+        <label><!-- Financial Accounts Summary --></label>
+        <name>FSC_Banker_Profile_Fin_Acct_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- LBL.Label_Field_Set_Relationship_Group_Members --></label>
+        <name>WM_Client_Relationship_Group_Members</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- LBL.Label_Field_Set_Relationship_Groups --></label>
+        <name>WM_Client_Relationship_Groups</name>
+    </fieldSets>
+    <layouts>
+        <layout>Business Account Layout</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Communication Information --></label>
+            <section>Communication Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label><!-- Relationship Banker Details --></label>
+            <section>Relationship Banker Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Business Account Prospect Layout</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Communication Information --></label>
+            <section>Communication Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Person Account Layout</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Communication Information --></label>
+            <section>Communication Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label><!-- Relationship Banker Details --></label>
+            <section>Relationship Banker Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Person Account Prospect Layout</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Communication Information --></label>
+            <section>Communication Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Person Account</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Communication Information --></label>
+            <section>Communication Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label><!-- Relationship Banker Details --></label>
+            <section>Relationship Banker Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Person Account Prospect Layout</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Communication Information --></label>
+            <section>Communication Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Details --></label>
+            <section>Details</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Add Beneficiary to Policy --></label>
+        <name>Add_Beneficiary_to_Policy</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Child Account --></label>
+        <name>Child_Account</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Send Documents ( Insurance ) --></label>
+        <name>Send_Documents_Insurance</name>
+    </quickActions>
+    <recordTypes>
+        <label><!-- Business Account --></label>
+        <name>Business_Account</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Business Account Prospect --></label>
+        <name>Business_Account_Prospect</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Person Account Custom --></label>
+        <name>Person_Account_Custom</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Person Account Prospect Custom --></label>
+        <name>Person_Account_Prospect_Custom</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Email Address Field shouldn&apos;t be blank. --></errorMessage>
+        <name>VR01_Email_Validation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Fax Number field can&apos;t be blank. --></errorMessage>
+        <name>VR02_Fax_Validation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Phone Number field shouldn&apos;t be blank. --></errorMessage>
+        <name>VR03_Phone_Validation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Post Field shouldn&apos;t be blank. --></errorMessage>
+        <name>VR04_Post_Validation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Phone Number Field shouldn&apos;t be blank. --></errorMessage>
+        <name>VR05_Sms_Validation</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleNews --></label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+</CustomObjectTranslation>

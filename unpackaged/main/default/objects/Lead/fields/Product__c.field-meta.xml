@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Product__c</fullName>
+    <externalId>false</externalId>
+    <label>Product</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Ultimate Account</fullName>
+                <default>false</default>
+                <label>Ultimate Account</label>
+            </value>
+            <value>
+                <fullName>Ignition Account</fullName>
+                <default>false</default>
+                <label>Ignition Account</label>
+            </value>
+            <value>
+                <fullName>Direct Ultimate Account</fullName>
+                <default>false</default>
+                <label>Direct Ultimate Account</label>
+            </value>
+            <value>
+                <fullName>Premier Ultimate Account</fullName>
+                <default>false</default>
+                <label>Premier Ultimate Account</label>
+            </value>
+            <value>
+                <fullName>Prestige Ultimate Account</fullName>
+                <default>false</default>
+                <label>Prestige Ultimate Account</label>
+            </value>
+            <value>
+                <fullName>Current Account Treat</fullName>
+                <default>false</default>
+                <label>Current Account Treat</label>
+            </value>
+            <value>
+                <fullName>Renmogo Current Account</fullName>
+                <default>false</default>
+                <label>Renmogo Current Account</label>
+            </value>
+            <value>
+                <fullName>Isago Pay as You Use</fullName>
+                <default>false</default>
+                <label>Isago Pay as You Use</label>
+            </value>
+            <value>
+                <fullName>Foreign Currency Account</fullName>
+                <default>false</default>
+                <label>Foreign Currency Account</label>
+            </value>
+            <value>
+                <fullName>Motshelo Savings Account</fullName>
+                <default>false</default>
+                <label>Motshelo Savings Account</label>
+            </value>
+            <value>
+                <fullName>FutureU Savings Account</fullName>
+                <default>false</default>
+                <label>FutureU Savings Account</label>
+            </value>
+            <value>
+                <fullName>Instant Savings Account</fullName>
+                <default>false</default>
+                <label>Instant Savings Account</label>
+            </value>
+            <value>
+                <fullName>Lekgolo Savings Account</fullName>
+                <default>false</default>
+                <label>Lekgolo Savings Account</label>
+            </value>
+            <value>
+                <fullName>Serala Savings Account</fullName>
+                <default>false</default>
+                <label>Serala Savings Account</label>
+            </value>
+            <value>
+                <fullName>Target Save Account</fullName>
+                <default>false</default>
+                <label>Target Save Account</label>
+            </value>
+            <value>
+                <fullName>Fixed Term Deposit</fullName>
+                <default>false</default>
+                <label>Fixed Term Deposit</label>
+            </value>
+            <value>
+                <fullName>Absa Personal Loan</fullName>
+                <default>false</default>
+                <label>Absa Personal Loan</label>
+            </value>
+            <value>
+                <fullName>Scheme Loan</fullName>
+                <default>false</default>
+                <label>Scheme Loan</label>
+            </value>
+            <value>
+                <fullName>Graduate Loan</fullName>
+                <default>false</default>
+                <label>Graduate Loan</label>
+            </value>
+            <value>
+                <fullName>Home loan</fullName>
+                <default>false</default>
+                <label>Home loan</label>
+            </value>
+            <value>
+                <fullName>Platinum Credit Card</fullName>
+                <default>false</default>
+                <label>Platinum Credit Card</label>
+            </value>
+            <value>
+                <fullName>Gold Credit Card</fullName>
+                <default>false</default>
+                <label>Gold Credit Card</label>
+            </value>
+            <value>
+                <fullName>Classic Credit Card</fullName>
+                <default>false</default>
+                <label>Classic Credit Card</label>
+            </value>
+            <value>
+                <fullName>Business Current Account</fullName>
+                <default>false</default>
+                <label>Business Current Account</label>
+            </value>
+            <value>
+                <fullName>Business Saving  Account</fullName>
+                <default>false</default>
+                <label>Business Saving  Account</label>
+            </value>
+            <value>
+                <fullName>Business Instalment Loan</fullName>
+                <default>false</default>
+                <label>Business Instalment Loan</label>
+            </value>
+            <value>
+                <fullName>Business Overdraft</fullName>
+                <default>false</default>
+                <label>Business Overdraft</label>
+            </value>
+            <value>
+                <fullName>Premier Current Account</fullName>
+                <default>false</default>
+                <label>Premier Current Account</label>
+            </value>
+            <value>
+                <fullName>Prestige  Account</fullName>
+                <default>false</default>
+                <label>Prestige  Account</label>
+            </value>
+            <value>
+                <fullName>Current Account</fullName>
+                <default>false</default>
+                <label>Current Account</label>
+            </value>
+            <value>
+                <fullName>Bonus Savings Account</fullName>
+                <default>false</default>
+                <label>Bonus Savings Account</label>
+            </value>
+            <value>
+                <fullName>Absa Junior Saving</fullName>
+                <default>false</default>
+                <label>Absa Junior Saving</label>
+            </value>
+            <value>
+                <fullName>Absa Direct Personal Loan</fullName>
+                <default>false</default>
+                <label>Absa Direct Personal Loan</label>
+            </value>
+            <value>
+                <fullName>Employee Salary Overdraft</fullName>
+                <default>false</default>
+                <label>Employee Salary Overdraft</label>
+            </value>
+            <value>
+                <fullName>School Plan</fullName>
+                <default>false</default>
+                <label>School Plan</label>
+            </value>
+            <value>
+                <fullName>Mortgage</fullName>
+                <default>false</default>
+                <label>Mortgage</label>
+            </value>
+            <value>
+                <fullName>Equity Release</fullName>
+                <default>false</default>
+                <label>Equity Release</label>
+            </value>
+            <value>
+                <fullName>Home Improvement</fullName>
+                <default>false</default>
+                <label>Home Improvement</label>
+            </value>
+            <value>
+                <fullName>Home Take-over</fullName>
+                <default>false</default>
+                <label>Home Take-over</label>
+            </value>
+            <value>
+                <fullName>Absa Life Protection Plan</fullName>
+                <default>false</default>
+                <label>Absa Life Protection Plan</label>
+            </value>
+            <value>
+                <fullName>Absa Education Plan</fullName>
+                <default>false</default>
+                <label>Absa Education Plan</label>
+            </value>
+            <value>
+                <fullName>Unlimited Life Protection Plan</fullName>
+                <default>false</default>
+                <label>Unlimited Life Protection Plan</label>
+            </value>
+            <value>
+                <fullName>Motor Insurance</fullName>
+                <default>false</default>
+                <label>Motor Insurance</label>
+            </value>
+            <value>
+                <fullName>Travel Insurance</fullName>
+                <default>false</default>
+                <label>Travel Insurance</label>
+            </value>
+            <value>
+                <fullName>Business Current ot Call Deposit</fullName>
+                <default>false</default>
+                <label>Business Current ot Call Deposit</label>
+            </value>
+            <value>
+                <fullName>Term Deposit Account</fullName>
+                <default>false</default>
+                <label>Term Deposit Account</label>
+            </value>
+            <value>
+                <fullName>SME Scheme loan</fullName>
+                <default>false</default>
+                <label>SME Scheme loan</label>
+            </value>
+            <value>
+                <fullName>Term loan</fullName>
+                <default>false</default>
+                <label>Term loan</label>
+            </value>
+            <value>
+                <fullName>Asset finance</fullName>
+                <default>false</default>
+                <label>Asset finance</label>
+            </value>
+            <value>
+                <fullName>Company credit card</fullName>
+                <default>false</default>
+                <label>Company credit card</label>
+            </value>
+            <value>
+                <fullName>Overdraft and short-term loans</fullName>
+                <default>false</default>
+                <label>Overdraft and short-term loans</label>
+            </value>
+            <value>
+                <fullName>Trade loans</fullName>
+                <default>false</default>
+                <label>Trade loans</label>
+            </value>
+            <value>
+                <fullName>Documentary trade</fullName>
+                <default>false</default>
+                <label>Documentary trade</label>
+            </value>
+            <value>
+                <fullName>Supplier Finance</fullName>
+                <default>false</default>
+                <label>Supplier Finance</label>
+            </value>
+            <value>
+                <fullName>Structured Trade and Commodity Finance</fullName>
+                <default>false</default>
+                <label>Structured Trade and Commodity Finance</label>
+            </value>
+            <value>
+                <fullName>Bill of Exchnage</fullName>
+                <default>false</default>
+                <label>Bill of Exchnage</label>
+            </value>
+            <value>
+                <fullName>Letter of Credit</fullName>
+                <default>false</default>
+                <label>Letter of Credit</label>
+            </value>
+            <value>
+                <fullName>Forex</fullName>
+                <default>false</default>
+                <label>Forex</label>
+            </value>
+            <value>
+                <fullName>Investments</fullName>
+                <default>false</default>
+                <label>Investments</label>
+            </value>
+            <value>
+                <fullName>Hedging Solutions</fullName>
+                <default>false</default>
+                <label>Hedging Solutions</label>
+            </value>
+            <value>
+                <fullName>Government Instruments</fullName>
+                <default>false</default>
+                <label>Government Instruments</label>
+            </value>
+            <value>
+                <fullName>Premier Account</fullName>
+                <default>false</default>
+                <label>Premier Account</label>
+            </value>
+            <value>
+                <fullName>Prestige Current Account</fullName>
+                <default>false</default>
+                <label>Prestige Current Account</label>
+            </value>
+            <value>
+                <fullName>Personal Current Account</fullName>
+                <default>false</default>
+                <label>Personal Current Account</label>
+            </value>
+            <value>
+                <fullName>Personal Foreign Currency Current Account</fullName>
+                <default>false</default>
+                <label>Personal Foreign Currency Current Account</label>
+            </value>
+            <value>
+                <fullName>Absa Prestige Loan</fullName>
+                <default>false</default>
+                <label>Absa Prestige Loan</label>
+            </value>
+            <value>
+                <fullName>Business Foreign Currency Current Account</fullName>
+                <default>false</default>
+                <label>Business Foreign Currency Current Account</label>
+            </value>
+            <value>
+                <fullName>Business Secured Loan</fullName>
+                <default>false</default>
+                <label>Business Secured Loan</label>
+            </value>
+            <value>
+                <fullName>Business Fixed Deposit Account</fullName>
+                <default>false</default>
+                <label>Business Fixed Deposit Account</label>
+            </value>
+            <value>
+                <fullName>Premier Banking</fullName>
+                <default>false</default>
+                <label>Premier Banking</label>
+            </value>
+            <value>
+                <fullName>Prestige Bank Account</fullName>
+                <default>false</default>
+                <label>Prestige Bank Account</label>
+            </value>
+            <value>
+                <fullName>Unsecured Loan</fullName>
+                <default>false</default>
+                <label>Unsecured Loan</label>
+            </value>
+            <value>
+                <fullName>Secured Loan</fullName>
+                <default>false</default>
+                <label>Secured Loan</label>
+            </value>
+            <value>
+                <fullName>SME Enterprise Account</fullName>
+                <default>false</default>
+                <label>SME Enterprise Account</label>
+            </value>
+            <value>
+                <fullName>Business Foreign Currency Account</fullName>
+                <default>false</default>
+                <label>Business Foreign Currency Account</label>
+            </value>
+            <value>
+                <fullName>Call Account</fullName>
+                <default>false</default>
+                <label>Call Account</label>
+            </value>
+            <value>
+                <fullName>Foreign Currency Current Account</fullName>
+                <default>false</default>
+                <label>Foreign Currency Current Account</label>
+            </value>
+            <value>
+                <fullName>Business  Loan</fullName>
+                <default>false</default>
+                <label>Business  Loan</label>
+            </value>
+            <value>
+                <fullName>Business mortgage loan</fullName>
+                <default>false</default>
+                <label>Business mortgage loan</label>
+            </value>
+            <value>
+                <fullName>Loan repayment cover</fullName>
+                <default>false</default>
+                <label>Loan repayment cover</label>
+            </value>
+            <value>
+                <fullName>Business Bonus saving Account</fullName>
+                <default>false</default>
+                <label>Business Bonus saving Account</label>
+            </value>
+            <value>
+                <fullName>Commercial Fixed Deposit Account</fullName>
+                <default>false</default>
+                <label>Commercial Fixed Deposit Account</label>
+            </value>
+            <value>
+                <fullName>Merchant Services</fullName>
+                <default>false</default>
+                <label>Merchant Services</label>
+            </value>
+            <value>
+                <fullName>Flexi Buy</fullName>
+                <default>false</default>
+                <label>Flexi Buy</label>
+            </value>
+            <value>
+                <fullName>Flexi Lease</fullName>
+                <default>false</default>
+                <label>Flexi Lease</label>
+            </value>
+            <value>
+                <fullName>Flexi Rent</fullName>
+                <default>false</default>
+                <label>Flexi Rent</label>
+            </value>
+            <value>
+                <fullName>Internet banking</fullName>
+                <default>false</default>
+                <label>Internet banking</label>
+            </value>
+            <value>
+                <fullName>Host-to-Host</fullName>
+                <default>false</default>
+                <label>Host-to-Host</label>
+            </value>
+            <value>
+                <fullName>Mobile Banking</fullName>
+                <default>false</default>
+                <label>Mobile Banking</label>
+            </value>
+            <value>
+                <fullName>Foreign Currency Savings Account</fullName>
+                <default>false</default>
+                <label>Foreign Currency Savings Account</label>
+            </value>
+            <value>
+                <fullName>Premier Bonus Savings Account</fullName>
+                <default>false</default>
+                <label>Premier Bonus Savings Account</label>
+            </value>
+            <value>
+                <fullName>High Rate Savings Account</fullName>
+                <default>false</default>
+                <label>High Rate Savings Account</label>
+            </value>
+            <value>
+                <fullName>Business Daily Interest Account</fullName>
+                <default>false</default>
+                <label>Business Daily Interest Account</label>
+            </value>
+            <value>
+                <fullName>Awamu Account</fullName>
+                <default>false</default>
+                <label>Awamu Account</label>
+            </value>
+            <value>
+                <fullName>Business Access Account</fullName>
+                <default>false</default>
+                <label>Business Access Account</label>
+            </value>
+            <value>
+                <fullName>Current accounts</fullName>
+                <default>false</default>
+                <label>Current accounts</label>
+            </value>
+            <value>
+                <fullName>Collection accounts</fullName>
+                <default>false</default>
+                <label>Collection accounts</label>
+            </value>
+            <value>
+                <fullName>Fixed deposits</fullName>
+                <default>false</default>
+                <label>Fixed deposits</label>
+            </value>
+            <value>
+                <fullName>Home Purchase</fullName>
+                <default>false</default>
+                <label>Home Purchase</label>
+            </value>
+            <value>
+                <fullName>Re-mortgage</fullName>
+                <default>false</default>
+                <label>Re-mortgage</label>
+            </value>
+            <value>
+                <fullName>Buy to Let</fullName>
+                <default>false</default>
+                <label>Buy to Let</label>
+            </value>
+            <value>
+                <fullName>Business Debit Card</fullName>
+                <default>false</default>
+                <label>Business Debit Card</label>
+            </value>
+            <value>
+                <fullName>Term Debt Funding</fullName>
+                <default>false</default>
+                <label>Term Debt Funding</label>
+            </value>
+            <value>
+                <fullName>Join Business Club</fullName>
+                <default>false</default>
+                <label>Join Business Club</label>
+            </value>
+            <value>
+                <fullName>Debt Finance</fullName>
+                <default>false</default>
+                <label>Debt Finance</label>
+            </value>
+            <value>
+                <fullName>Prestige Plus Account</fullName>
+                <default>false</default>
+                <label>Prestige Plus Account</label>
+            </value>
+            <value>
+                <fullName>Ultimate Ultra Salary Account</fullName>
+                <default>false</default>
+                <label>Ultimate Ultra Salary Account</label>
+            </value>
+            <value>
+                <fullName>Personal Foreign USD Account</fullName>
+                <default>false</default>
+                <label>Personal Foreign USD Account</label>
+            </value>
+            <value>
+                <fullName>Absa Flexi Account</fullName>
+                <default>false</default>
+                <label>Absa Flexi Account</label>
+            </value>
+            <value>
+                <fullName>Prestige Transact Account</fullName>
+                <default>false</default>
+                <label>Prestige Transact Account</label>
+            </value>
+            <value>
+                <fullName>Pamoja Bonus Savings account</fullName>
+                <default>false</default>
+                <label>Pamoja Bonus Savings account</label>
+            </value>
+            <value>
+                <fullName>Fixed Deposit Account</fullName>
+                <default>false</default>
+                <label>Fixed Deposit Account</label>
+            </value>
+            <value>
+                <fullName>Junior Eagle Account</fullName>
+                <default>false</default>
+                <label>Junior Eagle Account</label>
+            </value>
+            <value>
+                <fullName>Absa Loan</fullName>
+                <default>false</default>
+                <label>Absa Loan</label>
+            </value>
+            <value>
+                <fullName>Credit Life</fullName>
+                <default>false</default>
+                <label>Credit Life</label>
+            </value>
+            <value>
+                <fullName>Embedded Funeral</fullName>
+                <default>false</default>
+                <label>Embedded Funeral</label>
+            </value>
+            <value>
+                <fullName>Retrenchment Cover</fullName>
+                <default>false</default>
+                <label>Retrenchment Cover</label>
+            </value>
+            <value>
+                <fullName>Personal Loan</fullName>
+                <default>false</default>
+                <label>Personal Loan</label>
+            </value>
+            <value>
+                <fullName>Personal Direct Loan</fullName>
+                <default>false</default>
+                <label>Personal Direct Loan</label>
+            </value>
+            <value>
+                <fullName>Business Current Card Enquiry</fullName>
+                <default>false</default>
+                <label>Business Current Card Enquiry</label>
+            </value>
+            <value>
+                <fullName>NBC Individual Current Account</fullName>
+                <default>false</default>
+                <label>NBC Individual Current Account</label>
+            </value>
+            <value>
+                <fullName>NBC Direct Current Account</fullName>
+                <default>false</default>
+                <label>NBC Direct Current Account</label>
+            </value>
+            <value>
+                <fullName>NBC Kikundi Account</fullName>
+                <default>false</default>
+                <label>NBC Kikundi Account</label>
+            </value>
+            <value>
+                <fullName>Malengo Saving Account</fullName>
+                <default>false</default>
+                <label>Malengo Saving Account</label>
+            </value>
+            <value>
+                <fullName>Pure Save Account</fullName>
+                <default>false</default>
+                <label>Pure Save Account</label>
+            </value>
+            <value>
+                <fullName>Student Savings Account</fullName>
+                <default>false</default>
+                <label>Student Savings Account</label>
+            </value>
+            <value>
+                <fullName>Chanua Savings Account</fullName>
+                <default>false</default>
+                <label>Chanua Savings Account</label>
+            </value>
+            <value>
+                <fullName>Fixed Deposits Account</fullName>
+                <default>false</default>
+                <label>Fixed Deposits Account</label>
+            </value>
+            <value>
+                <fullName>NBC Group Loans</fullName>
+                <default>false</default>
+                <label>NBC Group Loans</label>
+            </value>
+            <value>
+                <fullName>NBC Cash Cover Facility</fullName>
+                <default>false</default>
+                <label>NBC Cash Cover Facility</label>
+            </value>
+            <value>
+                <fullName>NBC Pensioners Loan</fullName>
+                <default>false</default>
+                <label>NBC Pensioners Loan</label>
+            </value>
+            <value>
+                <fullName>NBC Home Purchase Loan</fullName>
+                <default>false</default>
+                <label>NBC Home Purchase Loan</label>
+            </value>
+            <value>
+                <fullName>NBC Refinancing Home Loan</fullName>
+                <default>false</default>
+                <label>NBC Refinancing Home Loan</label>
+            </value>
+            <value>
+                <fullName>NBC Equity Release</fullName>
+                <default>false</default>
+                <label>NBC Equity Release</label>
+            </value>
+            <value>
+                <fullName>Home Insurance</fullName>
+                <default>false</default>
+                <label>Home Insurance</label>
+            </value>
+            <value>
+                <fullName>Car Insurance</fullName>
+                <default>false</default>
+                <label>Car Insurance</label>
+            </value>
+            <value>
+                <fullName>Mortgage Protection Scheme</fullName>
+                <default>false</default>
+                <label>Mortgage Protection Scheme</label>
+            </value>
+            <value>
+                <fullName>Business Insurance</fullName>
+                <default>false</default>
+                <label>Business Insurance</label>
+            </value>
+            <value>
+                <fullName>Credit Life Insurance</fullName>
+                <default>false</default>
+                <label>Credit Life Insurance</label>
+            </value>
+            <value>
+                <fullName>NBC Funeral insurance for Ordinary Savings</fullName>
+                <default>false</default>
+                <label>NBC Funeral insurance for Ordinary Savings</label>
+            </value>
+            <value>
+                <fullName>NBC Takaful funeral insurance for Islamic Banking</fullName>
+                <default>false</default>
+                <label>NBC Takaful funeral insurance for Islamic Banking</label>
+            </value>
+            <value>
+                <fullName>Group accident &amp; funeral insurance for NBC Privilege</fullName>
+                <default>false</default>
+                <label>Group accident &amp; funeral insurance for NBC Privilege</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

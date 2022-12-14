@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Which  Insurance enquiry about? --></label>
+        <name>Which_Insurance_enquiry_about__c</name>
+        <picklistValues>
+            <masterLabel>Homeowners</masterLabel>
+            <translation><!-- Homeowners --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Household Contents</masterLabel>
+            <translation><!-- Household Contents --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Immediate Annuity</masterLabel>
+            <translation><!-- Immediate Annuity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kgomotso Funeral Plan</masterLabel>
+            <translation><!-- Kgomotso Funeral Plan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lorako Business Insurance</masterLabel>
+            <translation><!-- Lorako Business Insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Motor Comprehensive</masterLabel>
+            <translation><!-- Motor Comprehensive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Retrenchment Insurance</masterLabel>
+            <translation><!-- Retrenchment Insurance --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

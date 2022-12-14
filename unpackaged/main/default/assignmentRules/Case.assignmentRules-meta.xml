@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssignmentRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assignmentRule>
+        <fullName>Kenya</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <assignedTo>amuthan.m@absaaro.com</assignedTo>
+            <assignedToType>User</assignedToType>
+        </ruleEntry>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>case que</fullName>
+        <active>true</active>
+        <ruleEntry>
+            <assignedTo>Complaint_Handling_Unit</assignedTo>
+            <assignedToType>Queue</assignedToType>
+            <criteriaItems>
+                <field>Case.RecordTypeId</field>
+                <operation>equals</operation>
+                <value>Complaints</value>
+            </criteriaItems>
+            <criteriaItems>
+                <field>Case.Case_Type__c</field>
+                <operation>equals</operation>
+                <value>Complaints</value>
+            </criteriaItems>
+        </ruleEntry>
+    </assignmentRule>
+</AssignmentRules>

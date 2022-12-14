@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Intrest in which type of facility? --></label>
+        <name>Intrest_in_which_type_of_facility__c</name>
+        <picklistValues>
+            <masterLabel>Corporate Term Loan</masterLabel>
+            <translation><!-- Corporate Term Loan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Domestic Asset Finance</masterLabel>
+            <translation><!-- Domestic Asset Finance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Revolving Credit</masterLabel>
+            <translation><!-- Revolving Credit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Structured Finance</masterLabel>
+            <translation><!-- Structured Finance --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

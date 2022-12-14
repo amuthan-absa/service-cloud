@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Which Personal Account to apply for? --></label>
+        <name>Which_Personal_Account_to_apply_for__c</name>
+        <picklistValues>
+            <masterLabel>La Riba Absa Junior</masterLabel>
+            <translation><!-- La Riba Absa Junior --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>La Riba Asset Based Finance</masterLabel>
+            <translation><!-- La Riba Asset Based Finance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>La Riba Business Finance</masterLabel>
+            <translation><!-- La Riba Business Finance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>La Riba Construction Finance</masterLabel>
+            <translation><!-- La Riba Construction Finance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>La Riba Current Account</masterLabel>
+            <translation><!-- La Riba Current Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>La Riba Mortgage Finance</masterLabel>
+            <translation><!-- La Riba Mortgage Finance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>La Riba Premier Account</masterLabel>
+            <translation><!-- La Riba Premier Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>La Riba Prestige Account</masterLabel>
+            <translation><!-- La Riba Prestige Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mudhaarabah</masterLabel>
+            <translation><!-- Mudhaarabah --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Case_Type__c</fullName>
+    <externalId>false</externalId>
+    <label>Case Type</label>
+    <required>true</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Complaints</fullName>
+                <default>false</default>
+                <label>Complaints</label>
+            </value>
+            <value>
+                <fullName>Compliments</fullName>
+                <default>false</default>
+                <label>Compliments</label>
+            </value>
+            <value>
+                <fullName>Service Request</fullName>
+                <default>false</default>
+                <label>Service Request</label>
+            </value>
+            <value>
+                <fullName>Feedback</fullName>
+                <default>false</default>
+                <label>Feedback</label>
+            </value>
+            <value>
+                <fullName>Inquiry</fullName>
+                <default>false</default>
+                <label>Inquiry</label>
+            </value>
+            <value>
+                <fullName>Non-confidential fraud</fullName>
+                <default>false</default>
+                <label>Non-confidential fraud</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

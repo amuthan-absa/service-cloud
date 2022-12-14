@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Which_account_enquiry_about__c</fullName>
+    <externalId>false</externalId>
+    <label>Which account enquiry about?</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Bonus Savings Account</fullName>
+                <default>false</default>
+                <label>Bonus Savings Account</label>
+            </value>
+            <value>
+                <fullName>Instant Savings Account</fullName>
+                <default>false</default>
+                <label>Instant Savings Account</label>
+            </value>
+            <value>
+                <fullName>Target Save</fullName>
+                <default>false</default>
+                <label>Target Save</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
